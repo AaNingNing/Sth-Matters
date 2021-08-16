@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "c24a15a3ac8e40f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0e873e19deba51",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36883a0dd890aadc",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a88da1b223d6ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4879eced09a10136",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7569597966c86526",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "性感",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be93b815a191d52f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "667d5636990656b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b03dbeeae1a19d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "844e37cd2e641078",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "727ef7e1831ef234",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "active": "1c0e873e19deba51",
+  "lastOpenFiles": [
+    "Nell Nell/吸男品质.md",
+    "Nell Nell/初心.md",
+    "Nell Nell/何谓可爱.md",
+    "Nell Nell/今生之意.md",
+    "Nell Nell/丁克.md",
+    "John Hexa/性感.md",
+    "John Hexa/性.md",
+    "John Hexa/性感男人.md",
+    "John Hexa/性感罪.md",
+    "John Hexa/性道德.md"
+  ]
+}
