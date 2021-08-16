@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0e873e19deba51",
+        "id": "c2b4d06f0b88af8d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "“Drink me”.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "“Drink me”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +105,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "1c0e873e19deba51",
+  "active": "c2b4d06f0b88af8d",
   "lastOpenFiles": [
+    "“Drink me”.md",
+    "**Library.md",
     "Nell Nell/吸男品质.md",
     "Nell Nell/初心.md",
     "Nell Nell/何谓可爱.md",
@@ -110,8 +116,6 @@
     "Nell Nell/丁克.md",
     "John Hexa/性感.md",
     "John Hexa/性.md",
-    "John Hexa/性感男人.md",
-    "John Hexa/性感罪.md",
-    "John Hexa/性道德.md"
+    "John Hexa/性感男人.md"
   ]
 }

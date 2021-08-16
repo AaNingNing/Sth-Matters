@@ -3,5 +3,7 @@
   "spellcheck": true,
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "strictLineBreaks": false,
+  "readableLineLength": true
 }
