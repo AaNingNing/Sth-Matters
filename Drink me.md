@@ -1,4 +1,4 @@
-# “Drink me”
+# Drink me
 
 ---
 
