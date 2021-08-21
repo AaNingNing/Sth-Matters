@@ -2,7 +2,7 @@
 *如何看待央视体育暂停 NBA 赛事转播，排查涉及 NBA 的一切合作?*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[大国崛起]]
 Tags: #中国China #社科Social-Science 
 

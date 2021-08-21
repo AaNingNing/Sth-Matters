@@ -2,7 +2,7 @@
 *放弃使用「她」字是性别歧视，还是男女平等？* 
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[学好语文]]
 Tags:   #社科Social-Science #世界历史World-History #第一性Feminism 
 

@@ -3,7 +3,7 @@
 
 
 > Author: #JohnHexa
-Last update: *23/06/2021* by ANingNing
+Last update: *23/06/2021* 
 Links: [[美国方式]] [[塔利班]]
 Tags:   #社科Social-Science #世界历史World-History 
 

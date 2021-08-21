@@ -2,7 +2,7 @@
 *中日韩等 15 国正式签署区域全面经济伙伴关系协定（RCEP），会对亚太及全球经济产生哪些影响？*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[大国博弈]]
 Tags:  #社科Social-Science
 

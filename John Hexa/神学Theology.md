@@ -2,7 +2,7 @@
 *什么是神学（Theology）？*
 
 > Author:   #Anonymity 
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[天使]] [[上帝]]
 Tags: #神学Theology 
 

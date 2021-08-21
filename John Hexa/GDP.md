@@ -2,7 +2,7 @@
 *GDP为什么一定要增长?*
 
 > Author: #JohnHexa
-Last update: *23/06/2021* by ANingNing
+Last update: *23/06/2021* 
 Links: [[计划经济]] [[杀死美国经济]]
 Tags: #社科Social-Science #企业管理B-Management
 

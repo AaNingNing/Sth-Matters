@@ -2,7 +2,7 @@
 *什么叫做「时尚」？*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links:
 Tags:  #第一性Feminism #文化艺术Art #家族Clan #第一性Feminism
 

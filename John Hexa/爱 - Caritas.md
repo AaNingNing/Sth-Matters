@@ -2,7 +2,7 @@
 *"爱"到底是什么？*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[财富观]] [[祷告观]] [[恩]] [[致全体女性]] [[安全感]]  [[恋爱原理]] [[致读者 - 之一]] [[致读者 - 之二]] [[致读者 - 之三]] [[致读者 - 之四]] [[有用]]
 Tags: #爱Caritas #神学Theology #家族Clan #自然法Natural-Law #教育Education #亲密关系Intimate-Relationship  
 

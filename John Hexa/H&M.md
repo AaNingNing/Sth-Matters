@@ -2,7 +2,7 @@
 *如何看待 H&M 在「禁用新疆棉花」一事后，疑似遭淘宝等多个电商平台下架？*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[时尚品味]] [[时尚与fashion]]
 Tags:  #社科Social-Science
 

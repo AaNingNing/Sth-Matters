@@ -2,7 +2,7 @@
 *如何才能做出一碗美味的蛋羹？*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[核心能力]] [[功夫]] [[做计划]] [[拖拉机]]
 Tags: #人生管理Life-Management #家族Clan #企业管理B-Management  
 

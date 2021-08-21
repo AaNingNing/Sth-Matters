@@ -3,7 +3,7 @@
 
 
 > Author: #JohnHexa 
-Last update: *23/06/2021* by ANingNing
+Last update: *23/06/2021* 
 Links: [[制赌]] [[励志]] [[程序管理人类]]
 Tags:   #社科Social-Science #科学与技术ScienceAndTech  #人性与心理HumanityAndPsychology 
 

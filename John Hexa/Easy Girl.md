@@ -2,7 +2,7 @@
 *如何看待在有些国外论坛的老外眼里中国姑娘是Easy Girl、世界公交车?*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[女性公平]] [[致全体女性]] 
 Tags: #社科Social-Science #第一性Feminism #人性与心理HumanityAndPsychology 
 

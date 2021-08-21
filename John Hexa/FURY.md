@@ -2,7 +2,7 @@
 *一个人的狂怒能有多可怕？*
 
 > Author: #JohnHexa 
-Last update: *30/07/2021* by ANingNing
+Last update: *30/07/2021* 
 Links: [[怒的边界]] [[制怒]] [[戒色]] [[习惯成瘾]] 
 Tags: #社科Social-Science #人生管理Life-Management 
 

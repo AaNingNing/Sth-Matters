@@ -2,7 +2,7 @@
 *如何评价最近知乎女权男大v相继翻车？有何相似性，我们从中可以吸取什么经验教训?*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links:
 Tags: #社科Social-Science #第一性Feminism 
 

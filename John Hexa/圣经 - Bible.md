@@ -2,7 +2,7 @@
 *我想信奉上帝但不想信奉《圣经》可以吗？*
 
 > Author: #Anonymity 
-Last update: *26/07/2021* by ANingNing
+Last update: *26/07/2021* 
 Links:
 Tags: #神学Theology 
   

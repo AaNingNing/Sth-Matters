@@ -2,7 +2,7 @@
 *这次 iPhone 12 的销量会苹果是最低的吗?*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links: [[5G - 未来展望1]]
 Tags: #社科Social-Science 
 

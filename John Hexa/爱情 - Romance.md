@@ -2,8 +2,8 @@
 *为什么人类要将爱情捧的那么高呢？*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
-Links: [[恋爱原理]] [[缺爱症]] [[崇高爱情]] [[萌]] [[求之不得]]
+Last update: *23/07/2021* 
+Links: [[恋爱原理]] [[缺爱症]] [[崇高爱情]] [[John Hexa/萌]] [[求之不得]]
 Tags:  #家族Clan #第一性Feminism #亲密关系Intimate-Relationship #爱Caritas 
 
 

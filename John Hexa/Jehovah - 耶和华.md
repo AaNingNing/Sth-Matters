@@ -1,7 +1,7 @@
 # Jehovah - 耶和华
 *Jehovah（耶和华） 是一个错误翻译吗？*
 > Author: #Anonymity 
-Last update: *26/07/2021* by ANingNing
+Last update: *26/07/2021* 
 Links: [[上帝]] [[上帝 - 人格化]]
 Tags: #神学Theology #世界历史World-History #人性与心理HumanityAndPsychology/宗教心理学PsychologyOfReligion 
   

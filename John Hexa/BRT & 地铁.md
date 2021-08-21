@@ -2,7 +2,7 @@
 *BRT 和地铁相比有哪些优劣之处？* 
 
 > Author: #JohnHexa
-Last update: *23/06/2021* by ANingNing
+Last update: *23/06/2021* 
 Links: [[未来十年]] [[5G - 未来展望1]] [[5G - 未来展望2]]
 Tags:   #社科Social-Science #世界历史World-History  #科学与技术ScienceAndTech 
 

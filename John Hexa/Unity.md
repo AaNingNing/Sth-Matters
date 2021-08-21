@@ -2,7 +2,7 @@
 *在UE里的模型，在边缘处会有这种高亮，请问是咋实现的？在Unity里用什么方法可以实现？*
 
 > Author: #JohnHexa 
-Last update: *26/07/2021* by ANingNing
+Last update: *26/07/2021* 
 Links: [[高管写代码]]
 Tags: #社科Social-Science #科学与技术ScienceAndTech 
 

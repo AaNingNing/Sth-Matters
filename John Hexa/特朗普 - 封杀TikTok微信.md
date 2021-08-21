@@ -2,7 +2,7 @@
 *如何看待特朗普正式封杀 TikTok 和微信，这意味着什么�?*
 
 > Author: #JohnHexa
-Last update: *23/07/2021* by ANingNing
+Last update: *23/07/2021* 
 Links:
 Tags: #世界大局World-Trend 
 

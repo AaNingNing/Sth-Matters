@@ -2,7 +2,7 @@
 *OKR工具是否被夸大？*
 
 > Author: #JohnHexa
-Last update: *25/07/2021* by ANingNing
+Last update: *25/07/2021* 
 Links: [[SOP - 蒸蛋羹]]
 Tags: #家族Clan #企业管理B-Management 
   

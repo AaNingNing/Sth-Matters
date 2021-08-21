@@ -2,7 +2,7 @@
 *如何看待中国对加入 CPTPP 持积极开放态度？若加入将会给中国带来哪些影响?*
 
 > Author: #JohnHexa
-Last update: *23/06/2021* by ANingNing
+Last update: *23/06/2021* 
 Links: [[大国博弈]] [[权谋套娃]]
 Tags: #社科Social-Science #中国China #世界大局World-Trend 
 

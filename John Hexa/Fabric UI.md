@@ -2,7 +2,7 @@
 *如何评价微软React组件库Fabric Ui?*
 
 > Author: #JohnHexa
-Last update: *23/06/2021* by ANingNing
+Last update: *23/06/2021* 
 Links: [[高管写代码]] [[码农的屏幕]] 
 Tags: #科学与技术ScienceAndTech 
 
