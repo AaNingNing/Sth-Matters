@@ -7,11 +7,8 @@
         "id": "6d04396cecb23d4b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "*Drink me*.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "珍惜",
+                "query": "哪句话",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "*Drink me*.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +103,7 @@
   },
   "active": "6d04396cecb23d4b",
   "lastOpenFiles": [
+    "Nell Nell/哪句话支撑你度过许多煎熬时刻？.md",
     "*Drink me*.md",
     "待整理/如何理解尹建莉说延迟满足是鬼话，孩子要及时满足？.md",
     "待整理/如何看待拜登签署反歧视行政令，允许跨性别男孩参加学校女子体育比赛，共用换衣间、洗手间等系列举措？.md",
@@ -115,7 +112,6 @@
     "待整理/怎么理解耶稣复活的意义？.md",
     "待整理/共情和揣测的区别是什么？.md",
     "待整理/什么叫珍惜？.md",
-    "待整理/圣经可信吗？.md",
-    "待整理/一个人如何解脱后悔的情节？.md"
+    "待整理/圣经可信吗？.md"
   ]
 }
