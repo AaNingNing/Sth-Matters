@@ -1,7 +1,6 @@
 # Drink me
 
 ---
-
 ## 这是啥
 
 基于JH和Nell Nell的文章整理的知识网络，搭配笔记软件**Obsidian**，适合在主机端阅读。欢迎大家下载以供个人学习使用。 
@@ -32,11 +31,10 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 >
 
 
-
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：21/08/2021
+核对日期：28/08/2021
 
 ---
 ## 怎么用
@@ -67,12 +65,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #JohnHexa 
-Last update: *21/08/2021* 
+Last update: *28/08/2021* 
 Links:
 Tags: 
 
 > Author: #NellNell 
-Last update: *21/08/2021* 
+Last update: *28/08/2021* 
 Links:
 Tags: 
 
