@@ -3,15 +3,17 @@
 ---
 ## 这是啥
 
-基于JH和Nell Nell的文章整理的知识网络，搭配笔记软件**Obsidian**，适合在主机端阅读。欢迎大家下载以供个人学习使用。 
+基于JH和Nell Nell的文章整理的知识网络，搭配笔记软件**Obsidian**，支持在主机或移动端编辑/阅读。
+
+欢迎大家下载以供个人学习使用，我将尽可能保持每周末更新。
   
-收录迄今为止我能找到的，John Hexa的全部回答（如有遗漏烦请告知，不胜感激）与评论区精彩问答，尽可能保持每周末更新。
+收录迄今为止我能找到的，John Hexa的全部回答（如有遗漏烦请告知，不胜感激）与评论区精彩问答。
 
 Nell Nell的回答陆续整理添加中。
+感兴趣的同学还可以移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
+或关注Nell Nell的微信公众号**影子大地shadowlands**
 
- - 因知乎版权限制禁止转载，Nell Nell的部分回答暂时无法收录在此。感兴趣的同学请移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
- - 或关注Nell Nell的微信公众号**影子大地shadowlands**
-  
+
 所有收录文章都规范了格式，保留了原问题方便在知乎搜索，给无标题文章取了简单标题（如果作者更新标题，我这里会同步更新，方便大家查找对应）。  
 
 学习的过程需要我们对知识一而再再而三地咀嚼，不断地从中吸取营养内化成为自己的血肉。所以大家下载后可以以这份笔记为粗胚进行打磨，个性化添加/修改，从而快速地建立属于自己的学习体系。  
@@ -34,7 +36,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：28/08/2021
+核对日期：04/09/2021
 
 ---
 ## 怎么用
@@ -65,12 +67,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #JohnHexa 
-Last update: *28/08/2021* 
+Last update: *04/09/2021* 
 Links:
 Tags: 
 
 > Author: #NellNell 
-Last update: *28/08/2021* 
+Last update: *04/09/2021* 
 Links:
 Tags: 
 
@@ -135,6 +137,7 @@ Tags:
 
 #科学与技术ScienceAndTech
 #科学与技术ScienceAndTech/未来科技Future-tech
+#科学与技术ScienceAndTech/古代发明Historical-Invention 
 #科学与技术ScienceAndTech/数学Math 
 #科学与技术ScienceAndTech/物理学Physics 
 #科学与技术ScienceAndTech/化学Chemistry 
@@ -153,7 +156,7 @@ Tags:
 #世界大局World-Trend
 #世界历史World-History
 #军事技术与艺术MilitaryTechAndArt
-#军事技术与艺术MilitaryTechAndArt/冷兵器Melee-Weapon 
+
 
 
 ---

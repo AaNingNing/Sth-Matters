@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6fa5c17042377205",
+        "id": "7dc1c832806ea683",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nell Nell/神之爱.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "不破灭",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.0107650756836
+    "width": 231.0107650756836
   },
   "right": {
     "id": "667d5636990656b4",
@@ -73,13 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nell Nell/神之爱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,24 +98,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.45582580566406
+    "width": 292.4558410644531,
+    "collapsed": true
   },
-  "active": "6fa5c17042377205",
+  "active": "7dc1c832806ea683",
   "lastOpenFiles": [
-    "摘抄/摘抄 - 亲密关系.md",
-    "摘抄/摘抄 - 励志金句.md",
-    "摘抄/摘抄 - 人生管理.md",
+    "神之爱.md",
     "*Drink me*.md",
-    "Nell Nell/致读者.md",
-    "John Hexa/汉字基准字体.md",
-    "John Hexa/私有版权.md",
-    "John Hexa/美国方式.md",
-    "John Hexa/套皮.md",
-    "Nell Nell/创作动力.md"
+    "请问当说\"神爱世人\"时，这时爱的定义是什么？神为什么要爱世人？.md",
+    "Untitled.md",
+    "Nell Nell/不幼稚.md",
+    "www.zhihu.com/people/b4bb86afb7ef2a7f2578b5a6e38906f9.md",
+    "John Hexa/原生家庭.md",
+    "智能终端.md",
+    "英雄.md",
+    "仇中.md"
   ]
 }
