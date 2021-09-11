@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc1c832806ea683",
+        "id": "9d9a1573196cbfdc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Nell Nell/神之爱.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "不破灭",
+                "query": "tag:#科学与技术ScienceAndTech",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -60,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.0107650756836
+    "width": 234.50868225097656
   },
   "right": {
     "id": "667d5636990656b4",
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nell Nell/神之爱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +94,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 292.4558410644531,
-    "collapsed": true
+    "width": 292.4558410644531
   },
-  "active": "7dc1c832806ea683",
+  "active": "9d9a1573196cbfdc",
   "lastOpenFiles": [
-    "神之爱.md",
-    "*Drink me*.md",
-    "请问当说\"神爱世人\"时，这时爱的定义是什么？神为什么要爱世人？.md",
-    "Untitled.md",
-    "Nell Nell/不幼稚.md",
-    "www.zhihu.com/people/b4bb86afb7ef2a7f2578b5a6e38906f9.md",
-    "John Hexa/原生家庭.md",
-    "智能终端.md",
-    "英雄.md",
-    "仇中.md"
+    "世故.md",
+    "待整理/SOP - 企业制度.jpeg",
+    "John Hexa/进化心理学.md",
+    "沙海拾金/进化心理学.JPEG",
+    "待整理/进化心理学.jpeg",
+    "待整理/膝盖的目的.jpeg",
+    "Nell Nell/上帝 - 试探.md",
+    "Nell Nell/圣经 - 神迹.md",
+    "John Hexa/神迹.md",
+    "反恐.md"
   ]
 }

@@ -7,12 +7,10 @@
 
 欢迎大家下载以供个人学习使用，我将尽可能保持每周末更新。
   
-收录迄今为止我能找到的，John Hexa的全部回答（如有遗漏烦请告知，不胜感激）与评论区精彩问答。
+收录迄今为止我能找到的，John Hexa的全部回答（如有遗漏烦请告知，不胜感激），Nell Nell的回答陆续整理添加中。并收录部分评论区精彩问答。
 
-Nell Nell的回答陆续整理添加中。
-感兴趣的同学还可以移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
-或关注Nell Nell的微信公众号**影子大地shadowlands**
-
+- 感兴趣的同学还可以移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
+- 或关注Nell Nell的微信公众号**影子大地shadowlands**
 
 所有收录文章都规范了格式，保留了原问题方便在知乎搜索，给无标题文章取了简单标题（如果作者更新标题，我这里会同步更新，方便大家查找对应）。  
 
@@ -36,7 +34,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：04/09/2021
+核对日期：11/09/2021
 
 ---
 ## 怎么用
@@ -67,12 +65,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #JohnHexa 
-Last update: *04/09/2021* 
+Last update: *11/09/2021* 
 Links:
 Tags: 
 
 > Author: #NellNell 
-Last update: *04/09/2021* 
+Last update: *11/09/2021* 
 Links:
 Tags: 
 
