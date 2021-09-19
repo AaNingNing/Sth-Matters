@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9a1573196cbfdc",
+        "id": "0392a2034c767c29",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Drink me.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#科学与技术ScienceAndTech",
+                "query": "烟雨行舟",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -53,11 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.50868225097656
+    "width": 183.00868225097656
   },
   "right": {
     "id": "667d5636990656b4",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drink me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.4558410644531
+    "width": 292.4558410644531,
+    "collapsed": true
   },
-  "active": "9d9a1573196cbfdc",
+  "active": "0392a2034c767c29",
   "lastOpenFiles": [
-    "世故.md",
-    "待整理/SOP - 企业制度.jpeg",
-    "John Hexa/进化心理学.md",
-    "沙海拾金/进化心理学.JPEG",
-    "待整理/进化心理学.jpeg",
-    "待整理/膝盖的目的.jpeg",
-    "Nell Nell/上帝 - 试探.md",
-    "Nell Nell/圣经 - 神迹.md",
-    "John Hexa/神迹.md",
-    "反恐.md"
+    "Drink me.md",
+    "自律真的会获得自由吗？.md",
+    "Nell Nell/英雄 1.md",
+    "John Hexa/第一关.md",
+    "John Hexa/认错.md",
+    "John Hexa/钱.md",
+    "John Hexa/是非界定.md",
+    "John Hexa/感谢的必要.md",
+    "John Hexa/底层出身.md",
+    "John Hexa/休息.md"
   ]
 }
