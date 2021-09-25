@@ -7,11 +7,8 @@
         "id": "1518d78493514c53",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Drink me.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "打磨",
+                "query": "垄断",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drink me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +104,15 @@
   },
   "active": "1518d78493514c53",
   "lastOpenFiles": [
+    "John Hexa/垄断的诅咒.md",
+    "议政者不干政.jpg",
+    "降服垄断.PNG",
+    "Nell Nell/致读者.md",
+    "John Hexa/公共博弈.md",
+    "John Hexa/键政.md",
     "Drink me.md",
     "皆有其时.md",
     "穿越幽谷.md",
-    "热烈.md",
-    "战斗民族.md",
-    "核潜艇.md",
-    "键政.md",
-    "John Hexa/键政.md",
-    "木秀于林.md",
-    "世俗.md"
+    "热烈.md"
   ]
 }
