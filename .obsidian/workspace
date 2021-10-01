@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1518d78493514c53",
+        "id": "40e437ec8299b2b3",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "垄断",
+                "query": "天使",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.00868225097656
+    "width": 255
   },
   "right": {
     "id": "667d5636990656b4",
@@ -94,25 +94,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 292.4558410644531,
     "collapsed": true
   },
-  "active": "1518d78493514c53",
+  "active": "40e437ec8299b2b3",
   "lastOpenFiles": [
-    "John Hexa/垄断的诅咒.md",
-    "议政者不干政.jpg",
-    "降服垄断.PNG",
-    "Nell Nell/致读者.md",
-    "John Hexa/公共博弈.md",
-    "John Hexa/键政.md",
-    "Drink me.md",
-    "皆有其时.md",
-    "穿越幽谷.md",
-    "热烈.md"
+    "摘抄/摘抄 - 人生管理.md",
+    "摘抄/摘抄 - 励志金句.md",
+    "摘抄/摘抄 - 亲密关系.md",
+    "摘抄/摘抄 - 绝妙比喻.md",
+    "John Hexa/崇拜与自恋.md",
+    "沙海拾金/人类共性2.md",
+    "沙海拾金/人类共性3.jpg",
+    "沙海拾金/人类共性1.JPEG",
+    "沙海拾金/人类共性.JPEG",
+    "沙海拾金/傲慢的界限.PNG"
   ]
 }
