@@ -7,8 +7,11 @@
         "id": "40e437ec8299b2b3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "John Hexa/无恩无仇.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "天使",
+                "query": "不花父母的",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "John Hexa/无恩无仇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,15 +108,15 @@
   },
   "active": "40e437ec8299b2b3",
   "lastOpenFiles": [
-    "摘抄/摘抄 - 人生管理.md",
-    "摘抄/摘抄 - 励志金句.md",
-    "摘抄/摘抄 - 亲密关系.md",
-    "摘抄/摘抄 - 绝妙比喻.md",
-    "John Hexa/崇拜与自恋.md",
-    "沙海拾金/人类共性2.md",
-    "沙海拾金/人类共性3.jpg",
-    "沙海拾金/人类共性1.JPEG",
-    "沙海拾金/人类共性.JPEG",
-    "沙海拾金/傲慢的界限.PNG"
+    "无恩无仇.md",
+    "Drink me.md",
+    "John Hexa/是非界定.md",
+    "John Hexa/煤电核电绿电.md",
+    "John Hexa/看得见爱的眼睛.md",
+    "John Hexa/长枪.md",
+    "John Hexa/液体中呼吸.md",
+    "John Hexa/思考非直觉.md",
+    "Untitled.md",
+    "John Hexa/插队.md"
   ]
 }
