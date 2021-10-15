@@ -118,7 +118,7 @@
     {
       "type": "file",
       "title": "奢侈品 - 之二",
-      "path": "John Hexa/奢侈品 - 之二.md"
+      "path": "John Hexa/奢侈品.md"
     },
     {
       "type": "file",
@@ -513,7 +513,7 @@
     {
       "type": "file",
       "title": "奢侈品 - 之一",
-      "path": "John Hexa/奢侈品 - 之一.md"
+      "path": "John Hexa/奢侈品消费.md"
     },
     {
       "type": "file",
@@ -1149,6 +1149,31 @@
       "type": "file",
       "title": "读书与行路",
       "path": "John Hexa/读书与行路.md"
+    },
+    {
+      "type": "file",
+      "title": "反浪辩",
+      "path": "John Hexa/反浪辩.md"
+    },
+    {
+      "type": "file",
+      "title": "自证清白",
+      "path": "John Hexa/自证清白.md"
+    },
+    {
+      "type": "file",
+      "title": "反压力",
+      "path": "John Hexa/反压力.md"
+    },
+    {
+      "type": "file",
+      "title": "末日",
+      "path": "John Hexa/末日.md"
+    },
+    {
+      "type": "file",
+      "title": "大道理",
+      "path": "John Hexa/大道理.md"
     }
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40e437ec8299b2b3",
+        "id": "faba5a5955bad751",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "John Hexa/无恩无仇.md",
+            "file": "John Hexa/简明格言.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "不花父母的",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John Hexa/无恩无仇.md",
+                "file": "John Hexa/简明格言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.4558410644531,
-    "collapsed": true
+    "width": 292.4558410644531
   },
-  "active": "40e437ec8299b2b3",
+  "active": "faba5a5955bad751",
   "lastOpenFiles": [
-    "无恩无仇.md",
+    "John Hexa/简明格言.md",
+    "进入10 月，我国大部分地区都迎来了较大幅度的降温，为什么要春捂秋冻？是否有科学依据？.md",
     "Drink me.md",
-    "John Hexa/是非界定.md",
-    "John Hexa/煤电核电绿电.md",
-    "John Hexa/看得见爱的眼睛.md",
-    "John Hexa/长枪.md",
-    "John Hexa/液体中呼吸.md",
-    "John Hexa/思考非直觉.md",
     "Untitled.md",
-    "John Hexa/插队.md"
+    "如何看目前大学生快餐般的恋爱？.md",
+    "John Hexa/肇因与动因.md",
+    "John Hexa/“我”亦非我.md",
+    "Nell Nell/圣经 - 谎言.md",
+    "摘抄/摘抄 - 亲密关系.md",
+    "摘抄/摘抄 - 人生管理.md"
   ]
 }
