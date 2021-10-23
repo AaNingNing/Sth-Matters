@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "John Hexa/简明格言.md",
+            "file": "Drink me.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "你愿意吗",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John Hexa/简明格言.md",
+                "file": "Drink me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.4558410644531
+    "width": 292.4558410644531,
+    "collapsed": true
   },
   "active": "faba5a5955bad751",
   "lastOpenFiles": [
-    "John Hexa/简明格言.md",
-    "进入10 月，我国大部分地区都迎来了较大幅度的降温，为什么要春捂秋冻？是否有科学依据？.md",
     "Drink me.md",
-    "Untitled.md",
-    "如何看目前大学生快餐般的恋爱？.md",
-    "John Hexa/肇因与动因.md",
-    "John Hexa/“我”亦非我.md",
-    "Nell Nell/圣经 - 谎言.md",
-    "摘抄/摘抄 - 亲密关系.md",
-    "摘抄/摘抄 - 人生管理.md"
+    "John Hexa/日本沉没.md",
+    "John Hexa/Yemen.md",
+    "John Hexa/爱心饭.md",
+    "John Hexa/公平因果.md",
+    "John Hexa/Another Way.md",
+    "John Hexa/快餐式 1.md",
+    "John Hexa/溢美之词.md",
+    "John Hexa/毒圈.md",
+    "John Hexa/成功秘诀.md"
   ]
 }
