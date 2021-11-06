@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3fcfa28e6b0a846b",
+        "id": "69b63af081748692",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "John Hexa/爱国爱党.md",
-            "mode": "source"
+            "file": "沙海拾金/“宏大叙事”.PNG"
           }
         }
       }
@@ -39,10 +38,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "离开知乎",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -56,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John Hexa/爱国爱党.md",
+                "file": "沙海拾金/“宏大叙事”.PNG",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +105,17 @@
     "width": 292.4558410644531,
     "collapsed": true
   },
-  "active": "3fcfa28e6b0a846b",
+  "active": "69b63af081748692",
   "lastOpenFiles": [
-    "John Hexa/爱国爱党.md",
-    "沙海拾金/爱国爱党.jpeg",
+    "沙海拾金/“宏大叙事”.PNG",
+    "沙海拾金/拒绝侮辱.PNG",
+    "John Hexa/致读者 - 之五.md",
+    "John Hexa/MMA.md",
+    "Nell Nell/为何对你好.md",
+    "Nell Nell/丧的本质.md",
+    "沙海拾金/凡事盼望.PNG",
     "Drink me.md",
-    "Nell Nell/企业家精神.md",
-    "John Hexa/高贵的敌人.md",
-    "John Hexa/跟对人.md",
-    "John Hexa/壁厚.md",
-    "John Hexa/稻草.md",
-    "John Hexa/多加小心.md",
-    "John Hexa/循序渐进.md"
+    "John Hexa/拿身体换.md",
+    "John Hexa/闲聊 1.md"
   ]
 }

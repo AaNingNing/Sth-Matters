@@ -3,7 +3,7 @@
 
 > Author:   #Anonymity 
 Last update: *23/07/2021* 
-Links: [[上帝]] [[天使]] [[天生坏人]] [[地狱这东西]] [[下地狱]] [[对抗抑郁]] [[战胜抑郁]] [[John Hexa/活死人]] [[活死人2]] [[宗教的意义]] [[宗教不灭]]
+Links: [[上帝]] [[天使]] [[天生坏人]] [[地狱这东西]] [[下地狱]] [[对抗抑郁]] [[John Hexa/战胜抑郁]] [[John Hexa/活死人]] [[活死人2]] [[宗教的意义]] [[宗教不灭]]
 Tags: #神学Theology #一法通万法通SthOfEverything #人生管理Life-Management 
 沙海拾金：[[Sin.jpg]]
 
