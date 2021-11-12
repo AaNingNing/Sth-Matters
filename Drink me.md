@@ -34,7 +34,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：06/11/2021
+核对日期：13/11/2021
 
 ---
 ## 怎么用
@@ -43,14 +43,14 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 
 方法一：GitHub - Sth Matters，点击Code - Download ZIP，下载后解压缩得到文件夹一个
 
-方法二：对需要追更的小伙伴，建议阅读一下链接内教程，学习使用Github的克隆功能来进行文档同步。
+方法二：需要追更的小伙伴建议阅读一下链接内教程，学习使用Github的克隆功能来进行文档同步。
 https://zhuanlan.zhihu.com/p/380200295
 
 >2. 自行搜索并下载Obsidian，打开后点击Setting进行基础设置：
 > - Editor： Spell check
 > - Core Plugins：Tag Pane, Page Preview, Starred
 > - Files & Links：Automatically update internal links
-> - Appearance: Theme - 建议Cybertron
+> - Appearance: Theme - 建议Night Owl或者Cybertron
 > - 其他设置请依个人喜好酌情处理
 
 >3. Obsidian - Open folder as Vault 选择解压后的文件夹，现在你看到的就是笔记内容了。
@@ -65,12 +65,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #JohnHexa 
-Last update: *06/11/2021* 
+Last update: *13/11/2021* 
 Links: 
 Tags: 
 
 > Author: #NellNell 
-Last update: *06/11/2021* 
+Last update: *13/11/2021* 
 Links: 
 Tags: 
 
@@ -165,6 +165,7 @@ Tags:
 #中国China
 #中国China/历史History 
 #新冠Covid-19
+#必备技能Core-skills 
 #一法通万法通SthOfEverything 
 #好物推荐ChefZRecomm 
 #未完待续TBC 

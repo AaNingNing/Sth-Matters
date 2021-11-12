@@ -3,7 +3,7 @@
 
 > Author: #Anonymity 
 Last update: *26/07/2021* 
-Links:
+Links: [[圣经 - 解经]] [[《圣经》vs. 历史]] [[圣经 - 神的样子]]
 Tags: #神学Theology 
   
 
