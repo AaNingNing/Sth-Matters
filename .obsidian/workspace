@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b350f58e0b0cdfc3",
+        "id": "402016dc9c5c0b00",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "John Hexa/钉钉.md",
-            "mode": "source"
+            "file": "沙海拾金/人救人.jpg"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "科技的上",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John Hexa/钉钉.md",
+                "file": "沙海拾金/人救人.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -104,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.4558410644531,
-    "collapsed": true
+    "width": 249.5
   },
-  "active": "b350f58e0b0cdfc3",
+  "active": "402016dc9c5c0b00",
   "lastOpenFiles": [
-    "John Hexa/钉钉.md",
-    "John Hexa/猫山王.md",
-    "John Hexa/弹道学.md",
-    "John Hexa/快餐式.md",
-    "John Hexa/元宇宙.md",
-    "Drink me.md",
-    "摘抄本/生词本.md",
-    "John Hexa/诚实.md",
-    "John Hexa/性侵危机.md",
-    "John Hexa/科技上限.md"
+    "沙海拾金/人救人.jpg",
+    "沙海拾金/现实主义作品.jpg",
+    "沙海拾金/人生态度.png",
+    "John Hexa/北极夏令营.md",
+    "Nell Nell/Personal Statement.md",
+    "John Hexa/Sin.md",
+    "原罪.jpg",
+    "IMG_3347.png",
+    "沙海拾金/北极夏令营.jpg",
+    "沙海拾金/写多还是写好.png"
   ]
 }

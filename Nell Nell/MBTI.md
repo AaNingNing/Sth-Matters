@@ -4,7 +4,7 @@
 > Author: #NellNell 
 Last update: *28/08/2021* 
 Links: [[可信标准]] [[可信]] [[真正可信]] [[自我怀疑]] [[世界史]]
-Tags: #人性与心理HumanityAndPsychology #社科Social-Science 
+Tags:  #社会科学Social-Science 
   
 
 intp、intj、infp、infj……

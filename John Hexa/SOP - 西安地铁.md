@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *08/09/2021* 
 Links: [[SOP - 蒸蛋羹]] [[做计划]] [[拖拉机]] [[西安地铁事件]]
-Tags:  #社科Social-Science #人生管理Life-Management 
+Tags:  #社会科学Social-Science #人生管理SOP 
 沙海拾金：[[SOP - 企业制度.jpeg]]
   
 这件事的主要启示有两条：

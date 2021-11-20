@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *25/09/2021* 
 Links: [[贵族气质]] [[绅士风度]] [[有修养]] [[条理]] [[逻辑思维]] [[学好语文]] [[“纪实”]] [[人设指南]] [[时尚品味]] [[名媛]] [[雅俗共赏]] [[三合一]]
-Tags: #社科Social-Science  
+Tags: #社会科学Social-Science  
 
 
 

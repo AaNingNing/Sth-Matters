@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *27/06/2021* 
 Links: [[外星文明]]
-Tags: #科学与技术ScienceAndTech #人性与心理HumanityAndPsychology/宗教心理学PsychologyOfReligion #家族Clan 
+Tags:  /宗教心理学PsychologyOfReligion #家族Clan 
 
 
 

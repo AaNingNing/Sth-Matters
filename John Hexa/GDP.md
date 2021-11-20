@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/06/2021* 
 Links: [[苏联 - 计划经济]] [[杀死美国经济]]
-Tags: #社科Social-Science #企业管理B-Management
+Tags: #社会科学Social-Science #企业管理B-Management
 
  
 GDP增长最根本的原因，在于如果没有足够规模的战争、饥荒、瘟疫等事件破坏世界经济秩序的有效性的话，所有的国家都会有生产力上的改进。

@@ -1007,11 +1007,6 @@
     },
     {
       "type": "file",
-      "title": "Circle-Of-Shame",
-      "path": "John Hexa/Circle-Of-Shame.md"
-    },
-    {
-      "type": "file",
       "title": "侠",
       "path": "John Hexa/侠.md"
     },
@@ -1244,6 +1239,11 @@
       "type": "file",
       "title": "诚实",
       "path": "John Hexa/诚实.md"
+    },
+    {
+      "type": "file",
+      "title": "人间失格",
+      "path": "John Hexa/人间失格.md"
     }
   ]
 }

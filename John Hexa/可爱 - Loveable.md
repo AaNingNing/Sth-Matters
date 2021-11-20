@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *17/07/2021* 
 Links: [[何谓可爱]] [[隐晦示爱]] [[求之不得]] [[恋爱原理]] [[星星]] [[John Hexa/爱情 - Romance]] [[爱无筹码]]
-Tags: #爱Caritas 
+Tags:  
 沙海拾金：[[可爱的好处]]
 
 什么叫可爱（lovable）？

@@ -5,7 +5,7 @@
 > Author: #NellNell 
 Last update: *28/08/2021* 
 Links: [[个人陈述]] [[见世面]] [[北极夏令营]] [[世界史]] [[价值观]] [[艺哲废人]] [[学习哲学 - 之一]] [[面试]]
-Tags: #人生管理Life-Management #一法通万法通SthOfEverything 
+Tags: #人生管理SOP 
 
   
 

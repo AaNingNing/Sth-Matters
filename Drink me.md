@@ -34,7 +34,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：13/11/2021
+核对日期：20/11/2021
 
 ---
 ## 怎么用
@@ -65,12 +65,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #JohnHexa 
-Last update: *13/11/2021* 
+Last update: *20/11/2021* 
 Links: 
 Tags: 
 
 > Author: #NellNell 
-Last update: *13/11/2021* 
+Last update: *20/11/2021* 
 Links: 
 Tags: 
 
@@ -81,24 +81,23 @@ Tags:
 
 ---
 ### Main Class
+#人生管理SOP
+*方法论——关于人生的Standard Operating Procedure*
 
-#爱Caritas
-*——无虑性别，无虑种族，无虑阶级，无虑意识形态。*
+#家族Clan 
+*面向未来的家族体系构建*
 
-*不自夸，不膨胀，无野心，不思恶。甘愿受苦，信奉真理，凡事授信，永不绝望。*
+#企业管理B-Management
+*精英们的世界*
 
-*爱永不止息。*
-
-
-#自然法Natural-Law 
-
+#亲密关系Intimate-Relationship
+*爱的实践课*
 
 #神学Theology  
-*——一扇门*
-
+*一扇门*
 
 #第一性Feminism 
-*——要追求女性的权利，既不能指望依靠反女权者的让步，也不能靠某种同盟的代为争取。在最终意义上，也不能靠着生育优势和性优势交换。*
+*要追求女性的权利，既不能指望依靠反女权者的让步，也不能靠某种同盟的代为争取。在最终意义上，也不能靠着生育优势和性优势交换。*
 
 *唯一的正道，是你们要努力成为领袖，撑起自己的“王国”。你的王国有爱有义，所以从不缺子民与盟友，不但独立自给，而且有强大的出产能力。*
 
@@ -109,64 +108,27 @@ Tags:
 
 *未来是属于你们的，祝你们好运。*
 
+#社会科学Social-Science 
+（人类学，考古学，人文地理学，经济学，政治学，心理学，社会学）
 
-#家族Clan 
-*——面向未来的家族体系构建*
+#自然科学Natural-Science 
+（物理学， 化学，生物学，地球科学，太空科学）
 
+#应用科学Applied-Science
+（工程学，医学，健康科学，建筑学）
 
-#教育Education
-
-#企业管理B-Management
-
-#人生管理Life-Management
-
-#厨艺Culinary-Art
-
-#亲密关系Intimate-Relationship
-
-#社科Social-Science 
-
----
-
-#人性与心理HumanityAndPsychology
-#人性与心理HumanityAndPsychology/宗教心理学PsychologyOfReligion 
-
----
-
-#科学与技术ScienceAndTech
-#科学与技术ScienceAndTech/未来科技Future-tech
-#科学与技术ScienceAndTech/古代发明Historical-Invention 
-#科学与技术ScienceAndTech/数学Math 
-#科学与技术ScienceAndTech/物理学Physics 
-#科学与技术ScienceAndTech/化学Chemistry 
-#科学与技术ScienceAndTech/建筑学Architecture 
-#科学与技术ScienceAndTech/医学Medical-Science 
-#科学与技术ScienceAndTech/自然科学Natural-Science 
-
----
+#军事MilitaryTechAndArt
+*军事技术与艺术*
 
 #文化艺术Art
-#文化艺术Art/影视Movie 
-#文化艺术Art/文学Literal-Art 
-
----
-
-#世界大局World-Trend
-#世界历史World-History
-#军事技术与艺术MilitaryTechAndArt
-
-
+>#文化艺术Art/影视Film
+>#文化艺术Art/文学Literature 
+>#文化艺术Art/文物Artifacts 
 
 ---
 ### Sub-class 
-
 [其它常用tags方便查找相关话题]
 
-#中国China
-#中国China/历史History 
-#新冠Covid-19
-#必备技能Core-skills 
-#一法通万法通SthOfEverything 
 #好物推荐ChefZRecomm 
 #未完待续TBC 
 

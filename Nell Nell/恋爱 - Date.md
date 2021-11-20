@@ -4,7 +4,7 @@
 > Author: #NellNell 
 Last update: *25/08/2021* 
 Links: [[John Hexa/爱情 - Romance]] [[恋爱原理]] [[爱与自由]] [[爱你，与你无关]] [[追爱]] [[优秀与被爱]]
-Tags: #亲密关系Intimate-Relationship #爱Caritas 
+Tags: #亲密关系Intimate-Relationship  
 
 用英文理解比较准确。
 

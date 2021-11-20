@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *06/10/2021* 
 Links: [[996]] [[解决996]] [[摆脱996]] [[持重]] [[内卷]] [[几代人的努力]] [[资本家1]] [[仇穷与仇富]] [[北极夏令营]] [[生而贫穷]] [[摆脱贫穷]] [[谁的问题]] [[环境问题]] [[全球化与失业]] [[智能失业]] [[农村的未来]] [[不抱怨]] [[态度最重要]]
-Tags: #社科Social-Science #企业管理B-Management #人生管理Life-Management 
+Tags: #社会科学Social-Science #企业管理B-Management #人生管理SOP 
   
 这个方案不好，替代方案是什么？
 

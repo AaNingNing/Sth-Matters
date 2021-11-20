@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/06/2021* 
 Links: [[未来十年]] [[5G - 未来展望1]] [[5G - 未来展望2]]
-Tags:   #社科Social-Science #世界历史World-History  #科学与技术ScienceAndTech 
+Tags:   #社会科学Social-Science    
 
 
 

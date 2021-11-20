@@ -3,8 +3,8 @@
 
 > Author: #JohnHexa 
 Last update: *30/09/2021* 
-Links: [[傲慢]] [[傲慢之路]] [[气泡膜]] [[躺平]] [[戒阴阳怪气]]
-Tags: #人生管理Life-Management #社科Social-Science #教育Education #一法通万法通SthOfEverything 
+Links: [[信源管理]] [[年轻并不好]] [[傲慢]] [[傲慢之路]] [[气泡膜]] [[躺平]] [[戒阴阳怪气]] [[Circle-Of-Shame]] [[小丑]]
+Tags: #人生管理SOP #社会科学Social-Science  
 沙海拾金：[[注目事实.PNG]] [[事实判断.JPG]] [[人妄言轻1.png]] [[人妄言轻2.png]] [[人妄言轻3]]
 
 这答案其实和立场没关系。

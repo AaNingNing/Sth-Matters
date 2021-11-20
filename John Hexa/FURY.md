@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *30/07/2021* 
 Links: [[怒的边界]] [[John Hexa/制怒]] [[戒色]] [[习惯成瘾]] 
-Tags: #社科Social-Science #人生管理Life-Management 
+Tags: #社会科学Social-Science #人生管理SOP 
 
 
 匹夫之怒，血溅五步；

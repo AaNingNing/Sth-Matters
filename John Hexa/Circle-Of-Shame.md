@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *18/09/2021* 
 Links: [[小丑]] [[胆小莫入]] [[平庸]] [[躺平]] [[气泡膜]] [[冷血]] [[以弱悯强]] [[自卑]] [[爱得痛苦]] [[血滴子]] [[幼稚女生]] [[John Hexa/缺爱]] [[缺爱症]] [[Nell Nell/缺爱]] [[缺爱者的自救]] [[无爱信仰]]
-Tags: #一法通万法通SthOfEverything #人生管理Life-Management #教育Education 
+Tags: #人生管理SOP   
 
 
 这些人……咋说呢，脑袋里面有一个铁一般的信仰——

@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/06/2021* 
 Links: [[高管写代码]] [[码农的屏幕]] 
-Tags: #科学与技术ScienceAndTech 
+Tags:  
 
  
 资源太少。

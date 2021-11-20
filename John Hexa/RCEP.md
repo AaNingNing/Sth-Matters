@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/07/2021* 
 Links: [[大国博弈]]
-Tags:  #社科Social-Science
+Tags:  #社会科学Social-Science
 
 
 

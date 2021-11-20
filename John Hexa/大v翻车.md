@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/07/2021* 
 Links:
-Tags: #社科Social-Science #第一性Feminism 
+Tags: #社会科学Social-Science #第一性Feminism 
 
  
 别折腾了，有一个算一个，人都是有罪之人。

@@ -4,7 +4,7 @@
 > Author: #JohnHexa 
 Last update: *26/07/2021* 
 Links: [[高管写代码]]
-Tags: #社科Social-Science #科学与技术ScienceAndTech 
+Tags: #社会科学Social-Science  
 
 这个一般用的是程序烘培出来的一种bump map或者normal map。
 

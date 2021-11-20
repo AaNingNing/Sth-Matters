@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/07/2021* 
 Links:
-Tags: #世界大局World-Trend 
+Tags:  
 
  
 这不是美国的“国家紧急状态”，而是“特朗普紧急状态”。

@@ -3,7 +3,7 @@
 > Author: #Anonymity 
 Last update: *26/07/2021* 
 Links: [[上帝]] [[上帝 - 人格化]]
-Tags: #神学Theology #世界历史World-History #人性与心理HumanityAndPsychology/宗教心理学PsychologyOfReligion 
+Tags: #神学Theology  /宗教心理学PsychologyOfReligion 
   
 
 亚伯拉罕诸教有很多非常值得人注意的领悟，堪称它们神学王冠上的宝石。

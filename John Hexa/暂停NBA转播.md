@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/07/2021* 
 Links: [[大国崛起]]
-Tags: #中国China #社科Social-Science 
+Tags:  #社会科学Social-Science 
 
  
 问题的重点并不在nba身上，而在“充分发挥中国自己的实力，获得舆论影响力”上。

@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/06/2021* 
 Links: [[大国博弈]] [[权谋套娃]]
-Tags: #社科Social-Science #中国China #世界大局World-Trend 
+Tags: #社会科学Social-Science  
 
  
 我表示了愿意参加，那么我不在里面就不可能是因为我不愿意，而只能是因为你故意不请了。

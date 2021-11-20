@@ -4,7 +4,7 @@
 > Author: #NellNell 
 Last update: *28/08/2021* 
 Links: [[美国疫情]] [[进化王]]
-Tags: #新冠Covid-19 #社科Social-Science #科学与技术ScienceAndTech/医学Medical-Science 
+Tags:  #社会科学Social-Science #应用科学Applied-Science
 
 流行病学上有一个**宿主数量临界值**（CCS）的概念，也就是说，当宿主的数量到达一个最小临界值，这个疫情就会长期存在，成为区域性循环传染病。但当易感人群的数量低于这个门槛值时，传染病的影响会逐渐变小。
 

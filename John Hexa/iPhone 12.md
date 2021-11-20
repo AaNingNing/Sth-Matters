@@ -4,7 +4,7 @@
 > Author: #JohnHexa
 Last update: *23/07/2021* 
 Links: [[5G - 未来展望1]]
-Tags: #社科Social-Science 
+Tags: #社会科学Social-Science 
 
  
 当然不会。

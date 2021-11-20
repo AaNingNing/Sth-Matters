@@ -4,7 +4,7 @@
 > Author: #NellNell 
 Last update: *13/11/2021* 
 Links: [[John Hexa/爱情 - Romance]] [[崇高爱情]] [[至极浪漫]] [[爱 - Caritas]] [[亲密]] [[爱怕了]] [[John Hexa/缺爱]] [[恋爱 - Date]]
-Tags: #爱Caritas #亲密关系Intimate-Relationship #神学Theology #自然法Natural-Law 
+Tags:  #亲密关系Intimate-Relationship #神学Theology 
   
 
 爱情（romantic love）的确是一种特殊的爱的形态。
