@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "402016dc9c5c0b00",
+        "id": "8d1f5179263e06c8",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "沙海拾金/人救人.jpg"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -55,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/人救人.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +102,17 @@
     "direction": "horizontal",
     "width": 249.5
   },
-  "active": "402016dc9c5c0b00",
+  "active": "8d1f5179263e06c8",
   "lastOpenFiles": [
-    "沙海拾金/人救人.jpg",
-    "沙海拾金/现实主义作品.jpg",
-    "沙海拾金/人生态度.png",
-    "John Hexa/北极夏令营.md",
-    "Nell Nell/Personal Statement.md",
-    "John Hexa/Sin.md",
-    "原罪.jpg",
-    "IMG_3347.png",
-    "沙海拾金/北极夏令营.jpg",
-    "沙海拾金/写多还是写好.png"
+    "摘抄本/摘抄 - 励志金句.md",
+    "摘抄本/摘抄 - 绝妙比喻.md",
+    "Drink me.md",
+    "沙海拾金/以直报怨与尊重.jpg",
+    "沙海拾金/狠厉2.jpg",
+    "John Hexa/尊重的实践.md",
+    "John Hexa/尊重.md",
+    "John Hexa/不爱国的权利.md",
+    "John Hexa/情绪.md",
+    "沙海拾金/狠厉1.jpg"
   ]
 }
