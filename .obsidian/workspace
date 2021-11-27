@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "c24a15a3ac8e40f5",
+    "id": "23c41bdfdf5d7c41",
     "type": "split",
     "children": [
       {
-        "id": "8d1f5179263e06c8",
+        "id": "0e3784c4dac767a2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "沙海拾金/灵魂不灭.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "沙海拾金/灵魂不灭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +106,17 @@
     "direction": "horizontal",
     "width": 249.5
   },
-  "active": "8d1f5179263e06c8",
+  "active": "0e3784c4dac767a2",
   "lastOpenFiles": [
-    "摘抄本/摘抄 - 励志金句.md",
-    "摘抄本/摘抄 - 绝妙比喻.md",
-    "Drink me.md",
-    "沙海拾金/以直报怨与尊重.jpg",
-    "沙海拾金/狠厉2.jpg",
-    "John Hexa/尊重的实践.md",
-    "John Hexa/尊重.md",
-    "John Hexa/不爱国的权利.md",
-    "John Hexa/情绪.md",
-    "沙海拾金/狠厉1.jpg"
+    "沙海拾金/灵魂不灭.md",
+    "沙海拾金/新神学1.jpeg",
+    "John Hexa/圣经 - Bible.md",
+    "John Hexa/咋知道的.md",
+    "Nell Nell/《圣经》vs. 历史.md",
+    "John Hexa/生离死别.md",
+    "John Hexa/Sin.md",
+    "沙海拾金/Sin 1.jpg",
+    "沙海拾金/新神学2.jpg",
+    "沙海拾金/sin 2.jpg"
   ]
 }
