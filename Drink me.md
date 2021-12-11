@@ -7,7 +7,7 @@
 
 欢迎大家下载以供个人学习使用，我将尽可能保持每周末更新。
   
-收录迄今为止我能找到的，John Hexa的全部回答（如有遗漏烦请告知，不胜感激），Nell Nell的回答陆续整理添加中。并收录部分评论区精彩问答。
+收录迄今为止我能找到的，John Hexa的和Nell Nell的全部回答（如有遗漏烦请告知，不胜感激）。并收录部分评论区精彩问答。
 
 - 感兴趣的同学还可以移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
 - 或关注Nell Nell的微信公众号**影子大地shadowlands**
@@ -34,7 +34,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：04/12/2021
+核对日期：11/12/2021
 
 ---
 ## 怎么用
@@ -65,12 +65,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #JohnHexa 
-Last update: *04/12/2021* 
+Last update: *11/12/2021* 
 Links: 
 Tags: 
 
 > Author: #NellNell 
-Last update: *04/12/2021* 
+Last update: *11/12/2021* 
 Links: 
 Tags: 
 
@@ -109,13 +109,13 @@ Tags:
 *未来是属于你们的，祝你们好运。*
 
 #社会科学Social-Science 
-（人类学，考古学，人文地理学，经济学，政治学，心理学，社会学）
+（人类学，考古学，人文地理学，经济学，政治学，心理学，社会学等）
 
 #自然科学Natural-Science 
-（物理学， 化学，生物学，地球科学，太空科学）
+（物理学， 化学，生物学，地球科学，太空科学等）
 
 #应用科学Applied-Science
-（工程学，医学，健康科学，建筑学）
+（工程学，医学，健康科学，建筑学等）
 
 #军事MilitaryTechAndArt
 *军事技术与艺术*

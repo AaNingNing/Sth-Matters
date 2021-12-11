@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e3784c4dac767a2",
+        "id": "56c9e24c88618388",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "摘抄本/摘抄 - 励志金句.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -56,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/摘抄 - 励志金句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +100,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
-  "active": "0e3784c4dac767a2",
+  "active": "56c9e24c88618388",
   "lastOpenFiles": [
     "摘抄本/摘抄 - 励志金句.md",
+    "摘抄本/生词本.md",
+    "John Hexa/对待软弱者.md",
     "Drink me.md",
-    "John Hexa/后悔的真相.md",
-    "John Hexa/综合国力.md",
-    "John Hexa/道德与伦理.md",
-    "John Hexa/打黄盖.md",
-    "John Hexa/笑傲江湖.md",
-    "John Hexa/知己知彼.md",
-    "John Hexa/大成就者.md",
-    "John Hexa/合理 1.md"
+    "John Hexa/TOUGHNESS.md",
+    "沙海拾金/谏言.jpeg",
+    "沙海拾金/人没有软弱权3.jpeg",
+    "沙海拾金/人没有软弱权2.jpeg",
+    "沙海拾金/人没有软弱权1.jpg",
+    "沙海拾金/软弱者的自困.jpeg"
   ]
 }
