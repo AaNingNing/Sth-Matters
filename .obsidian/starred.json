@@ -158,7 +158,7 @@
     {
       "type": "file",
       "title": "学习的快乐",
-      "path": "John Hexa/功夫.md"
+      "path": "John Hexa/学习的快乐.md"
     },
     {
       "type": "file",
@@ -348,7 +348,7 @@
     {
       "type": "file",
       "title": "坚守理想",
-      "path": "John Hexa/坚守理想.md"
+      "path": "John Hexa/理想.md"
     },
     {
       "type": "file",
@@ -1314,6 +1314,26 @@
       "type": "file",
       "title": "底线",
       "path": "John Hexa/底线.md"
+    },
+    {
+      "type": "file",
+      "title": "吾道不孤",
+      "path": "Nell Nell/吾道不孤.md"
+    },
+    {
+      "type": "file",
+      "title": "性格",
+      "path": "Nell Nell/性格.md"
+    },
+    {
+      "type": "file",
+      "title": "企业级幼稚病",
+      "path": "John Hexa/企业级幼稚病.md"
+    },
+    {
+      "type": "file",
+      "title": "如何欣赏美而不是满脑子欲望？",
+      "path": "John Hexa/欣赏 1.md"
     }
   ]
 }

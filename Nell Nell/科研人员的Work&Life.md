@@ -3,7 +3,7 @@
 
 > Author: #NellNell 
 Last update: *21/08/2021* 
-Links: [[学习]] [[功夫]]
+Links: [[学习]] [[学习的快乐]]
 Tags: #人生管理SOP  
 沙海拾金： [[工作狂]] [[工作狂1.png]] [[工作狂2.png]] [[工作狂3.png]] [[工作狂4.png]]
 

@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "23c41bdfdf5d7c41",
+    "id": "96272e1221103cae",
     "type": "split",
     "children": [
       {
-        "id": "56c9e24c88618388",
+        "id": "069f39c9d72dcd40",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Drink me.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drink me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +107,17 @@
     "width": 249.5,
     "collapsed": true
   },
-  "active": "56c9e24c88618388",
+  "active": "069f39c9d72dcd40",
   "lastOpenFiles": [
-    "摘抄本/摘抄 - 励志金句.md",
-    "摘抄本/生词本.md",
-    "John Hexa/对待软弱者.md",
     "Drink me.md",
-    "John Hexa/TOUGHNESS.md",
-    "沙海拾金/谏言.jpeg",
-    "沙海拾金/人没有软弱权3.jpeg",
-    "沙海拾金/人没有软弱权2.jpeg",
-    "沙海拾金/人没有软弱权1.jpg",
-    "沙海拾金/软弱者的自困.jpeg"
+    "Nell Nell/独立女性.md",
+    "John Hexa/苦难的价值.md",
+    "John Hexa/群居问题.md",
+    "Nell Nell/元宇宙.md",
+    "John Hexa/塑料膜.md",
+    "John Hexa/壁厚.md",
+    "John Hexa/大实话.md",
+    "John Hexa/肇因与动因.md",
+    "John Hexa/进步退步.md"
   ]
 }

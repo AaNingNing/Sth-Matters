@@ -3,7 +3,7 @@
 
 > Author: #JohnHexa
 Last update: *23/07/2021* 
-Links: [[核心能力]] [[功夫]] [[做计划]] [[拖拉机]]
+Links: [[核心能力]] [[学习的快乐]] [[做计划]] [[拖拉机]]
 Tags: #人生管理SOP #家族Clan #企业管理B-Management  
 
 
