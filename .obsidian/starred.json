@@ -153,7 +153,7 @@
     {
       "type": "file",
       "title": "约伯",
-      "path": "John Hexa/圣经 - 约伯记.md"
+      "path": "John Hexa/圣经 - 约伯.md"
     },
     {
       "type": "file",
@@ -1334,6 +1334,11 @@
       "type": "file",
       "title": "如何欣赏美而不是满脑子欲望？",
       "path": "John Hexa/欣赏 1.md"
+    },
+    {
+      "type": "file",
+      "title": "“哲学家”",
+      "path": "John Hexa/“哲学家”.md"
     }
   ]
 }
