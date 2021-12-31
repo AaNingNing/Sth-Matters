@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0e8ea4e0bc9c0f8d",
+        "id": "520a5df16f8b5741",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -53,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,17 +102,16 @@
     "width": 249.5,
     "collapsed": true
   },
-  "active": "0e8ea4e0bc9c0f8d",
+  "active": "520a5df16f8b5741",
   "lastOpenFiles": [
-    "沙海拾金/十万火急1.jpeg",
-    "沙海拾金/事实判断.png",
-    "沙海拾金/奇迹展示.png",
-    "沙海拾金/不抱怨.jpeg",
-    "沙海拾金/交流基线.jpeg",
-    "摘抄本/JH文章速读/*摘抄 - 与世界为敌.md",
-    "Drink me.md",
-    "美国是人情社会吗？为什么？.md",
-    "Nell Nell/芥菜种.md",
-    "Nell Nell/独立女性.md"
+    "摘抄本/JH文章速读/摘抄 - 不可证伪.md",
+    "摘抄本/JH文章速读/摘抄 - 不可证伪1.md",
+    "摘抄本/JH文章速读/摘抄 - 不紧张.md",
+    "摘抄本/JH文章速读/摘抄 - 不配被爱.md",
+    "摘抄本/JH文章速读/摘抄 - 不配被爱.md",
+    "摘抄本/JH文章速读/摘抄 - 不原谅的诅咒.md",
+    "摘抄本/JH文章速读/摘抄 - 不卑不亢.md",
+    "摘抄本/JH文章速读/摘抄 - 不卑不亢1.md",
+    "摘抄本/JH文章速读/摘抄 - 不卑不亢.md"
   ]
 }
