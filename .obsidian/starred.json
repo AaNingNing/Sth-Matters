@@ -1339,6 +1339,21 @@
       "type": "file",
       "title": "“哲学家”",
       "path": "John Hexa/“哲学家”.md"
+    },
+    {
+      "type": "file",
+      "title": "上策",
+      "path": "John Hexa/上策.md"
+    },
+    {
+      "type": "file",
+      "title": "不怯场",
+      "path": "John Hexa/不怯场.md"
+    },
+    {
+      "type": "file",
+      "title": "不服从管理",
+      "path": "John Hexa/不服从管理.md"
     }
   ]
 }
