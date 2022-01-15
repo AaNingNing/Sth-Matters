@@ -7,7 +7,7 @@
 
 欢迎大家下载以供个人学习使用，我将尽可能保持每周末更新。
   
-收录迄今为止我能找到的，John Hexa的和Nell Nell的全部回答（如有遗漏烦请告知，不胜感激）。并收录部分想法和评论区精彩问答。
+收录我最喜欢的两位答主的全部回答（如有遗漏烦请告知，不胜感激）。并收录部分想法和评论区精彩问答。
 
 - 感兴趣的同学还可以移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
 - 或关注Nell Nell的微信公众号**影子大地shadowlands**
@@ -21,7 +21,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 对制作个人学习笔记的同学，推荐配合使用**Visual Studio Code**软件进行大批量文件内的文字替换来修改我的Tags，署名和任何你想改的部分，帮助你节省宝贵时间。
 
 
->##### 最后，感谢两位——**@John Hexa** **@Nell Nell**的授权。
+>##### 最后，感谢两位的授权。
 >
 >##### 感谢：**@夫见 @黑夜 @烟雨行舟 @茶芒 @如果你想看大海 @Yuri **
 >##### 以及所有在评论区积极讨论，默默进行资料整理与分享的小伙伴们。
@@ -64,7 +64,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ## Library
 
 #### Label format
-> Author: #JohnHexa 
+> Author: #Anonymity 
 Last update: *15/01/2021* 
 Links: 
 Tags: 
@@ -76,7 +76,7 @@ Tags:
 
 ### Author list
 #Anonymity 
-#JohnHexa 
+#Anonymity 
 #NellNell 
 
 ---
