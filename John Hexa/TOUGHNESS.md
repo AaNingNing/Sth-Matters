@@ -1,5 +1,5 @@
 # TOUGHNESS
-[警方通报「25 岁摄影师鹿道森遗体被打捞上岸，已不幸离世」，具体情况如何？](https://www.zhihu.com/question/502856388/answer/2258079303)
+[如何看待青少年频发自杀的事件？](https://www.zhihu.com/question/397899495/answer/2304462039)
 
 > Author: #JohnHexa 
 Last update: *11/12/2021* 
