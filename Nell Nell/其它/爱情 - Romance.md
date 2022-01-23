@@ -3,7 +3,7 @@
 
 > Author: #NellNell 
 Last update: *13/11/2021* 
-Links: [[Anonymity/爱情 - Romance]] [[崇高爱情]] [[至极浪漫]] [[爱 - Caritas]] [[亲密]] [[爱怕了]] [[Anonymity/缺爱]] [[恋爱 - Date]]
+Links: [[Anonymity/03 - 第一性/爱情 - Romance]] [[崇高爱情]] [[至极浪漫]] [[爱 - Caritas]] [[亲密]] [[爱怕了]] [[Anonymity/01 - 家族答集/缺爱]] [[恋爱 - Date]]
 Tags:  #亲密关系Intimate-Relationship #神学Theology 
   
 
