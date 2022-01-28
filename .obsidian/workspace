@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "摘抄本/摘抄 - 励志金句.md",
+            "file": "Anonymity/04 - 社科答集/合理2.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "文科无用论",
+                "query": "file: 合理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/摘抄 - 励志金句.md",
+                "file": "Anonymity/04 - 社科答集/合理2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "dec42f83aac0a5aa",
   "lastOpenFiles": [
+    "Anonymity/04 - 社科答集/合理2.md",
+    "Anonymity/03 - 第一性/合理1.md",
     "摘抄本/摘抄 - 励志金句.md",
     "摘抄本/摘抄 - 绝妙比喻.md",
     "Nell Nell/其它/无用之用.md",
@@ -116,8 +118,6 @@
     "Anonymity/03 - 第一性/逃避伤害.md",
     "Anonymity/01 - 家族答集/不惊不怒.md",
     "沙海拾金/尽力完美.jpg",
-    "Drink me.md",
-    "Anonymity/04 - 社科答集/删评权.md",
-    "Anonymity/01 - 家族答集/隐私就是生命.md"
+    "Drink me.md"
   ]
 }
