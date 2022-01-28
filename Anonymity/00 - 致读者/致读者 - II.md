@@ -1,9 +1,9 @@
-# 致读者 - 之二
+# 致读者 - II
 *如果你生活中有一个很像John Hexa的人，应该怎样处理最好?*
 
 > Author: #Anonymity
 Last update: *24/07/2021* 
-Links: [[致读者 - I]] [[致读者 - III]] [[致读者 - IV]]
+Links: [[致读者 - I]] [[致读者 - III]]
 Tags: #人生管理SOP #家族Clan 
 
 我不喜欢任何私人的注目，这对我是一种负担。

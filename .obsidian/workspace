@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5b37e64b28cca4",
+        "id": "dec42f83aac0a5aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "摘抄本/生词本.md",
+            "file": "摘抄本/摘抄 - 励志金句.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "信仰是个什么东西？  就是你面对生命威胁，也无法放弃观点立场的东西。",
+                "query": "文科无用论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,11 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 282.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/生词本.md",
+                "file": "摘抄本/摘抄 - 励志金句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 262.5,
+    "collapsed": true
   },
-  "active": "fb5b37e64b28cca4",
+  "active": "dec42f83aac0a5aa",
   "lastOpenFiles": [
-    "摘抄本/生词本.md",
-    "沙海拾金/自然法.jpg",
-    "摘抄本/摘抄 - 绝妙比喻.md",
     "摘抄本/摘抄 - 励志金句.md",
+    "摘抄本/摘抄 - 绝妙比喻.md",
+    "Nell Nell/其它/无用之用.md",
+    "沙海拾金/无用之用.jpg",
+    "Anonymity/03 - 第一性/逃避伤害.md",
+    "Anonymity/01 - 家族答集/不惊不怒.md",
+    "沙海拾金/尽力完美.jpg",
     "Drink me.md",
-    "Anonymity/05 - 科学答集/鹰与猫孰强.md",
-    "Anonymity/01 - 家族答集/魄力.md",
-    "Anonymity/01 - 家族答集/高贵的敌人.md",
-    "Anonymity/02 - 企管答集/高管写代码.md",
-    "Anonymity/01 - 家族答集/高等教育.md"
+    "Anonymity/04 - 社科答集/删评权.md",
+    "Anonymity/01 - 家族答集/隐私就是生命.md"
   ]
 }
