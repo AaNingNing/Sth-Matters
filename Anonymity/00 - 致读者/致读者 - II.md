@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *24/07/2021* 
 Links: [[致读者 - I]] [[致读者 - III]]
-Tags: #人生管理SOP #家族Clan 
+Tags: 
 
 我不喜欢任何私人的注目，这对我是一种负担。
 

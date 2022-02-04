@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *23/07/2021* 
 Links: [[5G]]
-Tags: #社会科学Social-Science 
+Tags:  
 
  
 当然不会。

@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *23/07/2021* 
 Links: [[华为 - 战略]] 
-Tags: #企业管理B-Management
+Tags: #
 
  
 战略错误。

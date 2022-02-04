@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *23/07/2021* 
 Links: [[女性公平]] [[致全体女性]] 
-Tags: #社会科学Social-Science #第一性Feminism  
+Tags:    
 
  
 这个问题在时间线上盘旋了很久了，实在是不吐不快。

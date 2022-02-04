@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *23/07/2021* 
 Links: [[大国博弈]]
-Tags:  #社会科学Social-Science
+Tags:  
 
 
 第一，枪炮刀剑做不到的事情，靠着协商谈判、协调共同利益做到了，可喜可贺。

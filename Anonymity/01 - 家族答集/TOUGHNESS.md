@@ -4,7 +4,7 @@
 > Author: #Anonymity 
 Last update: *11/12/2021* 
 Links: [[至勇]] [[自强]] [[世界史]] [[励志]] [[悲观与乐观]] [[看得见爱的眼睛]] [[不卑不亢]] [[不卑不亢1]] [[Anonymity/01 - 家族答集/战胜抑郁]] [[抑郁的潮]]
-Tags: #人生管理SOP #社会科学Social-Science #家族Clan 
+Tags: 
 沙海拾金： [[软弱者的自困.jpeg]] [[人没有软弱权1.jpg]] [[人没有软弱权2.jpeg]] [[人没有软弱权3.jpeg]]
   
 

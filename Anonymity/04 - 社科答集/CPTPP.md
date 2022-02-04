@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *23/06/2021* 
 Links: [[大国博弈]] [[权谋套娃]]
-Tags: #社会科学Social-Science  
+Tags:   
 
  
 我表示了愿意参加，那么我不在里面就不可能是因为我不愿意，而只能是因为你故意不请了。

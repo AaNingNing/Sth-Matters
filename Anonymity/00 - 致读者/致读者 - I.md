@@ -3,8 +3,8 @@
  > Author: #Anonymity
 Last update: *23/07/2021* 
 Links: [[致读者 - II]] [[致读者 - III]] [[Anonymity/00 - 致读者/致读者 - 留言]]
-Tags:  #人生管理SOP #家族Clan #社会科学Social-Science #亲密关系Intimate-Relationship  #企业管理B-Management  
-沙海拾金： [[致读者1.jpg]] [[致读者2.JPG]] [[沙海拾金/公平因果]] [[施粥人]] [[人类共性.JPEG]] [[人类共性1.JPEG]] [[人类共性2]] [[人类共性3.jpg]] [[天使与恶魔.JPEG]]
+Tags:  #方法实践SOP   #亲密关系
+沙海拾金： [[致读者1.jpg]] [[致读者2.JPG]] [[致读者3.jpeg]] [[沙海拾金/公平因果]] [[施粥人]] [[人类共性.JPEG]] [[人类共性1.JPEG]] [[人类共性2]] [[人类共性3.jpg]] [[天使与恶魔.JPEG]] 
 
 
 “看完我的全部答案。”

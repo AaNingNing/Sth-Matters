@@ -4,7 +4,7 @@
 > Author: #Anonymity 
 Last update: *16/01/2022* 
 Links: [[可信]] [[上帝]] [[可信标准]] [[无神论]]
-Tags: #神学Theology  
+Tags:   
 
 这么说吧——在中国，严格意义上的无神论者能凑得齐四位数都够呛。
 

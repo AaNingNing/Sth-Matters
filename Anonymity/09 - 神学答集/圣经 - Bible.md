@@ -4,7 +4,7 @@
 > Author: #Anonymity 
 Last update: *26/07/2021* 
 Links: [[圣经 - 解经]] [[《圣经》vs. 历史]] [[圣经 - 神的样子]]
-Tags: #神学Theology 
+Tags:  
 沙海拾金： [[新神学1.jpeg]] [[新神学2.jpg]]
   
 

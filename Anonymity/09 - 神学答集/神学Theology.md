@@ -4,7 +4,7 @@
 > Author:   #Anonymity 
 Last update: *23/07/2021* 
 Links: [[天使]] [[上帝]]
-Tags: #神学Theology 
+Tags:  
 
 
 要定义“神学”，首先要定义“神”。

@@ -4,7 +4,7 @@
 > Author: #Anonymity
 Last update: *23/07/2021* 
 Links: [[致读者 - I]] [[致读者 - II]] [[致读者 - III]]
-Tags: #社会科学Social-Science 
+Tags:  
 沙海拾金： [[拒绝侮辱.PNG]] [[沙海拾金/公平因果]]
 
  
