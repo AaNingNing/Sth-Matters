@@ -7,10 +7,9 @@
         "id": "dec42f83aac0a5aa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Drink me.md",
-            "mode": "source"
+            "file": "沙海拾金/只和天使打交道.jpeg"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drink me.md",
+                "file": "沙海拾金/只和天使打交道.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +102,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 157.5,
+    "collapsed": true
   },
   "active": "dec42f83aac0a5aa",
   "lastOpenFiles": [
+    "沙海拾金/只和天使打交道.jpeg",
+    "沙海拾金/忘我.jpeg",
+    "摘抄本/生词本.md",
     "Drink me.md",
-    "Anonymity/01 - 家族答集/尊重的实践.md",
-    "沙海拾金/交流.jpeg",
-    "沙海拾金/交流基线.jpeg",
-    "沙海拾金/人类共性1.JPEG",
-    "沙海拾金/人类共性3.jpg",
-    "沙海拾金/天使1.JPEG",
-    "沙海拾金/天使2.JPEG",
-    "沙海拾金/天使3.JPEG",
-    "沙海拾金/天使4.jpg"
+    "Anonymity/01 - 家族答集/求助力.md",
+    "Anonymity/01 - 家族答集/骇客帝国.md",
+    "Anonymity/03 - 第一性/不喜欢.md",
+    "Anonymity/03 - 第一性/公事无私怨.md",
+    "Nell Nell/00 - “是什么”系列/挑起性别对立的目的.md",
+    "Anonymity/03 - 第一性/膝盖的目的.md"
   ]
 }
