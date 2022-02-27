@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dec42f83aac0a5aa",
+        "id": "08ad8cba06639f01",
         "type": "leaf",
         "state": {
           "type": "image",
           "state": {
-            "file": "沙海拾金/只和天使打交道.jpeg"
+            "file": "沙海拾金/礼貌与尊重3.jpg"
+          }
+        }
+      },
+      {
+        "id": "37d36aa648bc617c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anonymity/01 - 家族答集/尊重的实践.md",
+            "mode": "source"
           }
         }
       }
@@ -55,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/只和天使打交道.jpeg",
+                "file": "沙海拾金/礼貌与尊重3.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,25 +109,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 157.5,
-    "collapsed": true
+    "width": 157.5
   },
-  "active": "dec42f83aac0a5aa",
+  "active": "08ad8cba06639f01",
   "lastOpenFiles": [
-    "沙海拾金/只和天使打交道.jpeg",
-    "沙海拾金/忘我.jpeg",
-    "摘抄本/生词本.md",
-    "Drink me.md",
-    "Anonymity/01 - 家族答集/求助力.md",
-    "Anonymity/01 - 家族答集/骇客帝国.md",
-    "Anonymity/03 - 第一性/不喜欢.md",
-    "Anonymity/03 - 第一性/公事无私怨.md",
-    "Nell Nell/00 - “是什么”系列/挑起性别对立的目的.md",
-    "Anonymity/03 - 第一性/膝盖的目的.md"
+    "沙海拾金/礼貌与尊重3.jpg",
+    "Anonymity/01 - 家族答集/尊重的实践.md",
+    "沙海拾金/礼貌与尊重4.JPEG",
+    "沙海拾金/礼貌与尊重2.jpg",
+    "沙海拾金/礼貌与尊重1.jpeg",
+    "沙海拾金/现实.JPEG",
+    "沙海拾金/狠厉2.jpg",
+    "沙海拾金/狠厉1.jpg",
+    "沙海拾金/尊重的实践4.jpg",
+    "沙海拾金/尊重的实践3.jpg"
   ]
 }
