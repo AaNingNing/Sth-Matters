@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "摘抄本/句子摘录.md",
+            "file": "Anonymity/04 - 社科答集/表态反对.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "挂了",
+                "query": "釜底抽薪",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/句子摘录.md",
+                "file": "Anonymity/04 - 社科答集/表态反对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "b8c12332eaa612bf",
   "lastOpenFiles": [
+    "Anonymity/04 - 社科答集/表态反对.md",
+    "Anonymity/01 - 家族答集/道法自然.md",
+    "Anonymity/02 - 企管答集/弱势财务部.md",
+    "Anonymity/09 - 神学答集/基督教国家.md",
+    "Anonymity/04 - 社科答集/“国际巨头”.md",
+    "Anonymity/09 - 神学答集/国教.md",
+    "Anonymity/09 - 神学答集/国教1.md",
+    "Anonymity/04 - 社科答集/不存在的“如果”.md",
     "摘抄本/句子摘录.md",
-    "README.md",
-    "Anonymity/04 - 社科答集/如何看待拜登将派前官员代表团突访台湾，专家评「临时组队，想安抚恐慌情绪」？美方此举释放了哪些信号？.md",
-    "Nell Nell/待分类/救.md",
-    "Anonymity/04 - 社科答集/5亿.md",
-    "Anonymity/07 - 军事技术与艺术/俄乌战争.md",
-    "Anonymity/08 - 文艺答集/兔子狼.md",
-    "Anonymity/07 - 军事技术与艺术/军援.md",
-    "Anonymity/07 - 军事技术与艺术/到底在争夺什么.md",
-    "Anonymity/07 - 军事技术与艺术/泽连斯基.md"
+    "README.md"
   ]
 }
