@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 Last update: *23/07/2021* 
-Links: [[大国博弈]]
+Links: [[Anonymity/13 - 百年未有之变局/大国博弈]]
 Tags:  
 
 

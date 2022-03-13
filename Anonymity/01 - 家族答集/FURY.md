@@ -1,5 +1,5 @@
 # FURY
-*一个人的狂怒能有多可怕？*
+[一个人的狂怒能有多可怕？](https://www.zhihu.com/question/266645399/answer/1969210271)
 
 > Author: #Anonymity 
 Last update: *30/07/2021* 

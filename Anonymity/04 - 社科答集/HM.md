@@ -1,5 +1,5 @@
 # HM
-*如何看待 H&M 在「禁用新疆棉花」一事后，疑似遭淘宝等多个电商平台下架？*
+[如何看待 H&M 在「禁用新疆棉花」一事后，疑似遭淘宝等多个电商平台下架？](https://www.zhihu.com/question/451051189/answer/1798289573)
 
 > Author: #Anonymity
 Last update: *23/07/2021* 

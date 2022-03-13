@@ -38,7 +38,7 @@
     {
       "type": "file",
       "title": "爱",
-      "path": "Anonymity/09 - 神学答集/爱 - Caritas.md"
+      "path": "Anonymity/09 - 神学答集/爱.md"
     },
     {
       "type": "file",
@@ -153,7 +153,7 @@
     {
       "type": "file",
       "title": "约伯",
-      "path": "Anonymity/09 - 神学答集/圣经 - 约伯.md"
+      "path": "Anonymity/09 - 神学答集/约伯.md"
     },
     {
       "type": "file",
@@ -1358,7 +1358,7 @@
     {
       "type": "file",
       "title": "两难",
-      "path": "Anonymity/04 - 社科答集/两难.md"
+      "path": "Anonymity/13 - 百年未有之变局/两难.md"
     },
     {
       "type": "file",
@@ -1448,7 +1448,12 @@
     {
       "type": "file",
       "title": "大国崛起",
-      "path": "Anonymity/04 - 社科答集/大国崛起.md"
+      "path": "Anonymity/04 - 社科答集/历史必然.md"
+    },
+    {
+      "type": "file",
+      "title": "爱与自由",
+      "path": "Anonymity/01 - 家族答集/爱与自由.md"
     }
   ]
 }

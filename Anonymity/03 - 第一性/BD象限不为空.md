@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 Last update: *16/01/2022* 
-Links: [[致读者 - I]] [[爱 - Caritas]]
+Links: [[致读者 - I]] [[爱]]
 Tags: 
 
  

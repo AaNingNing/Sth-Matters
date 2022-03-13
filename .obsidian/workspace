@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c12332eaa612bf",
+        "id": "6867fc4126132764",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anonymity/04 - 社科答集/表态反对.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,9 +36,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "釜底抽薪",
+                "query": "艺术疗愈",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -56,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/04 - 社科答集/表态反对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +100,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 157.5
+    "width": 397.5,
+    "collapsed": true
   },
-  "active": "b8c12332eaa612bf",
+  "active": "6867fc4126132764",
   "lastOpenFiles": [
-    "Anonymity/04 - 社科答集/表态反对.md",
-    "Anonymity/01 - 家族答集/道法自然.md",
-    "Anonymity/02 - 企管答集/弱势财务部.md",
-    "Anonymity/09 - 神学答集/基督教国家.md",
-    "Anonymity/04 - 社科答集/“国际巨头”.md",
-    "Anonymity/09 - 神学答集/国教.md",
-    "Anonymity/09 - 神学答集/国教1.md",
-    "Anonymity/04 - 社科答集/不存在的“如果”.md",
     "摘抄本/句子摘录.md",
-    "README.md"
+    "Anonymity/08 - 文艺答集/疗愈艺术.md",
+    "摘抄本/待整理_句子摘录.md",
+    "Anonymity/13 - 百年未有之变局/Follow the money.md",
+    "Anonymity/13 - 百年未有之变局/并非键政.md",
+    "Anonymity/13 - 百年未有之变局/杂感2.md",
+    "README.md",
+    "Anonymity/13 - 百年未有之变局/第二终战剧本.md",
+    "Anonymity/13 - 百年未有之变局/最短出路.md",
+    "Anonymity/13 - 百年未有之变局/普京签署命令，要求政府确定对俄实施不友好行为的外国名单，这意味着什么？.md"
   ]
 }
