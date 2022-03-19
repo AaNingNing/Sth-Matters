@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6867fc4126132764",
+        "id": "22a63e5e71e7efe1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "艺术疗愈",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 289.5
   },
-  "active": "6867fc4126132764",
+  "active": "22a63e5e71e7efe1",
   "lastOpenFiles": [
-    "摘抄本/句子摘录.md",
-    "Anonymity/08 - 文艺答集/疗愈艺术.md",
-    "摘抄本/待整理_句子摘录.md",
-    "Anonymity/13 - 百年未有之变局/Follow the money.md",
-    "Anonymity/13 - 百年未有之变局/并非键政.md",
-    "Anonymity/13 - 百年未有之变局/杂感2.md",
     "README.md",
-    "Anonymity/13 - 百年未有之变局/第二终战剧本.md",
-    "Anonymity/13 - 百年未有之变局/最短出路.md",
-    "Anonymity/13 - 百年未有之变局/普京签署命令，要求政府确定对俄实施不友好行为的外国名单，这意味着什么？.md"
+    "Anonymity/13 - 百年未有之变局/左转右转.md",
+    "Anonymity/04 - 社科答集/台湾 - 真正目的.md",
+    "Anonymity/13 - 百年未有之变局/芯片前景.md",
+    "Anonymity/04 - 社科答集/芯片.md",
+    "Anonymity/04 - 社科答集/反犹.md",
+    "Anonymity/01 - 家族答集/集体主义.md",
+    "Anonymity/13 - 百年未有之变局/巡飞弹.md",
+    "Anonymity/13 - 百年未有之变局/MAGA.md",
+    "Anonymity/13 - 百年未有之变局/下台.md"
   ]
 }
