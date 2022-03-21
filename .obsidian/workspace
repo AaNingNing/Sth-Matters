@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "22a63e5e71e7efe1",
+        "id": "fb0d532cbc3e1bad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Anonymity/09 - 神学答集/不再相信曾经的神了怎么办？.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "？",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Anonymity/09 - 神学答集/不再相信曾经的神了怎么办？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "direction": "horizontal",
     "width": 289.5
   },
-  "active": "22a63e5e71e7efe1",
+  "active": "fb0d532cbc3e1bad",
   "lastOpenFiles": [
+    "Anonymity/09 - 神学答集/不再相信曾经的神了怎么办？.md",
+    "Nell Nell/待分类/如何看待谷歌华裔员工妻子病逝后火速再婚，最近起诉驱逐亡妻父母，募捐回国机票钱，令老人募捐应诉律师费？.md",
+    "Anonymity/05 - 科学答集/自然科学/恐惧的度量.md",
+    "Nell Nell/待分类/爱的实践.md",
     "README.md",
     "Anonymity/13 - 百年未有之变局/左转右转.md",
     "Anonymity/04 - 社科答集/台湾 - 真正目的.md",
     "Anonymity/13 - 百年未有之变局/芯片前景.md",
     "Anonymity/04 - 社科答集/芯片.md",
-    "Anonymity/04 - 社科答集/反犹.md",
-    "Anonymity/01 - 家族答集/集体主义.md",
-    "Anonymity/13 - 百年未有之变局/巡飞弹.md",
-    "Anonymity/13 - 百年未有之变局/MAGA.md",
-    "Anonymity/13 - 百年未有之变局/下台.md"
+    "Anonymity/04 - 社科答集/反犹.md"
   ]
 }
