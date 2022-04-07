@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf4cb7e7d5c1b47",
+        "id": "9a3a200ab1e5b0b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Nell Nell/待分类/如何从逻辑上说明新冠病毒奥密克戎不是大号流感?.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大小有别",
+                "query": "俄罗斯",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175.50868225097656
+    "width": 301.0107650756836
   },
   "right": {
     "id": "667d5636990656b4",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Nell Nell/待分类/如何从逻辑上说明新冠病毒奥密克戎不是大号流感?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "5cf4cb7e7d5c1b47",
+  "active": "9a3a200ab1e5b0b2",
   "lastOpenFiles": [
+    "Nell Nell/待分类/如何从逻辑上说明新冠病毒奥密克戎不是大号流感?.md",
     "README.md",
-    "Anonymity/13 - 百年未有之变局/七国集团已拒绝以卢布结算俄罗斯能源，事件后续会如何发展？.md",
-    "Anonymity/13 - 百年未有之变局/一个坑.md",
-    "Anonymity/13 - 百年未有之变局/第二阶段.md",
-    "Anonymity/13 - 百年未有之变局/如何看待俄国防部副部长「决定大幅减少在基辅和切尔尼戈夫方面的军事行动」的言论？战局会有哪些变化？.md",
-    "Anonymity/13 - 百年未有之变局/波兰.md",
-    "Anonymity/13 - 百年未有之变局/如何识别网军账号？.md",
-    "Anonymity/13 - 百年未有之变局/春眠不觉晓.md",
-    "Anonymity/13 - 百年未有之变局/难民.md",
-    "Anonymity/13 - 百年未有之变局/基辅独立报.md"
+    "Anonymity/13 - 百年未有之变局/俄乌战争已经进行了一个多月，而我们国内为什么极少有关于前线的视频？.md",
+    "Anonymity/04 - 社科答集/俄罗斯.md",
+    "Anonymity/13 - 百年未有之变局/1170.md",
+    "Anonymity/11 - 新冠/助医策略.md",
+    "摘抄本/待整理_句子摘录.md",
+    "摘抄本/比喻摘录.md",
+    "沙海拾金/来日再看.JPEG",
+    "沙海拾金/现实主义作品.jpg"
   ]
 }

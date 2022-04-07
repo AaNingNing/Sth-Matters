@@ -34,7 +34,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：31/03/2022
+核对日期：08/04/2022
 
 ---
 ## 怎么用
@@ -65,12 +65,12 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #Anonymity 
-Last update: *31/03/2022* 
+Last update: *08/04/2022* 
 Links: 
 Tags: 
 
 > Author: #NellNell 
-Last update: *31/03/2022* 
+Last update: *08/04/2022* 
 Links: 
 Tags: 
 
@@ -138,7 +138,7 @@ Tags:
 
 #爱Caritas
 
-#好物推荐
+#一些推荐
 
 #待命名TBN 
 
