@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "38ea2da103d499db",
+        "id": "367b742d134daaaa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "能看穿别人心思的人是什么样的",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
-  "active": "38ea2da103d499db",
+  "active": "367b742d134daaaa",
   "lastOpenFiles": [
     "README.md",
-    "Nell Nell/致读者.md",
-    "Nell Nell/待分类/工作的意义.md",
-    "Nell Nell/待分类/创作动力.md",
-    "Nell Nell/待分类/至极浪漫.md",
-    "Nell Nell/待分类/领导问你有空吗，该怎么回答？.md",
-    "Nell Nell/待分类/丧的本质.md",
-    "Nell Nell/待分类/精英教育.md",
-    "Nell Nell/待分类/为什么基督徒在早期相信轮回再生，到中世纪之后就不信了，是有人把《圣经》改了还是有哪位领袖人物突发奇想？.md",
-    "Nell Nell/待分类/如何从逻辑上说明新冠病毒奥密克戎不是大号流感?.md"
+    "】.md",
+    "摘抄本/句子摘录.md",
+    "摘抄本/待整理_句子摘录.md",
+    "沙海拾金/历史彩票.jpeg",
+    "沙海拾金/何如不问1.jpg",
+    "沙海拾金/何如不问.jpg",
+    "沙海拾金/慵懒政治.jpeg",
+    "沙海拾金/文采.jpg",
+    "Anonymity/13 - 百年未有之变局/高清透明时代.md"
   ]
 }
