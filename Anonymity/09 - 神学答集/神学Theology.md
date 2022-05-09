@@ -3,7 +3,7 @@
 
 > Author:   #Anonymity 
 Last update: *23/07/2021* 
-Links: [[天使]] [[上帝]]
+Links: [[天使]] [[斑点狗]]
 Tags:  
 
 

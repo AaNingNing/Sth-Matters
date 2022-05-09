@@ -34,7 +34,7 @@ Obsidian是一款非常好用笔记软件，适合使用它来建立知识点之
 授权证明：
 ![[转载授权1.png]]
 ![[转载授权2.PNG]]
-核对日期：01/05/2022
+核对日期：09/05/2022
 
 ---
 ## 怎么用
@@ -65,7 +65,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 > Author: #Anonymity 
-Last update: *01/05/2022* 
+Last update: *09/05/2022* 
 Links: 
 Tags: 
 
@@ -128,20 +128,20 @@ Tags:
 ### Sub-class 
 [其它常用tags方便查找相关话题]
 
-#内在构建
+内在构建
 
-#外在管理
+外在管理
 
-#亲密关系
+亲密关系
 
-#方法实践SOP 
+方法实践SOP 
 
-#爱Caritas
+爱Caritas
 
-#一些推荐
+一些推荐
 
-#待命名TBN 
+待命名TBN 
 
-#未完待续TBC
+未完待续TBC
 
 

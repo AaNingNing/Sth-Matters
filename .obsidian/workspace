@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "367b742d134daaaa",
+        "id": "1fbdbffc7e447cf6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "普京称外部势力干涉乌局势将遭闪电般打击，如何看待普京的警告？.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dg9",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "普京称外部势力干涉乌局势将遭闪电般打击，如何看待普京的警告？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +103,17 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "367b742d134daaaa",
+  "active": "1fbdbffc7e447cf6",
   "lastOpenFiles": [
-    "普京称外部势力干涉乌局势将遭闪电般打击，如何看待普京的警告？.md",
-    "面向第三世界.md",
-    "Anonymity/13 - 百年未有之变局/第二层防线.md",
-    "政审.md",
-    "为什么我们会战胜认知战.md",
-    "历史上有哪些如神一般存在的人物？.md",
-    "当孩子提出无理要求时，家长应该怎么做？.md",
-    "如何看待“福山论为什么乌克兰将赢得战争”？.md",
-    "言论自由.md",
-    "MoneyTalk.md"
+    "Anonymity/01 - 家族答集/零起点 1.md",
+    "Anonymity/01 - 家族答集/零起点.md",
+    "Anonymity/01 - 家族答集/观点与事实.md",
+    "Anonymity/01 - 家族答集/行云流水 1.md",
+    "Anonymity/01 - 家族答集/行云流水.md",
+    "Anonymity/01 - 家族答集/获得好感.md",
+    "Anonymity/01 - 家族答集/苦熬 1.md",
+    "Anonymity/01 - 家族答集/苦熬.md",
+    "Anonymity/01 - 家族答集/聪明人.md",
+    "Anonymity/01 - 家族答集/聪明人 1.md"
   ]
 }

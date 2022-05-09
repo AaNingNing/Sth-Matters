@@ -2,7 +2,7 @@
 *Jehovah（耶和华） 是一个错误翻译吗？*
 > Author: #Anonymity 
 Last update: *26/07/2021* 
-Links: [[上帝]] [[上帝 - 人格化]]
+Links: [[斑点狗]] [[上帝 - 人格化]]
 Tags:   
   
 

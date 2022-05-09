@@ -148,7 +148,7 @@
     {
       "type": "file",
       "title": "上帝的存在",
-      "path": "Anonymity/09 - 神学答集/上帝.md"
+      "path": "Anonymity/09 - 神学答集/斑点狗.md"
     },
     {
       "type": "file",
@@ -1248,7 +1248,7 @@
     {
       "type": "file",
       "title": "说实话",
-      "path": "Anonymity/01 - 家族答集/说实话 1.md"
+      "path": "Anonymity/01 - 家族答集/说实话.md"
     },
     {
       "type": "file",
@@ -1474,6 +1474,26 @@
       "type": "file",
       "title": "政治",
       "path": "Anonymity/04 - 社科答集/政治.md"
+    },
+    {
+      "type": "file",
+      "title": "学会与历史相处",
+      "path": "Anonymity/01 - 家族答集/学会与历史相处.md"
+    },
+    {
+      "type": "file",
+      "title": "子女的要求",
+      "path": "Anonymity/01 - 家族答集/子女的要求.md"
+    },
+    {
+      "type": "file",
+      "title": "内耗",
+      "path": "Anonymity/01 - 家族答集/内耗.md"
+    },
+    {
+      "type": "file",
+      "title": "言论自由",
+      "path": "Anonymity/01 - 家族答集/言论自由.md"
     }
   ]
 }
