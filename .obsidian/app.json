@@ -3,7 +3,7 @@
   "spellcheck": true,
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byModifiedTimeReverse",
   "strictLineBreaks": false,
   "readableLineLength": true,
   "promptDelete": false
