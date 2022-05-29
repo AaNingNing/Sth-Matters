@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "843027e5466969ed",
+        "id": "9ddfa6d2e9b7a498",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#爱Caritas",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,20 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
-  "active": "843027e5466969ed",
+  "active": "9ddfa6d2e9b7a498",
   "lastOpenFiles": [
     "README.md",
-    "万本无利.md",
-    "特种兵.md",
-    "三下.md",
-    "坦克打光了.md",
-    "云战报.md",
-    "种族仇杀.md",
-    "电磁弹射.md",
-    "run.md",
-    "Anonymity/04 - 社科答集/留住人才.md"
+    "沙海拾金/爱的抱歉.md",
+    "沙海拾金/爱是行动，不易言说.md",
+    "沙海拾金/忘我.jpeg",
+    "沙海拾金/礼貌与尊重4.JPEG",
+    "沙海拾金/慵懒政治.jpeg",
+    "沙海拾金/事实的重量.jpg",
+    "沙海拾金/天赐的休息.jpeg",
+    "Anonymity/04 - 社科答集/MINECRAFT.md",
+    "定规矩.md"
   ]
 }
