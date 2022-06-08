@@ -7,8 +7,33 @@
         "id": "2cc04dfaf8c82b42",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Anonymity/04 - 社科答集/不严肃.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "247dd9991716184e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anonymity/08 - 文艺答集/文字狱.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5318d16588320bdd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anonymity/04 - 社科答集/遏制台独.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "《",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anonymity/04 - 社科答集/不严肃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +131,15 @@
   },
   "active": "2cc04dfaf8c82b42",
   "lastOpenFiles": [
+    "Anonymity/04 - 社科答集/不严肃.md",
+    "Nell Nell/05 - 书评 & 影评/《Close up》.md",
+    "Anonymity/04 - 社科答集/遏制台独.md",
+    "Anonymity/08 - 文艺答集/文字狱.md",
     "README.md",
     "安全感互助.md",
     "自下人一等.md",
     "从无到有.md",
     "老师这样对我我好害怕，我能怎么办？.md",
-    "砸采样点.md",
-    "紧急呼救.md",
-    "父母恩.md",
-    "紧急呼救2.md",
-    "分享.md"
+    "砸采样点.md"
   ]
 }
