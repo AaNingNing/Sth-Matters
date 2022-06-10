@@ -3,7 +3,7 @@
 
 > Author: #Anonymity 
 Last update: *08/09/2021* 
-Links: [[SOP - 蒸蛋羹]] [[做计划]] [[拖拉机]] [[西安地铁事件]]
+Links: [[SOP - 蒸蛋羹]] [[做计划]] [[拖拉机]] 
 Tags:   #方法实践SOP 
 沙海拾金：[[SOP - 企业制度.jpeg]]
   

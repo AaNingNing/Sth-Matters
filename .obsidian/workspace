@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "466d26346e80f303",
+        "id": "bec18a4c84df0f07",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438
+    "width": 222
   },
   "right": {
     "id": "667d5636990656b4",
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +106,17 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "466d26346e80f303",
+  "active": "bec18a4c84df0f07",
   "lastOpenFiles": [
-    "www.zhihu.com/people/50b31a58e334c2e12c72e8fd8448a133.md",
-    "Anonymity/03 - 第一性/公事无私怨.md",
-    "Anonymity/13 - 百年未有之变局/基辅独立报.md",
-    "Anonymity/13 - 百年未有之变局/泽连斯基喊话俄方「是时候见面谈谈了，否则你们撑不下去了」，现在到俄乌元首会晤的时机了吗？.md",
-    "Anonymity/09 - 神学答集/生养众多，遍满地面.md",
-    "Anonymity/01 - 家族答集/崇拜与自恋.md",
-    "自律.md",
-    "声言具备恰证其无.md",
-    "Anonymity/04 - 社科答集/大胆印钱.md",
-    "www.zhihu.com/people/87e75a7b8cc05738b6b26d5659dc6008.md"
+    "README.md",
+    "不行.md",
+    "俄罗斯工业体系.md",
+    "海关总署公布「今年前 5 个月中国外贸进出口总值同比增长 8.3% 」，哪些信息值得关注？.md",
+    "家里闯进一只猫，我以为是流浪猫就养着了，结果第三天看见猫主人贴的偷猫死全家的告示，这时候该不该还猫？.md",
+    "Anonymity/03 - 第一性/受伤害.md",
+    "学英语.md",
+    "天赋.md",
+    "开心.md",
+    "爱的底线.md"
   ]
 }
