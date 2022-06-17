@@ -175,7 +175,7 @@ To be continued.
 
 #### Label format
 > Author: #Anonymity 
-Last update: *10/06/2022* 
+Last update: *17/06/2022* 
 Links: 
 Tags: 
 
@@ -183,7 +183,7 @@ Tags:
 
 授权证明：
 [[转载授权_Anonymity.png]]
-核对日期：10/06/2022
+核对日期：17/06/2022
 
 ---
 

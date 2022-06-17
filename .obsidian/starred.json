@@ -293,7 +293,7 @@
     {
       "type": "file",
       "title": "一点就透",
-      "path": "Anonymity/01 - 家族答集/悟性2.md"
+      "path": "Anonymity/01 - 家族答集/悟性 1.md"
     },
     {
       "type": "file",
@@ -958,7 +958,7 @@
     {
       "type": "file",
       "title": "悟性",
-      "path": "Anonymity/01 - 家族答集/悟性1.md"
+      "path": "Anonymity/01 - 家族答集/悟性.md"
     },
     {
       "type": "file",
@@ -1514,6 +1514,16 @@
       "type": "file",
       "title": "遏制台独",
       "path": "Anonymity/04 - 社科答集/遏制台独.md"
+    },
+    {
+      "type": "file",
+      "title": "社会化",
+      "path": "社会化.md"
+    },
+    {
+      "type": "file",
+      "title": "抗骚扰",
+      "path": "抗骚扰.md"
     }
   ]
 }
