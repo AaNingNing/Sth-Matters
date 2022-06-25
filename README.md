@@ -124,14 +124,35 @@ https://zhuanlan.zhihu.com/p/380200295
 
 ---
 
-## 附录 - 优秀学习资源
+## 附录 
+### 官方合集
 
-###  有声&视频：
+【文章备份】[GitHub - itrewub/jh-notes](https://link.zhihu.com/?target=https%3A//github.com/itrewub/jh-notes)
+
+【答集】[家族答集](https://www.zhihu.com/collection/378738313)
+
+【答集】[社科答集](https://www.zhihu.com/collection/304176992)
+
+【答集】[企管答集](https://www.zhihu.com/collection/378738376)
+
+【答集】[第一性](https://www.zhihu.com/collection/369876193)
+
+【答集】[百年未有之变局](https://www.zhihu.com/collection/787300206)
+
+【温故知新】 [答案轮播](https://www.zhihu.com/collection/810750890)
+
+【值得一读】[一条阅读轨迹](https://www.zhihu.com/collection/163594245)
+
+---
+
+### 优秀学习资源
+
+####  有声&视频：
 
 【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
 
 
-### 文字类：
+#### 文字类：
 
 【App】 [大卫 - Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619)
 
