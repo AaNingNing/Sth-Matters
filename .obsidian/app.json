@@ -3,8 +3,8 @@
   "spellcheck": true,
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical",
-  "strictLineBreaks": false,
+  "fileSortOrder": "byModifiedTimeReverse",
+  "strictLineBreaks": true,
   "readableLineLength": true,
   "promptDelete": false
 }

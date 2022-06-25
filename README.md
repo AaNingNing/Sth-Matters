@@ -126,15 +126,20 @@ https://zhuanlan.zhihu.com/p/380200295
 
 ## 附录 - 优秀学习资源
 
-## 文字类：
+###  有声&视频：
 
-【App】 [大卫 - Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619)
+【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
 
-【网站】[Last Resort](https://obhistorican.blogspot.com/)
 
-【网站】 [张慕晖 - Note Reader](https://jh-reader.github.io/)
+### 文字类：
 
-【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
+【App】 [大卫 - Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619)
+
+【网站】[Last Resort](https://link.zhihu.com/?target=https%3A//obhistorican.blogspot.com/)
+
+【网站】 [张慕晖 - Note Reader](https://link.zhihu.com/?target=https%3A//jh-reader.github.io/)
+
+【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
 【Doc/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
 
@@ -142,15 +147,43 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【摘抄】[评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
 
-【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
+【延伸阅读】 [星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
-【核心能力】 [烟雨行船 - “冬眠”不完全指南](https://zhuanlan.zhihu.com/p/523764249)
+【收藏夹】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
-【核心能力】 [烟雨行船 - Notes‘ notes](https://zhuanlan.zhihu.com/p/523762857)
+【收藏夹】[夫见 - 核心能力训练合集](https://www.zhihu.com/column/c_1405957234203062272)
+
+【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
+
+【核心能力】 [烟雨行船 - “冬眠”不完全指南](https://zhuanlan.zhihu.com/p/523764249)
+
+【核心能力】 [烟雨行船 - Notes‘ notes](https://zhuanlan.zhihu.com/p/523762857)
 
 【核心能力】[安之 - 幸福生存指南](https://zhuanlan.zhihu.com/p/512084569)
 
-【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
+【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
+
+【专题拓展】[世外逃员 - “原谅”的能力·训练手册](https://zhuanlan.zhihu.com/p/530474693)
+
+【专题拓展】[世外逃员 - “苦难淬炼法”·训练手册](https://zhuanlan.zhihu.com/p/530435714)
+
+【专题拓展】[世外逃员 - “怀疑”能力·训练手册](https://zhuanlan.zhihu.com/p/529930565)
+
+【专题拓展】[世外逃员 - 【元能力】表达能力·训练手册](https://zhuanlan.zhihu.com/p/529925591)
+
+【专题拓展】[世外逃员 - 你使用“我”的频率有多高？](https://zhuanlan.zhihu.com/p/529501615)
+
+【专题拓展】[世外逃员 - 关于“三观”及其相关衍生的定义](https://zhuanlan.zhihu.com/p/527609493)
+
+【专题拓展】[世外逃员 - 关于“自由”的定义](https://zhuanlan.zhihu.com/p/527517887)
+
+【专题拓展】[世外逃员 - 关于“冲动”、“暴怒”、“情绪化”](https://zhuanlan.zhihu.com/p/527258576)
+
+【专题拓展】[世外逃员 - 关于“暴力”、“防身术”](https://zhuanlan.zhihu.com/p/527242687)
+
+【专题拓展】[世外逃员 - 关于“性”、“青春期”](https://zhuanlan.zhihu.com/p/527184528)
+
+【专题拓展】[世外逃员 - 关键词：“天赋”](https://zhuanlan.zhihu.com/p/527138584)
 
 【分类】[文章分类-500-社会科学类](https://zhuanlan.zhihu.com/p/392743487)
 
@@ -160,14 +193,8 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【分类】[文章分类-400-应用学科类](https://zhuanlan.zhihu.com/p/392737743)
 
----
-
-## 有声&视频：
-
-【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
-
-
 To be continued.
+
 
 ---
 
@@ -175,7 +202,7 @@ To be continued.
 
 #### Label format
 > Author: #Anonymity 
-Last update: *17/06/2022* 
+Last update: *25/06/2022* 
 Links: 
 Tags: 
 
@@ -183,7 +210,7 @@ Tags:
 
 授权证明：
 [[转载授权_Anonymity.png]]
-核对日期：17/06/2022
+核对日期：24/06/2022
 
 ---
 
