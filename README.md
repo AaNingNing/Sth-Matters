@@ -219,19 +219,30 @@ To be continued.
 
 ---
 
-## Library
+授权证明：
+[[转载授权_Anonymity.png]]
+核对日期：02/07/2022
 
+
+---
+---
+
+## Library
 #### Label format
 > Author: #Anonymity 
-Last update: *25/06/2022* 
+Last update: *02/07/2022* 
 Links: 
 Tags: 
 
----
-
-授权证明：
-[[转载授权_Anonymity.png]]
-核对日期：24/06/2022
+#### Checklist
+- [新增文章]
+	- Title of Articles (Label untitled articles)
+	- Finished for now/To be continued (Label unfinished articles)
+	- Links & tags
+	- Update Date
+- [沙海拾金]
+- [句子摘抄]
+- [Check Authorize certificate]
 
 ---
 

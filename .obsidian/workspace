@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ece9c2335462f5d1",
+        "id": "f26be8ca2bcf0fd2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: READ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 285
   },
   "right": {
     "id": "667d5636990656b4",
@@ -106,17 +106,17 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "ece9c2335462f5d1",
+  "active": "f26be8ca2bcf0fd2",
   "lastOpenFiles": [
     "README.md",
-    "摘抄本/句子摘录.md",
-    "德国人是否开始怀念默克尔？.md",
-    "加里宁格勒.md",
-    "Anonymity/04 - 社科答集/自愧不如.md",
-    "自愧不如.md",
-    "四步一没有.md",
-    "《互联网跟帖评论服务管理规定（修订草案征求意见稿）》发布，网络跟帖必须先审后发，对网络生态会有何影响？.md",
-    "为什么我以真诚之心待人，别人反而会坑我呢？.md",
-    "归去来.md"
+    "沙海拾金/北约未来预测.jpeg",
+    "沙海拾金/自然法.png",
+    "魔法蛋.md",
+    "沙海拾金/魔法蛋.png",
+    "沙海拾金/你的事.jpg",
+    "你的事.md",
+    "忠诚.md",
+    "沙海拾金/自卫的界限.jpg",
+    "沙海拾金/先独立再合作.jpg"
   ]
 }
