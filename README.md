@@ -230,7 +230,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-Last update: *02/07/2022* 
+Last update: *11/07/2022* 
 Links: 
 Tags: 
 
@@ -242,7 +242,7 @@ Tags:
 	- Update Date
 - [沙海拾金]
 - [句子摘抄]
-- [Check Authorize certificate]
+- [Check Authorise certificate]
 
 ---
 

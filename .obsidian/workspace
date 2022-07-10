@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f26be8ca2bcf0fd2",
+        "id": "7ea5f6c3438678db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: READ",
+                "query": "数学",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -56,11 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 320
   },
   "right": {
     "id": "667d5636990656b4",
@@ -106,17 +108,17 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "f26be8ca2bcf0fd2",
+  "active": "7ea5f6c3438678db",
   "lastOpenFiles": [
     "README.md",
-    "沙海拾金/北约未来预测.jpeg",
-    "沙海拾金/自然法.png",
-    "魔法蛋.md",
-    "沙海拾金/魔法蛋.png",
-    "沙海拾金/你的事.jpg",
-    "你的事.md",
-    "忠诚.md",
-    "沙海拾金/自卫的界限.jpg",
-    "沙海拾金/先独立再合作.jpg"
+    "Anonymity/01 - 家族答集/休息.md",
+    "刑罚之外.md",
+    "说话的兽.md",
+    "嬉笑的对价.md",
+    "日本前首相安倍晋三胸部中枪，因伤势过重不治身亡，背后原因为何？还有哪些进展值得关注？.md",
+    "自以为是.md",
+    "你有什么记笔记的小技巧，让笔记变的好看、耐看，愿意去复习？.md",
+    "一个人智商高了有多可怕？.md",
+    "无人机.md"
   ]
 }

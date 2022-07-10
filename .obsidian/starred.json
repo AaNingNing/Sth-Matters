@@ -1528,12 +1528,17 @@
     {
       "type": "file",
       "title": "礼",
-      "path": "礼.md"
+      "path": "Anonymity/01 - 家族答集/礼.md"
     },
     {
       "type": "file",
       "title": "越界",
-      "path": "越界.md"
+      "path": "Anonymity/02 - 企管答集/越界.md"
+    },
+    {
+      "type": "file",
+      "title": "科学信仰",
+      "path": "Anonymity/09 - 神学答集/科学信仰.md"
     }
   ]
 }
