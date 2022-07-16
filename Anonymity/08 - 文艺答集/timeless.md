@@ -3,9 +3,9 @@
 
 
 > Author: #Anonymity 
-Last update: *16/04/2022* 
-Links: 
-Tags: 
+> Last update: *16/04/2022* 
+> Links:
+> Tags: 
 
 日产提出的是“时间无关的日式未来主义”。
 

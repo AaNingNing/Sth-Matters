@@ -2,9 +2,9 @@
 [巴基斯坦多个城市爆发大规模抗议，有哪些信息值得关注？](https://www.zhihu.com/question/525966847/answer/2434991542)
 
 > Author: #Anonymity 
-Last update: *16/04/2022* 
-Links: 
-Tags: 
+> Last update: *16/04/2022* 
+> Links:
+> Tags: 
 
 [巴基斯坦](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2434991542%7D)这个国家——甚至可以说是所有美国在搅和的不发达国家——似乎总是在发生“亲着美上台，反着美下台”的轮回。
 

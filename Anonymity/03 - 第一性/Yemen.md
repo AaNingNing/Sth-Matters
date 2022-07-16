@@ -2,9 +2,9 @@
 [如何体面的结束一段感情？](https://www.zhihu.com/question/294412231/answer/2180850450)
 
 > Author: #Anonymity 
-Last update: *23/10/2021* 
-Links: [[爱]] [[生离死别]]  
-Tags:  #亲密关系
+> Last update: *23/10/2021* 
+> Links:[[爱]] [[生离死别]]  
+> Tags:  #亲密关系
 
 只有在知道爱是什么、而且有爱的两个人之间，才存在这种奇迹。
 

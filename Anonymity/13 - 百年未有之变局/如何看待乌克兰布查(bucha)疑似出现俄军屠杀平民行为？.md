@@ -1,9 +1,9 @@
 [如何看待乌克兰布查(bucha)疑似出现俄军屠杀平民行为？](https://www.zhihu.com/question/525574123/answer/2421463724)
 
 > Author: #Anonymity 
-Last update: *08/04/2022* 
-Links: 
-Tags: #待命名TBN 
+> Last update: *08/04/2022* 
+> Links:
+> Tags: #待命名TBN 
   
 
 抱歉，目前对乌克兰和西方媒体的报道已经置信度归零。

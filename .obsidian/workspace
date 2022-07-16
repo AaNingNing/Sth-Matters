@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面向灾难经营.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数学",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 261
   },
   "right": {
     "id": "667d5636990656b4",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面向灾难经营.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "7ea5f6c3438678db",
   "lastOpenFiles": [
-    "面向灾难经营.md",
-    "溯溪鞋.md",
-    "华容道.md",
-    "你有什么记笔记的小技巧，让笔记变的好看、耐看，愿意去复习？.md",
-    "日本前首相安倍晋三胸部中枪，因伤势过重不治身亡，背后原因为何？还有哪些进展值得关注？.md",
-    "乌克兰军队接下来怎么打合理？.md",
-    "我认为美人计纯属虚构，因为那些人根本不缺美人，怎么可能中美人计呢？.md",
-    "成绩优异，没钱留学只能保国内研究生，而成绩比我差的申到国外好学校，心里难受怎么办？.md",
-    "如何评价越南第二代领导人黎笋？.md",
-    "钟薛高雪糕用火烤不融化，反而烧糊了，用电吹风热风吹不化，是什么原理？.md"
+    "拍蒜.md",
+    "想买特斯拉，请一句话劝退我?.md",
+    "透视.md",
+    "受到威胁.md",
+    "打游戏.md",
+    "Anonymity/01 - 家族答集/习惯.md",
+    "没关系.md",
+    "谈钱.md",
+    "美国为何至今没能完成马氏高超音速武器的设计研发？.md",
+    "男朋友脑部受损，医生说随时可能死，没有准信，他想让我给他生个孩子，我19岁一本，大一，不知道怎么办?.md"
   ]
 }

@@ -2,9 +2,9 @@
 *男人维护女权是一种什么心理?*
 
 > Author: #Anonymity
-Last update: *16/01/2022* 
-Links: [[致读者 - I]] [[爱]]
-Tags: 
+> Last update: *16/01/2022* 
+> Links:[[致读者 - I]] [[爱]]
+> Tags: 
 
  
 对个人来说，所有的伦理命题一共分为这么几种情况：

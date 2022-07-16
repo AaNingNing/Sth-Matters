@@ -1,9 +1,9 @@
 [如何评价指挥网友声援A-SOUL讨伐字节控评引流的粉头“Karl Marx”是名作业没写完的高一学生?](https://www.zhihu.com/question/533070230/answer/2533825407)
 
 > Author: #Anonymity 
-Last update: *25/06/2022* 
-Links: [[膝盖的目的]]
-Tags: #待命名TBN 
+> Last update: *25/06/2022* 
+> Links:[[膝盖的目的]]
+> Tags: #待命名TBN 
 
 可怜的娃。
 

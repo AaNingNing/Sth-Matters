@@ -2,9 +2,9 @@
 *如何看待央视体育暂停 NBA 赛事转播，排查涉及 NBA 的一切合作?*
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links: [[历史必然]]
-Tags:   
+> Last update: *23/07/2021* 
+> Links:[[历史必然]]
+> Tags:   
 
  
 问题的重点并不在nba身上，而在“充分发挥中国自己的实力，获得舆论影响力”上。

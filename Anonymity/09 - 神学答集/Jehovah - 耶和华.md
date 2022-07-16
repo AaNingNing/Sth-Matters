@@ -1,9 +1,9 @@
 # Jehovah - 耶和华
 *Jehovah（耶和华） 是一个错误翻译吗？*
 > Author: #Anonymity 
-Last update: *26/07/2021* 
-Links: [[斑点狗]] [[上帝 - 人格化]]
-Tags:   
+> Last update: *26/07/2021* 
+> Links:[[斑点狗]] [[上帝 - 人格化]]
+> Tags:   
   
 
 亚伯拉罕诸教有很多非常值得人注意的领悟，堪称它们神学王冠上的宝石。

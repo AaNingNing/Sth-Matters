@@ -2,9 +2,9 @@
 *成为像John Hexa这样的人，有没有一套可供参考的努力方向?*
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links: [[致读者 - I]] [[致读者 - II]] [[爱]]
-Tags:  
+> Last update: *23/07/2021* 
+> Links:[[致读者 - I]] [[致读者 - II]] [[爱]]
+> Tags:  
 
  
 总结一下我变成我的几大因素：

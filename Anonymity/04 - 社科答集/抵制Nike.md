@@ -2,9 +2,9 @@
 [大家会抵制Nike吗？](https://www.zhihu.com/question/451104022/answer/1808972837)
 
 > Author: #Anonymity 
-Last update: *02/02/2022* 
-Links: 
-Tags: #一些推荐 
+> Last update: *02/02/2022* 
+> Links:
+> Tags: #一些推荐 
 
 当然。
 

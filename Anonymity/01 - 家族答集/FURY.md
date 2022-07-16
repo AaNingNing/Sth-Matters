@@ -2,9 +2,9 @@
 [一个人的狂怒能有多可怕？](https://www.zhihu.com/question/266645399/answer/1969210271)
 
 > Author: #Anonymity 
-Last update: *30/07/2021* 
-Links: [[怒的边界]] [[Anonymity/01 - 家族答集/制怒]] [[戒色]] [[习惯]] 
-Tags: 
+> Last update: *30/07/2021* 
+> Links:[[怒的边界]] [[Anonymity/01 - 家族答集/制怒]] [[戒色]] [[习惯]] 
+> Tags: 
 
 
 匹夫之怒，血溅五步；

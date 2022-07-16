@@ -2,9 +2,9 @@
 *如何看待特朗普正式封杀 TikTok 和微信，这意味着什么�?*
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links:
-Tags:   
+> Last update: *23/07/2021* 
+> Link:s
+> Tags:   
 
  
 这不是美国的“国家紧急状态”，而是“特朗普紧急状态”。

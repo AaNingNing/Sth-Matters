@@ -3,9 +3,9 @@
 
 
 > Author: #Anonymity 
-Last update: *23/06/2021* 
-Links: [[制赌]] [[励志]] [[程序管理人类]]
-Tags:       
+> Last update: *23/06/2021* 
+> Links:[[制赌]] [[励志]] [[程序管理人类]]
+> Tags:       
 
 
 一开始就不合理。

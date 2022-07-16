@@ -2,10 +2,10 @@
 [关于西安地铁三号线事件，你们怎么看?](https://www.zhihu.com/question/483871366/answer/2103934331)
 
 > Author: #Anonymity 
-Last update: *08/09/2021* 
-Links: [[SOP - 蒸蛋羹]] [[做计划]] [[拖拉机]] 
-Tags:   #方法实践SOP 
-沙海拾金：[[SOP - 企业制度.jpeg]]
+> Last update: *08/09/2021* 
+> Links:[[SOP - 蒸蛋羹]] [[做计划]] [[拖拉机]] 
+> Tags:   #方法实践SOP 
+> 沙海拾金:[[SOP - 企业制度.jpeg]]
   
 这件事的主要启示有两条：
 

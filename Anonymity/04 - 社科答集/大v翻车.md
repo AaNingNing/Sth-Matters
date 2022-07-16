@@ -2,9 +2,9 @@
 *如何评价最近知乎女权男大v相继翻车？有何相似性，我们从中可以吸取什么经验教训?*
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links:
-Tags:   
+> Last update: *23/07/2021* 
+> Link:s
+> Tags:   
 
  
 别折腾了，有一个算一个，人都是有罪之人。

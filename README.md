@@ -230,9 +230,9 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-Last update: *11/07/2022* 
-Links: 
-Tags: 
+> Last update: *17/07/2022* 
+> Links:
+> Tags: 
 
 #### Checklist
 - [新增文章]

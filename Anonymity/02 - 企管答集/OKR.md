@@ -2,9 +2,9 @@
 *OKR工具是否被夸大？*
 
 > Author: #Anonymity
-Last update: *25/07/2021* 
-Links: [[SOP - 蒸蛋羹]]
-Tags: 
+> Last update: *25/07/2021* 
+> Links:[[SOP - 蒸蛋羹]]
+> Tags: 
   
 恕我直言，在企业中要实施OKR，需要学术与实践的双重大师的这种级别。  
   

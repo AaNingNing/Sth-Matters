@@ -2,9 +2,9 @@
 *放弃使用「她」字是性别歧视，还是男女平等？* 
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links: [[学好语文]]
-Tags:       
+> Last update: *23/07/2021* 
+> Links:[[学好语文]]
+> Tags:       
 
 
 

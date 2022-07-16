@@ -2,9 +2,9 @@
 *这次 iPhone 12 的销量会苹果是最低的吗?*
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links: [[5G]]
-Tags:  
+> Last update: *23/07/2021* 
+> Links:[[5G]]
+> Tags:  
 
  
 当然不会。

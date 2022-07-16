@@ -2,9 +2,9 @@
 *BRT 和地铁相比有哪些优劣之处？* 
 
 > Author: #Anonymity
-Last update: *23/06/2021* 
-Links: [[未来十年]] [[5G]] [[5G - 未来展望2]]
-Tags:       
+> Last update: *23/06/2021* 
+> Links:[[未来十年]] [[5G]] [[5G - 未来展望2]]
+> Tags:       
 
 
 

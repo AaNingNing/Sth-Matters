@@ -2,9 +2,9 @@
 *如何评价微软React组件库Fabric Ui?*
 
 > Author: #Anonymity
-Last update: *23/06/2021* 
-Links: [[高管写代码]] [[码农的屏幕]] 
-Tags:  
+> Last update: *23/06/2021* 
+> Links:[[高管写代码]] [[码农的屏幕]] 
+> Tags:  
 
  
 资源太少。

@@ -3,9 +3,9 @@
 
 
 > Author: #Anonymity
-Last update: *23/06/2021* 
-Links: [[美国方式]] [[塔利班]]
-Tags:     
+> Last update: *23/06/2021* 
+> Links:[[美国方式]] [[塔利班]]
+> Tags:     
 
 
 

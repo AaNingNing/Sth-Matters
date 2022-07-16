@@ -2,9 +2,9 @@
 [如何看待 H&M 在「禁用新疆棉花」一事后，疑似遭淘宝等多个电商平台下架？](https://www.zhihu.com/question/451051189/answer/1798289573)
 
 > Author: #Anonymity
-Last update: *23/07/2021* 
-Links: [[时尚品味]] [[时尚与fashion]]
-Tags:  
+> Last update: *23/07/2021* 
+> Links:[[时尚品味]] [[时尚与fashion]]
+> Tags:  
 
 
 其实在中国挑战面前地位最危险的行业就是服装行业和时尚行业。

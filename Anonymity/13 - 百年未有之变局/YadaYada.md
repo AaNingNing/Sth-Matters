@@ -2,9 +2,9 @@
 [德国宣布驱逐 40 名俄罗斯外交官，释放了什么信号？](https://www.zhihu.com/question/526052761/answer/2424589171)
 
 > Author: #Anonymity 
-Last update: *08/04/2022* 
-Links: [[TOUGHNESS]] [[撒娇政治]]
-Tags: 
+> Last update: *08/04/2022* 
+> Links:[[TOUGHNESS]] [[撒娇政治]]
+> Tags: 
 
 Yada yada yada…
 
