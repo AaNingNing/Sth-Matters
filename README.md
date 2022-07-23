@@ -166,11 +166,11 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
 
-【摘抄】[评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
+【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
 
-【摘抄】[比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
+【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
 
-【延伸阅读】 [星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
+【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
 【收藏夹】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
 
