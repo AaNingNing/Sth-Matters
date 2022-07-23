@@ -168,7 +168,11 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【摘抄】[评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
 
+【摘抄】[比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
+
 【延伸阅读】 [星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
+
+【收藏夹】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
 
 【收藏夹】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
@@ -221,7 +225,7 @@ To be continued.
 
 授权证明：
 [[转载授权_Anonymity.png]]
-核对日期：02/07/2022
+核对日期：23/07/2022
 
 
 ---
@@ -230,7 +234,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-> Last update: *17/07/2022* 
+> Last update: *23/07/2022* 
 > Links:
 > Tags: 
 
