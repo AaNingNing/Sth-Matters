@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "较真.md",
+            "file": "摘抄本/句子摘录.md",
             "mode": "source",
             "source": false
           }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "较真.md",
+                "file": "摘抄本/句子摘录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +107,17 @@
     "direction": "horizontal",
     "width": 216.66665649414062
   },
-  "active": "7eb7093046f84031",
+  "active": "7569597966c86526",
   "lastOpenFiles": [
+    "Anonymity/01 - 家族答集/原谅.md",
+    "README.md",
+    "较真.md",
     "爱与妥协.md",
     "浪费生命.md",
     "感动.md",
     "二舅.md",
     "两罪并罚.md",
-    "README.md",
-    "Anonymity/01 - 家族答集/原谅.md",
     "Anonymity/01 - 家族答集/永远忐忑.md",
-    "沙海拾金/企业的人才积累.JPEG",
-    "Anonymity/00 - 致读者/致读者 - 关于收费.JPEG"
+    "沙海拾金/企业的人才积累.JPEG"
   ]
 }
