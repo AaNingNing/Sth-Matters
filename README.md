@@ -150,6 +150,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ####  有声&视频：
 
 【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
+【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
 
 
 #### 文字类：
@@ -172,13 +173,15 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
-【收藏夹】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
+【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
 
-【收藏夹】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
+【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
-【收藏夹】[夫见 - 核心能力训练合集](https://www.zhihu.com/column/c_1405957234203062272)
+【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
 
 【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
+
+【核心能力】[夫见 - 核心能力训练合集](https://www.zhihu.com/column/c_1405957234203062272)
 
 【核心能力】 [烟雨行船 - “冬眠”不完全指南](https://zhuanlan.zhihu.com/p/523764249)
 
@@ -188,27 +191,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
 
-【专题拓展】[世外逃员 - “原谅”的能力·训练手册](https://zhuanlan.zhihu.com/p/530474693)
-
-【专题拓展】[世外逃员 - “苦难淬炼法”·训练手册](https://zhuanlan.zhihu.com/p/530435714)
-
-【专题拓展】[世外逃员 - “怀疑”能力·训练手册](https://zhuanlan.zhihu.com/p/529930565)
-
-【专题拓展】[世外逃员 - 【元能力】表达能力·训练手册](https://zhuanlan.zhihu.com/p/529925591)
-
-【专题拓展】[世外逃员 - 你使用“我”的频率有多高？](https://zhuanlan.zhihu.com/p/529501615)
-
-【专题拓展】[世外逃员 - 关于“三观”及其相关衍生的定义](https://zhuanlan.zhihu.com/p/527609493)
-
-【专题拓展】[世外逃员 - 关于“自由”的定义](https://zhuanlan.zhihu.com/p/527517887)
-
-【专题拓展】[世外逃员 - 关于“冲动”、“暴怒”、“情绪化”](https://zhuanlan.zhihu.com/p/527258576)
-
-【专题拓展】[世外逃员 - 关于“暴力”、“防身术”](https://zhuanlan.zhihu.com/p/527242687)
-
-【专题拓展】[世外逃员 - 关于“性”、“青春期”](https://zhuanlan.zhihu.com/p/527184528)
-
-【专题拓展】[世外逃员 - 关键词：“天赋”](https://zhuanlan.zhihu.com/p/527138584)
+【专题拓展】[世外逃员 - #Caritas Tips# 识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
 
 【分类】[文章分类-500-社会科学类](https://zhuanlan.zhihu.com/p/392743487)
 
@@ -225,7 +208,7 @@ To be continued.
 
 授权证明：
 [[转载授权_Anonymity.png]]
-核对日期：23/07/2022
+核对日期：30/07/2022
 
 
 ---
@@ -234,7 +217,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-> Last update: *23/07/2022* 
+> Last update: *30/07/2022* 
 > Links:
 > Tags: 
 

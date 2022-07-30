@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0c489af2e02cc3",
+        "id": "7eb7093046f84031",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "摘抄本/句子摘录.md",
+            "file": "较真.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "既然不求回报是本质的要",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -57,12 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 410
   },
   "right": {
     "id": "667d5636990656b4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/句子摘录.md",
+                "file": "较真.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +106,17 @@
     "direction": "horizontal",
     "width": 216.66665649414062
   },
-  "active": "7569597966c86526",
+  "active": "7eb7093046f84031",
   "lastOpenFiles": [
-    "Anonymity/01 - 家族答集/不抱怨.md",
-    "Anonymity/02 - 企管答集/WhatThen.md",
-    "Anonymity/01 - 家族答集/条理.md",
-    "Anonymity/10 - “就你机灵”系列/CIA的追杀.md",
-    "摘抄本/句子摘录.md",
-    "Anonymity/01 - 家族答集/对事不对人.md",
+    "爱与妥协.md",
+    "浪费生命.md",
+    "感动.md",
+    "二舅.md",
+    "两罪并罚.md",
     "README.md",
-    "沙海拾金/求知1.jpeg",
-    "沙海拾金/求知2.jpeg",
-    "沙海拾金/致读者1.jpg"
+    "Anonymity/01 - 家族答集/原谅.md",
+    "Anonymity/01 - 家族答集/永远忐忑.md",
+    "沙海拾金/企业的人才积累.JPEG",
+    "Anonymity/00 - 致读者/致读者 - 关于收费.JPEG"
   ]
 }
