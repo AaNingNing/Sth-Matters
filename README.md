@@ -150,6 +150,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ####  有声&视频：
 
 【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
+【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320)
 【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
 
 
@@ -165,6 +166,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【Doc/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
 
+【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
 【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
 
 【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
@@ -174,10 +176,11 @@ https://zhuanlan.zhihu.com/p/380200295
 【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
 【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
-
 【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
 【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
+
+【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
 
 【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
 
@@ -191,7 +194,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
 
-【专题拓展】[世外逃员 - #Caritas Tips# 识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
+【专题拓展】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
 
 【分类】[文章分类-500-社会科学类](https://zhuanlan.zhihu.com/p/392743487)
 
@@ -217,7 +220,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-> Last update: *30/07/2022* 
+> Last update: *06/08/2022* 
 > Links:
 > Tags: 
 

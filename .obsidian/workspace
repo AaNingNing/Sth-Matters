@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb7093046f84031",
+        "id": "3ca27518d2e6f565",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "摘抄本/句子摘录.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c5d3efff340fa504",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -57,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 410
+    "width": 197
   },
   "right": {
     "id": "667d5636990656b4",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/句子摘录.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +118,17 @@
     "direction": "horizontal",
     "width": 216.66665649414062
   },
-  "active": "7569597966c86526",
+  "active": "c5d3efff340fa504",
   "lastOpenFiles": [
-    "Anonymity/01 - 家族答集/原谅.md",
+    "Anonymity/01 - 家族答集/较真.md",
     "README.md",
-    "较真.md",
-    "爱与妥协.md",
-    "浪费生命.md",
-    "感动.md",
-    "二舅.md",
-    "两罪并罚.md",
-    "Anonymity/01 - 家族答集/永远忐忑.md",
-    "沙海拾金/企业的人才积累.JPEG"
+    "摘抄本/句子摘录.md",
+    "窜访.md",
+    "武力促统.md",
+    "沙海拾金/刚刚开始.jpeg",
+    "沙海拾金/百年未有之变局.jpeg",
+    "沙海拾金/Bluffing.jpeg",
+    "上智下愚.md",
+    "体制信仰.md"
   ]
 }
