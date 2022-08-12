@@ -167,6 +167,7 @@ https://zhuanlan.zhihu.com/p/380200295
 【Doc/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
 
 【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
+
 【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
 
 【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
@@ -176,11 +177,16 @@ https://zhuanlan.zhihu.com/p/380200295
 【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
 【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
+
 【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
 【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
 
+【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
+
 【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
+
+【专题研究】 [疗愈艺术 - 手绘长直线研究中心](https://www.zhihu.com/collection/821986940)
 
 【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
 
@@ -220,7 +226,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-> Last update: *06/08/2022* 
+> Last update: *12/08/2022* 
 > Links:
 > Tags: 
 

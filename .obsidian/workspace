@@ -4,19 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca27518d2e6f565",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "摘抄本/句子摘录.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c5d3efff340fa504",
+        "id": "d3c84406aec3d426",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "补强",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,11 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 365
   },
   "right": {
     "id": "667d5636990656b4",
@@ -118,17 +107,17 @@
     "direction": "horizontal",
     "width": 216.66665649414062
   },
-  "active": "c5d3efff340fa504",
+  "active": "7569597966c86526",
   "lastOpenFiles": [
-    "Anonymity/01 - 家族答集/较真.md",
-    "README.md",
-    "摘抄本/句子摘录.md",
-    "窜访.md",
-    "武力促统.md",
-    "沙海拾金/刚刚开始.jpeg",
-    "沙海拾金/百年未有之变局.jpeg",
-    "沙海拾金/Bluffing.jpeg",
-    "上智下愚.md",
-    "体制信仰.md"
+    "Anonymity/04 - 社科答集/不准参赛.md",
+    "Anonymity/01 - 家族答集/天赋.md",
+    "沙海拾金/宽容.jpeg",
+    "Anonymity/01 - 家族答集/真正想做的事.md",
+    "Anonymity/01 - 家族答集/保持快乐.md",
+    "Anonymity/05 - 科学答集/应用科学/技术伦理.md",
+    "沙海拾金/技术伦理.jpg",
+    "最好的绘画工具.md",
+    "沙海拾金/创作态度.jpg",
+    "沙海拾金/“你不了解我”.jpeg"
   ]
 }
