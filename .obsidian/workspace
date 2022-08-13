@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Anonymity/04 - 社科答集/黑神话-悟空.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "补强",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Anonymity/04 - 社科答集/黑神话-悟空.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "7569597966c86526",
   "lastOpenFiles": [
-    "Anonymity/04 - 社科答集/不准参赛.md",
-    "Anonymity/01 - 家族答集/天赋.md",
-    "沙海拾金/宽容.jpeg",
-    "Anonymity/01 - 家族答集/真正想做的事.md",
-    "Anonymity/01 - 家族答集/保持快乐.md",
-    "Anonymity/05 - 科学答集/应用科学/技术伦理.md",
-    "沙海拾金/技术伦理.jpg",
-    "最好的绘画工具.md",
-    "沙海拾金/创作态度.jpg",
-    "沙海拾金/“你不了解我”.jpeg"
+    "Anonymity/04 - 社科答集/虐猫权.md",
+    "Anonymity/01 - 家族答集/纪实.md",
+    "Anonymity/04 - 社科答集/资本家.md",
+    "Anonymity/09 - 神学答集/道教.md",
+    "Anonymity/04 - 社科答集/紫薇圣人.md",
+    "Anonymity/13 - 百年未有之变局/有来有回.md",
+    "Anonymity/01 - 家族答集/无思想的人.md",
+    "Anonymity/04 - 社科答集/阶层与阶级1.md",
+    "沙海拾金/简洁策略.md",
+    "Anonymity/13 - 百年未有之变局/证实.md"
   ]
 }

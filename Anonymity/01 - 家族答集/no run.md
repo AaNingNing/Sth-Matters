@@ -2,7 +2,7 @@
 [如何看待当今年轻人张口闭口就是资本家，并以无知浅薄的方式来进行所谓的对抗，妄图让社会迎合他们的幼稚？](https://www.zhihu.com/question/541030715/answer/2555888987)
 > Author: #Anonymity 
 > Last update: *11/07/2022* 
-> Links:[[“资本家”]] [[剥削]] [[资本家的剥削]] [[不在乎]] [[棱角分明]] [[键政]]
+> Links:[[资本家]] [[剥削]] [[资本家的剥削]] [[不在乎]] [[棱角分明]] [[键政]]
 > Tags: 
 
 其实“对现状不满，进行某种归因，然后采取行动”这个[行为模式](https://www.zhihu.com/search?q=%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2555888987%7D)本身是没什么问题的。
