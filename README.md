@@ -226,7 +226,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-> Last update: *12/08/2022* 
+> Last update: *20/08/2022* 
 > Links:
 > Tags: 
 

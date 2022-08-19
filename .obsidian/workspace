@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c84406aec3d426",
+        "id": "f478471f5423fcd0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anonymity/04 - 社科答集/黑神话-悟空.md",
+            "file": "摘抄本/句子摘录.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365
+    "width": 278
   },
   "right": {
     "id": "667d5636990656b4",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/04 - 社科答集/黑神话-悟空.md",
+                "file": "摘抄本/句子摘录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.66665649414062
+    "width": 216.66665649414062,
+    "collapsed": true
   },
   "active": "7569597966c86526",
   "lastOpenFiles": [
-    "Anonymity/04 - 社科答集/虐猫权.md",
-    "Anonymity/01 - 家族答集/纪实.md",
-    "Anonymity/04 - 社科答集/资本家.md",
-    "Anonymity/09 - 神学答集/道教.md",
-    "Anonymity/04 - 社科答集/紫薇圣人.md",
-    "Anonymity/13 - 百年未有之变局/有来有回.md",
-    "Anonymity/01 - 家族答集/无思想的人.md",
-    "Anonymity/04 - 社科答集/阶层与阶级1.md",
-    "沙海拾金/简洁策略.md",
-    "Anonymity/13 - 百年未有之变局/证实.md"
+    "Anonymity/00 - 致读者/致读者 - I.md",
+    "沙海拾金/说了不听.jpeg",
+    "沙海拾金/你不了解我.jpeg",
+    "自动超人.md",
+    "条文.md",
+    "鱼虾测核酸.md",
+    "张艺谋想你.md",
+    "修船.md",
+    "痛而不苦.md",
+    "Anonymity/03 - 第一性/字斟句酌.md"
   ]
 }
