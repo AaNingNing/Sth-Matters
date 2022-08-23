@@ -1,12 +1,10 @@
 # UFO
 *如何看待知乎赵泠对于UFO的看法？*
 
-> Author: #Anonymity 
-> Last update: *27/06/2021* 
+> Author: #Anonymity
+> Last update: *27/06/2021*
 > Links:[[看见外星人]]
-> Tags:  
-
-
+> Tags:
 
 完全同意。
 
@@ -21,5 +19,3 @@
 科技的作用是可以帮你实现理想。
 
 但问题是，**人类的理想本身蕴含着灾难，立刻实现它意味着毁灭**。
-
-  

@@ -1,10 +1,10 @@
 # kintana moro
 [如何评价知乎用户 @kintana moro？](https://www.zhihu.com/question/30074326/answer/615067344)
 
-> Author: #Anonymity 
-> Last update: *02/02/2022* 
+> Author: #Anonymity
+> Last update: *02/02/2022*
 > Links:
-> Tags: 
+> Tags:
 
 有容人之量，这一点难能可贵。没有白学儒。
 

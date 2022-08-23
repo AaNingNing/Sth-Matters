@@ -1,10 +1,10 @@
 # MoneyTalk
 [为什么政府部门容易低效?](https://www.zhihu.com/question/29859457/answer/2464809215)
 
-> Author: #Anonymity 
-> Last update: *01/05/2022* 
+> Author: #Anonymity
+> Last update: *01/05/2022*
 > Links:
-> Tags: 
+> Tags:
 
 你怎么判断一个让你觉得进展缓慢的工作到底是低效，还是本来就只能快到那个程度？
 

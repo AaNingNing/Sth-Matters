@@ -1,11 +1,10 @@
 # timeless
 [日产汽车提出的「永恒的日式未来主义」设计理念，应该如何理解？](https://www.zhihu.com/question/527575542/answer/2438172463)
 
-
-> Author: #Anonymity 
-> Last update: *16/04/2022* 
+> Author: #Anonymity
+> Last update: *16/04/2022*
 > Links:
-> Tags: 
+> Tags:
 
 日产提出的是“时间无关的日式未来主义”。
 
@@ -14,4 +13,3 @@
 翻成“无间未来”，这里的答案九成口气要反转。
 
 翻译成“永恒的日式未来主义”，意味着日产应该换一家广告公司，顺便把负责中国区的品牌总监炒掉。
-

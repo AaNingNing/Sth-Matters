@@ -1,13 +1,10 @@
 # Black Wallstreet
 *黑人有没有可能自己建一个州？*
 
-
 > Author: #Anonymity
-> Last update: *23/06/2021* 
+> Last update: *23/06/2021*
 > Links:[[美国方式]] [[塔利班]]
-> Tags:     
-
-
+> Tags:
 
 了解一下Tulsa “Black Wallstreet” Massacre。
 

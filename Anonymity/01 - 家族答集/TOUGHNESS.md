@@ -1,12 +1,11 @@
 # TOUGHNESS
 [如何看待青少年频发自杀的事件？](https://www.zhihu.com/question/397899495/answer/2304462039)
 
-> Author: #Anonymity 
-> Last update: *11/12/2021* 
+> Author: #Anonymity
+> Last update: *11/12/2021*
 > Links:[[至勇]] [[自强]] [[世界史]] [[励志]] [[悲观与乐观]] [[看得见爱的眼睛]] [[不卑不亢]] [[不卑不亢1]] [[Anonymity/01 - 家族答集/战胜抑郁]] [[抑郁的潮]]
-> Tags: 
+> Tags:
 > 沙海拾金: [[软弱者的自困.jpeg]] [[人没有软弱权.jpg]] [[人没有软弱权1.jpeg]] [[人没有软弱权2.jpeg]]
-  
 
 从你个人的立场出发，为了精神健康起见，交朋友也罢、谈恋爱也罢、找工作也罢，尽量找一些tough一些的伙伴。
 

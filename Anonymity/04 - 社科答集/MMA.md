@@ -1,13 +1,11 @@
 # MMA
 [综合格斗（MMA）在中国的前景如何？](https://www.zhihu.com/question/38948991/answer/2201587028)
 
-> Author: #Anonymity 
-> Last update: *06/11/2021* 
+> Author: #Anonymity
+> Last update: *06/11/2021*
 > Links:[[中国刀]] [[以暴制暴]] [[王天下]] [[中国人的全球化]]  [[所谓国籍]] [[女武者]] [[传统剑术]] [[反欺凌]] [[安全感]]    [[斗争]]
-> Tags:  
+> Tags:
 > 沙海拾金: [[宏大叙事.png]]
-  
-
 
 不看好MMA类职业比赛在中国的前景。
 

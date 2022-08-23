@@ -1,10 +1,10 @@
 # The Whole Package
 *“上海的拉胯和落后为什么在突发事件面前才暴露出来？”*
 
-> Author: #Anonymity 
-> Last update: *15/05/2022* 
+> Author: #Anonymity
+> Last update: *15/05/2022*
 > Links:[[免于极端]] [[对人类失望]]
-> Tags: 
+> Tags:
 
 人们经常犯一种极其低级但却普遍的错误——
 

@@ -1,11 +1,10 @@
 # 神学Theology
 *什么是神学（Theology）？*
 
-> Author:   #Anonymity 
-> Last update: *23/07/2021* 
+> Author:   #Anonymity
+> Last update: *23/07/2021*
 > Links:[[天使]] [[斑点狗]]
-> Tags:  
-
+> Tags:
 
 要定义“神学”，首先要定义“神”。
 
