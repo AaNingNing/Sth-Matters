@@ -23,4 +23,3 @@
 **你不需要信任人的道德，但你可以大概的相信人的经济理性。**
 
 Just follow the money, the truth is always in the neighborhood.
-
