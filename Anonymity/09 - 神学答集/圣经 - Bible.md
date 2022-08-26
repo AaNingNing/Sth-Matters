@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *26/07/2021* 
-> Links:  [[圣经 - 神的样子]]
-> Tags:  
+> Link:  [[圣经 - 神的样子]]
+> Tag:  
 > 沙海拾金: [[新神学1.jpeg]] [[新神学2.jpg]]
   
 

@@ -3,8 +3,8 @@
 
 > Author: #Anonymity
 > Last update: *23/07/2021* 
-> Links:[[时尚品味]] [[时尚与fashion]]
-> Tags:  
+> Link: [[时尚品味]] [[时尚与fashion]]
+> Tag:  
 
 
 其实在中国挑战面前地位最危险的行业就是服装行业和时尚行业。

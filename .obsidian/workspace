@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f478471f5423fcd0",
+        "id": "da2b92f4d1ef4a7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "摘抄本/句子摘录.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -57,12 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 274
   },
   "right": {
     "id": "667d5636990656b4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/句子摘录.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -105,20 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.66665649414062,
-    "collapsed": true
+    "width": 235
   },
-  "active": "7569597966c86526",
+  "active": "da2b92f4d1ef4a7d",
   "lastOpenFiles": [
+    "谈判的底气.md",
+    "三慈善.md",
+    "依法办事.md",
+    "止损点.md",
+    "暗杀.md",
     "Anonymity/00 - 致读者/致读者 - I.md",
-    "沙海拾金/说了不听.jpeg",
-    "沙海拾金/你不了解我.jpeg",
-    "自动超人.md",
-    "条文.md",
-    "鱼虾测核酸.md",
-    "张艺谋想你.md",
-    "修船.md",
-    "痛而不苦.md",
-    "Anonymity/03 - 第一性/字斟句酌.md"
+    "沙海拾金/令人欣慰的事.jpeg",
+    "Anonymity/04 - 社科答集/咄咄逼人.md",
+    "Anonymity/03 - 第一性/后悔的真相.md",
+    "Anonymity/01 - 家族答集/受欢迎.md"
   ]
 }

@@ -3,8 +3,8 @@
 
 > Author: #Anonymity
 > Last update: *24/07/2021* 
-> Links:[[致读者 - I]] [[致读者 - III]]
-> Tags: 
+> Link: [[致读者 - I]] [[致读者 - III]]
+> Tag: 
 
 我不喜欢任何私人的注目，这对我是一种负担。
 

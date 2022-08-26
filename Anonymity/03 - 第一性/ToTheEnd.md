@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *02/07/2022* 
-> Links:[[不合理权]] [[应该不应该]] [[不生孩子]] [[平权]] [[BD象限不为空]]
-> Tags: 
+> Link: [[不合理权]] [[应该不应该]] [[不生孩子]] [[平权]] [[BD象限不为空]]
+> Tag: 
 
 怎么，没带卫生巾，是男士们要挺身而出了？[唇膏](https://www.zhihu.com/search?q=%E5%94%87%E8%86%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2543797753%7D)丢了，是哪位大兄弟要慷慨分享了？发现经期异常，是你要当知心大哥？没有奶，是你要当催奶顾问？你要帮她分析怎么处理[性骚扰](https://www.zhihu.com/search?q=%E6%80%A7%E9%AA%9A%E6%89%B0&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2543797753%7D)？你要陪她去谈恋爱？
 

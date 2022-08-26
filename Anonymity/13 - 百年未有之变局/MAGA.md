@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *17/03/2022* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 恰恰相反，我认为美国不但可能再次伟大，而且是必然再次伟大。
 

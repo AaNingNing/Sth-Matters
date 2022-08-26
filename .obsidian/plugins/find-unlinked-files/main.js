@@ -462,7 +462,7 @@ var Utils = /** @class */ (function () {
 
 var DEFAULT_SETTINGS = {
     outputFileName: "unlinked files output",
-    disableWorking> Links:false,
+    disableWorking> Link:false,
     directoriesToIgnore: [],
     filesToIgnore: [],
     fileTypesToIgnore: [],

@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *13/03/2022* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 当你下注赌一件事情是真是假的时候，最主要的考量点不是当事人的道德水平，而是它的利害关系。
 

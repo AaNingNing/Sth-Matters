@@ -3,8 +3,8 @@
 
 > Author: #Anonymity
 > Last update: *23/07/2021* 
-> Links:[[致读者 - I]] [[致读者 - II]] [[致读者 - III]]
-> Tags:  
+> Link: [[致读者 - I]] [[致读者 - II]] [[致读者 - III]]
+> Tag:  
 > 沙海拾金: [[拒绝侮辱.PNG]] [[沙海拾金/公平因果]]
 
  

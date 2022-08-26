@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *02/02/2022* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 有容人之量，这一点难能可贵。没有白学儒。
 

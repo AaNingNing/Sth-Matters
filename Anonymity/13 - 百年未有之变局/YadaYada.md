@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *08/04/2022* 
-> Links:[[TOUGHNESS]] [[撒娇政治]]
-> Tags: 
+> Link: [[TOUGHNESS]] [[撒娇政治]]
+> Tag: 
 
 Yada yada yada…
 

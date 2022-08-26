@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *30/07/2021* 
-> Links:[[怒的边界]] [[Anonymity/01 - 家族答集/制怒]] [[戒色]] [[习惯]] 
-> Tags: 
+> Link: [[怒的边界]] [[Anonymity/01 - 家族答集/制怒]] [[戒色]] [[习惯]] 
+> Tag: 
 
 
 匹夫之怒，血溅五步；

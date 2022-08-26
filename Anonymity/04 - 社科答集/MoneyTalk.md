@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *01/05/2022* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 你怎么判断一个让你觉得进展缓慢的工作到底是低效，还是本来就只能快到那个程度？
 

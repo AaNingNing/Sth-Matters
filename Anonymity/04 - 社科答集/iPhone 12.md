@@ -3,8 +3,8 @@
 
 > Author: #Anonymity
 > Last update: *23/07/2021* 
-> Links:[[5G]]
-> Tags:  
+> Link: [[5G]]
+> Tag:  
 
  
 当然不会。

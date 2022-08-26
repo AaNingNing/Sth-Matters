@@ -3,8 +3,8 @@
 
 > Author: #Anonymity
 > Last update: *23/06/2021* 
-> Links:[[高管写代码]] [[码农的屏幕]] 
-> Tags:  
+> Link: [[高管写代码]] [[码农的屏幕]] 
+> Tag:  
 
  
 资源太少。

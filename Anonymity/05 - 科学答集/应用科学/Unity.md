@@ -3,8 +3,8 @@
 
 > Author: #Anonymity 
 > Last update: *26/07/2021* 
-> Links:[[高管写代码]]
-> Tags:   
+> Link: [[高管写代码]]
+> Tag:   
 
 这个一般用的是程序烘培出来的一种bump map或者normal map。
 
