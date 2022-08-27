@@ -1,10 +1,10 @@
 # YadaYada
 [德国宣布驱逐 40 名俄罗斯外交官，释放了什么信号？](https://www.zhihu.com/question/526052761/answer/2424589171)
 
-> Author: #Anonymity 
-> Last update: *08/04/2022* 
+> Author: #Anonymity
+> Last update: *08/04/2022*
 > Link: [[TOUGHNESS]] [[撒娇政治]]
-> Tag: 
+> Tag:
 
 Yada yada yada…
 
@@ -28,7 +28,6 @@ but
 
 **BE A MAN, will you?**
 
-  
 What are you expecting?
 
 Some dolly-eyed country switches side over this?
@@ -44,9 +43,6 @@ just you and us.
 Just throw every thing you get at me,
 
 you spineless brainless shameless coward.
-
-  
-  
 
 其实还是那句话，欧洲制裁俄罗斯越多、越彻底，
 
@@ -68,11 +64,7 @@ you spineless brainless shameless coward.
 
 总之核弹已经起竖，经济已经准备彻底脱钩。你只剩叫，我却可以还以寒冷、饥饿和现实威胁。
 
-  
-
 **和一个自己打不死、离不开的对手结仇越深，挑衅越狠，将来到了“离不开”“打不死”的事实卡在眼前，堵在自己整个历史进程的去路上的时候，要付出的代价越高。**
-
-  
 
 欧洲最近又是与俄罗斯决裂，又是在中国面前大谈“must”，实在是有点脱离现实太远了。自己站在坑里，还在不停的挖土往别人身上抛，以为得胜。
 
@@ -98,9 +90,6 @@ you spineless brainless shameless coward.
 
 欧洲这是要“不食周黍而死”吗？
 
-  
-
 Keep it real, bro.
 
 ’cause this shit is about to get real.
-

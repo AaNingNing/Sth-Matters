@@ -1,10 +1,10 @@
 # Follow the money
 [乌方称「俄军轰炸一家运作中的妇产医院 」，却被俄国防部否认，目前当地情况如何？](https://www.zhihu.com/question/521154275/answer/2384990036)
 
-> Author: #Anonymity 
-> Last update: *13/03/2022* 
+> Author: #Anonymity
+> Last update: *13/03/2022*
 > Link:
-> Tag: 
+> Tag:
 
 当你下注赌一件事情是真是假的时候，最主要的考量点不是当事人的道德水平，而是它的利害关系。
 
@@ -23,6 +23,3 @@
 **你不需要信任人的道德，但你可以大概的相信人的经济理性。**
 
 Just follow the money, the truth is always in the neighborhood.
-
-  
-  

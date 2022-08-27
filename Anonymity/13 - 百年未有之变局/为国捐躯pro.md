@@ -1,10 +1,10 @@
 # 为国捐躯pro
 [如何看待泽连斯基表示「我不想做英雄，但也已准备好为国捐躯」，透露出哪些信息？](https://www.zhihu.com/question/527319101/answer/2435004635)
 
-> Author: #Anonymity 
-> Last update: *16/04/2022* 
+> Author: #Anonymity
+> Last update: *16/04/2022*
 > Link: [[泽连斯基]] [[木偶人]]
-> Tag: 
+> Tag:
 
 他如果会死，几乎只有一种可能——因为被怀疑要说一些错误的话而死在CIA手里。
 
