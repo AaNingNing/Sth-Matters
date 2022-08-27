@@ -1,5 +1,5 @@
 #  the Cost
- [the Cost](https://zhuanlan.zhihu.com/p/492800664)
+[the Cost](https://zhuanlan.zhihu.com/p/492800664)
 
 > Author: #Anonymity
 > Last update: *08/04/2022*

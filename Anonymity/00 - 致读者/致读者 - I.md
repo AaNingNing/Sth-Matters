@@ -1,6 +1,6 @@
 # 致读者 - I
 
- > Author: #Anonymity
+> Author: #Anonymity
 > Last update: *27/07/2022*
 > Link: [[致读者 - II]] [[致读者 - III]] [[Anonymity/00 - 致读者/致读者 - 留言]]
 > Tag: #方法实践SOP   #两性
