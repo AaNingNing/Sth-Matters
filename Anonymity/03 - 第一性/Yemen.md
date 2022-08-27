@@ -10,6 +10,6 @@
 
 Otherwise, there is always Yemen.
 
-[Yemen​b23.tv/hqi7t3](http://link.zhihu.com/?target=https%3A//b23.tv/hqi7t3)
+[Yemen​](http://link.zhihu.com/?target=https%3A//b23.tv/hqi7t3)
 
-[$2100​m.v.qq.com/z/msite/play-short/index.html?cid=&vid=s0742v4tzz5&qqVersion=0](http://link.zhihu.com/?target=https%3A//m.v.qq.com/z/msite/play-short/index.html%3Fcid%3D%26vid%3Ds0742v4tzz5%26qqVersion%3D0)
+[$2100](http://link.zhihu.com/?target=https%3A//m.v.qq.com/z/msite/play-short/index.html%3Fcid%3D%26vid%3Ds0742v4tzz5%26qqVersion%3D0)
