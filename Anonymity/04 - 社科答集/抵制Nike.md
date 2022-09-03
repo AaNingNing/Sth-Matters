@@ -1,10 +1,10 @@
 # 抵制Nike
 [大家会抵制Nike吗？](https://www.zhihu.com/question/451104022/answer/1808972837)
 
-> Author: #Anonymity 
-> Last update: *02/02/2022* 
+> Author: #Anonymity
+> Last update: *02/02/2022*
 > Link:
-> Tag: #一些推荐 
+> Tag: #一些推荐
 
 当然。
 

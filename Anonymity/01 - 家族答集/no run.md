@@ -1,9 +1,9 @@
 # no run
 [如何看待当今年轻人张口闭口就是资本家，并以无知浅薄的方式来进行所谓的对抗，妄图让社会迎合他们的幼稚？](https://www.zhihu.com/question/541030715/answer/2555888987)
-> Author: #Anonymity 
-> Last update: *11/07/2022* 
+> Author: #Anonymity
+> Last update: *11/07/2022*
 > Link: [[资本家]] [[剥削]] [[资本家的剥削]] [[不在乎]] [[棱角分明]] [[键政]]
-> Tag: 
+> Tag:
 
 其实“对现状不满，进行某种归因，然后采取行动”这个[行为模式](https://www.zhihu.com/search?q=%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2555888987%7D)本身是没什么问题的。
 
@@ -37,13 +37,9 @@
 
 **甚至，因为可以安全的尽情的“口嗨”，还可以将已经十分的投降，进一步发展到十二分的[跪拜](https://www.zhihu.com/search?q=%E8%B7%AA%E6%8B%9C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2555888987%7D)。**
 
-  
-
 问题根本不在于你们叛逆，也不在于你们幼稚，而在于你们的叛逆是**假的**。
 
 你们“叛逆”得太油腻了。
-
-  
 
 为啥？
 
@@ -77,8 +73,6 @@
 
 “**预研**”呢？
 
-  
-
 你有什么程度的[愤怒](https://www.zhihu.com/search?q=%E6%84%A4%E6%80%92&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2555888987%7D)，你就应该有什么程度的勇敢。
 
 有什么程度勇敢，就该有什么程度的行动。
@@ -86,8 +80,6 @@
 有什么样的行动，就应该有什么样的尝试。
 
 就该有**应有的失败**。
-
-  
 
 我没有看到你们本该会有的失败。
 
@@ -97,14 +89,10 @@
 
 没有人在哪怕**认真的幻想。**
 
-  
-
 真正让人轻视的根源，根本就不是你们幼稚、鲁莽、浅薄——每一代青年都在老一辈眼里受这评价。
 
 真正的问题是你们**太圆滑、太世故**了。
 
 **叛逆得太“精明”了。**
-
-  
 
 只剩下“run”的“叛逆”“反抗”，算是什么东西？

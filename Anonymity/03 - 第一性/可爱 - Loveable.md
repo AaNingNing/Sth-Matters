@@ -1,10 +1,10 @@
 # 可爱 - Loveable
 *何为可爱？*
 
-> Author: #Anonymity 
-> Last update: *17/07/2021* 
+> Author: #Anonymity
+> Last update: *17/07/2021*
 > Link: [[隐晦示爱]] [[求之不得]] [[恋爱原理]] [[星星]] [[Anonymity/03 - 第一性/爱情 - Romance]] [[爱无筹码]]
-> Tag:  
+> Tag:
 > 沙海拾金:[[可爱的好处]]
 
 什么叫可爱（lovable）？
@@ -34,6 +34,3 @@
 明白时，往往已将死了。
 
 一些极为幸运的早悟者争到的余额，都被多得多的一生未悟的人抹平了。
-
-  
-  

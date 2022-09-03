@@ -1,8 +1,8 @@
 # BoyzIIMen
 [应该向恋人坦白自己的过去吗?](https://www.zhihu.com/question/330406344/answer/2124688787)
 
-> Author: #Anonymity 
-> Last update: *18/09/2021* 
+> Author: #Anonymity
+> Last update: *18/09/2021*
 > Link: [[公开换安全]] [[咨询师]] [[说谎]] [[Anonymity/03 - 第一性/值得一嫁]] [[授信技术]] [[作]] [[拿号去]] [[何如不问]] [[情侣话题]] [[别互补]] [[沟通无效]] [[收入管理共识]] [[先轻信后多疑]]
 > Tag: #两性
 

@@ -1,10 +1,10 @@
 # MAGA
 [美国是不是不可能再次伟大了？](https://www.zhihu.com/question/64148000/answer/2393807452)
 
-> Author: #Anonymity 
-> Last update: *17/03/2022* 
+> Author: #Anonymity
+> Last update: *17/03/2022*
 > Link:
-> Tag: 
+> Tag:
 
 恰恰相反，我认为美国不但可能再次伟大，而且是必然再次伟大。
 

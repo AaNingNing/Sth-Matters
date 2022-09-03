@@ -2,16 +2,15 @@
 *如何才能做出一碗美味的蛋羹？*
 
 > Author: #Anonymity
-> Last update: *23/07/2021* 
+> Last update: *23/07/2021*
 > Link: [[能力]] [[学习的快乐]] [[做计划]] [[拖拉机]]
-> Tag: #技艺 
+> Tag: #技艺
 
 最终交付物：鸡蛋羹制作流程
 
 交付物质量要求：
 
 1）设计输出物为鸡蛋羹一份：
-
 
 * 组分包括香油、酱油、葱花及鸡蛋羹主体。
 * 鸡蛋羹主体无明显蜂窝状组织结构与对流痕迹，质感呈果冻状，表面完整平滑，色泽金黄诱人，香味浓郁，且内部强度足够，有弹性口感。
@@ -24,9 +23,6 @@
 4）要求全流程时间尽可能短。
 
 5）要求硬件投资成本尽可能低廉。
-
-  
-
 
 难点：
 
@@ -60,7 +56,6 @@
 
 因此，避免产生气泡机构，一共有三种手段：
 
-
 1. 机械搅拌时避免打破液面
 2. 避免成分中包含易沸腾或反应生成气体的组分
 3. 降低液体的表面张力系数，使得气泡不易维持。
@@ -77,12 +72,8 @@
 
 成品表面破损主要有两种原因：
 
-
 1. 加热过程中凉的顶盖会冷凝蒸汽，结成冷凝水滴落到蛋羹表面，就会留下创伤。最终导致成品画面凹凸不平。
 2. 成品实际尚未完全凝固，表面强度很低，倾倒的酱油、香油等形成的液柱足以击穿表面形成缺陷。
-
-  
-
 
 准备工具：
 
@@ -98,8 +89,7 @@
 
 !**(https://pic4.zhimg.com/50/v2-bfb6e5952586a4070fa9050486c95402_hd.jpg?source=1940ef5c)也不能使用电动搅拌器：
 
-!**(https://pic1.zhimg.com/50/v2-3d31b41424061776b334c3ef15884140_hd.jpg?source=1940ef5c)  
-
+!**(https://pic1.zhimg.com/50/v2-3d31b41424061776b334c3ef15884140_hd.jpg?source=1940ef5c)
 
 !**(https://pic3.zhimg.com/50/v2-719f390925d9313f127b51debb51e613_hd.jpg?source=1940ef5c)量勺：
 
@@ -129,15 +119,11 @@
 
 可调火力与定时
 
-!**(https://pic4.zhimg.com/50/v2-84fa2508d8c3b173b07a669920c79f6c_hd.jpg?source=1940ef5c)  
-
+!**(https://pic4.zhimg.com/50/v2-84fa2508d8c3b173b07a669920c79f6c_hd.jpg?source=1940ef5c)
 
 微波炉
 
 （如果准备使用微波炉加热，则需要微波炉）
-
-  
-
 
 食材准备：
 
@@ -156,9 +142,6 @@
 麻油
 
 洗净小葱
-
-  
-
 
 步骤：
 
@@ -262,9 +245,6 @@
 
 如此反复，直到凝结度满意，即可知道该品牌电磁炉应用的加热设置和时间基准。
 
-  
-
-
 如果使用微波炉直接蒸，则注意要先使用小火摸索恰当的加热时间，宁可时间先设定的短一些，火力设定小一些，不断依靠摇晃判断法来估计熟度，评估是否还要延长时间。每次延长时间都需要做好记录，以求出该火力下所需的总加热时间。然后可以尝试提高火力设置，永较短的时间完成，以最终取得品质与效率的最佳平衡。
 
 7）二次调味，出品。
@@ -305,7 +285,6 @@
 
 等待采集的数据标本结构：
 
-
 * 测试人知乎帐号
 * 测试地点室温（即鸡蛋温度）
 * 测试地点所在城市海拔（大气压相关）*海拔高度查询工具 - 等高线地图 - 查海拔*(https://link.zhihu.com/?target=https%3A//www.chahaiba.com/)
@@ -317,13 +296,11 @@
 * 加热工具型号（具体型号）、加热设置及加热时间
 * 在背景中置入中性灰色卡纸拍摄成品标准图，并以完成白平衡调整的成品图作为标准样本。
 
-!**(https://pic2.zhimg.com/50/v2-a85270ad8db7842fe09ccdbfc1835aee_hd.jpg?source=1940ef5c)  
-
+!**(https://pic2.zhimg.com/50/v2-a85270ad8db7842fe09ccdbfc1835aee_hd.jpg?source=1940ef5c)
 
 *（中字）如何用灰卡准确调节白平衡\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili*(https://link.zhihu.com/?target=https%3A//b23.tv/0MppI0)需要采集的照片包括：
 
 **成品图片**（带色彩校正）
-
 
 1. 刚移入还未打散的纯鸡蛋图（含刻度）
 2. 搅拌完成的无泡蛋液（含刻度）
@@ -333,7 +310,6 @@
 
 **工具图片**（无需灰卡，但需有参照物，任何法定硬币皆可）：
 
-
 1. 量具
 2. 盛具
 3. 搅拌工具
@@ -342,54 +318,36 @@
 测试参考：
 -----
 
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1799620583)  
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1799620583)
 
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1803996513)
 
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1803996513)  
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1805971166)
 
+<https://zhuanlan.zhihu.com/p/360769312>
 
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1805971166)  
+<https://zhuanlan.zhihu.com/p/360833663>
 
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1808863430)
 
-<https://zhuanlan.zhihu.com/p/360769312>  
+<https://zhuanlan.zhihu.com/p/362146302>
 
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1808662705)
 
-<https://zhuanlan.zhihu.com/p/360833663>  
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1836979089)
 
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1836953084)
 
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1808863430)  
+*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1838622775)
 
-
-<https://zhuanlan.zhihu.com/p/362146302>  
-
-
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1808662705)  
-
-
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1836979089)  
-
-
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1836953084)  
-
-
-*如何才能做出一碗美味的蛋羹？*(https://www.zhihu.com/question/315035483/answer/1838622775)  
-
-
-<https://zhuanlan.zhihu.com/p/369714501>  
-
+<https://zhuanlan.zhihu.com/p/369714501>
 
 等待加热的无泡蛋液：
 
 !**(https://pic2.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_hd.jpg?source=1940ef5c)正常的成品图：
 
-*!**(https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880*(https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)  
-
+*!**(https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880*(https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)
 
 !**(https://pic1.zhimg.com/50/v2-251a41591c129df98810b51cec51499a_hd.jpg?source=1940ef5c)
 
-
-
-#未完待续TBC 
-
-
-
+#未完待续TBC
