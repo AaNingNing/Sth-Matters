@@ -111,11 +111,13 @@ https://zhuanlan.zhihu.com/p/380200295
 - 家族
 	*建立属于自己的家族统绪*
 - 处事
-	*方法实践SOP*
+	*方法、实践、SOP*
 - 亲子
 	*亲子关系与教育*
 - 内外
 	*内在构建，外在管理，三观与品味*
+- 安全
+	*识别危险信号，保护个人安全*
 
 ##### 02 - 企管答集
 - 企管
@@ -129,15 +131,15 @@ https://zhuanlan.zhihu.com/p/380200295
 
 ##### 04 - 社科答集
 - 社科
-	*有关社会现象的案例分析*
+	*社会现象案例分析*
 
 ##### 05 - 科学答集
 - 科学
-	*概念原理的科普与发散*
+	*概念、原理的科普与发散*
 
 ##### 06 - 未来科技
 - 科技
-	*过去&现在&未来科技*
+	*过去、现在、未来科技*
 
 ##### 07 - 军事技术与艺术
 - 军事
@@ -146,8 +148,8 @@ https://zhuanlan.zhihu.com/p/380200295
 ##### 08 - 文艺答集
 - 技艺
 	*核心能力*
-		- 武道/体育?
-		*竞技  & 运动*
+- 武道/体育?
+	*运动竞技*
 - 文娱
 	*文学 & 影视 & 娱乐*
 - 文艺
@@ -210,7 +212,10 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
 
-【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320)
+【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
+
+【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+ 
 【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
 
 
@@ -257,8 +262,6 @@ https://zhuanlan.zhihu.com/p/380200295
 
 【核心能力】 [烟雨行船 - Notes‘ notes](https://zhuanlan.zhihu.com/p/523762857)
 
-【核心能力】[安之 - 幸福生存指南](https://zhuanlan.zhihu.com/p/512084569)
-
 【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
 
 【专题拓展】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
@@ -287,7 +290,7 @@ To be continued.
 ## Library
 #### Label format
 > Author: #Anonymity 
-> Last update: *26/08/2022* 
+> Last update: *02/09/2022* 
 > Link:
 > Tag: 
 > 沙海拾金：
