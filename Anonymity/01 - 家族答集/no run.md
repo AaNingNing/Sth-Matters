@@ -4,6 +4,7 @@
 > Last update: *11/07/2022*
 > Link: [[资本家]] [[剥削]] [[资本家的剥削]] [[不在乎]] [[棱角分明]] [[键政]]
 > Tag:
+> 沙海拾金:
 
 其实“对现状不满，进行某种归因，然后采取行动”这个[行为模式](https://www.zhihu.com/search?q=%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2555888987%7D)本身是没什么问题的。
 

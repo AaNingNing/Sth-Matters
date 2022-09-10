@@ -4,6 +4,7 @@
 > Author: #Anonymity
 > Last update: *23/07/2021*
 > Link: [[华为 - 战略]]
-> Tag: #
+> Tag:
+> 沙海拾金:
 
 战略错误。

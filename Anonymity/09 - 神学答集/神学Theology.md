@@ -3,8 +3,9 @@
 
 > Author:   #Anonymity
 > Last update: *23/07/2021*
-> Link: [[天使]] [[斑点狗]]
+> Link: [[天使]] [[斑点狗]] [[Sin]]
 > Tag:
+> 沙海拾金:
 
 要定义“神学”，首先要定义“神”。
 
@@ -78,12 +79,10 @@
 
 新神学的理解却是这样的——圣经里提到了人有原罪、原罪必然导致堕落。那么就去查看人身上是否真的有这样的导致人类普遍犯罪的要素存在。找到并定位这样的要素，然后意识到这个要素就是“原罪”。
 
-[人是否有原罪，为什么？​www.zhihu.com![图标](https://zhstatic.zhihu.com/assets/zhihu/editor/zhihu-card-default.svg)](https://www.zhihu.com/question/20760322/answer/588405939)
-
 人有原罪，不是因为圣经这样说了，而是因为人确实有这样的属性。但要注意，这并不意味着圣经是无关紧要的，因为最初准确的指出这一点是非常重要的。
 
 没有圣经去指引你这一点，你会没有最初的起点、最初的动念。
 
-至于何谓“圣经”，又为何要以“圣经”为线索，可以看一下这个：
 
-[天使是基督教的内容么？​www.zhihu.com![图标](https://zhstatic.zhihu.com/assets/zhihu/editor/zhihu-card-default.svg)](https://www.zhihu.com/question/51459141/answer/521808148)
+
+

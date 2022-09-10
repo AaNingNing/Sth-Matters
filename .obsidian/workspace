@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e8b720bcb890baa",
+        "id": "a3a8886c99231f43",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 204
   },
   "right": {
     "id": "667d5636990656b4",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 205
   },
   "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "README.md",
-    "认栽.md",
-    "无人私语时.md",
-    "Anonymity/01 - 家族答集/感谢的必要.md",
-    "Anonymity/01 - 家族答集/感动三分钟.md",
-    "Anonymity/01 - 家族答集/愚蠢的不尊重.md",
-    "Anonymity/01 - 家族答集/情绪失控的孩子.md",
-    "Anonymity/03 - 第一性/情感挽回大师.md",
-    "Anonymity/03 - 第一性/情侣话题.md",
-    "Anonymity/01 - 家族答集/悲观与乐观.md"
+    "沙海拾金/防疫.jpeg",
+    "沙海拾金/何不食肉糜.jpeg",
+    "Anonymity/01 - 家族答集/所谓国籍.md",
+    "摘抄本/句子摘录.md",
+    "Anonymity/01 - 家族答集/三慈善.md",
+    "迟到.md",
+    "Anonymity/01 - 家族答集/理由.md",
+    "Anonymity/02 - 企管答集/沟通无效.md",
+    "Anonymity/01 - 家族答集/授信技术.md",
+    "Anonymity/01 - 家族答集/反浪辩.md"
   ]
 }
