@@ -275,7 +275,7 @@ To be continued.
 
 #### Checklist
 - [新增文章]
-	- Title of Articles (Label untitled articles)
+	- Title of Articles (Label untitled articles & delete unwanted symbols)
 	- Finished for now/To be continued (Label unfinished articles)
 	- Links & tags
 	- Update Date

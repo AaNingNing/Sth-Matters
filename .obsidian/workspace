@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a8886c99231f43",
+        "id": "ded8f6ab3553be04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Anonymity/13 - 百年未有之变局/杂感5.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: 杂感",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Anonymity/13 - 百年未有之变局/杂感5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "沙海拾金/防疫.jpeg",
-    "沙海拾金/何不食肉糜.jpeg",
-    "Anonymity/01 - 家族答集/所谓国籍.md",
-    "摘抄本/句子摘录.md",
-    "Anonymity/01 - 家族答集/三慈善.md",
-    "迟到.md",
-    "Anonymity/01 - 家族答集/理由.md",
-    "Anonymity/02 - 企管答集/沟通无效.md",
-    "Anonymity/01 - 家族答集/授信技术.md",
-    "Anonymity/01 - 家族答集/反浪辩.md"
+    "Anonymity/13 - 百年未有之变局/杂感4.md",
+    "Anonymity/13 - 百年未有之变局/杂感3.md",
+    "Anonymity/13 - 百年未有之变局/杂感2.md",
+    "Anonymity/11 - 新冠/杂感.md",
+    "Anonymity/09 - 神学答集/爱.md",
+    "Anonymity/13 - 百年未有之变局/所谓大战略家.md",
+    "Anonymity/04 - 社科答集/年轻并不好.md",
+    "Anonymity/01 - 家族答集/平庸.md",
+    "Anonymity/13 - 百年未有之变局/杂感5.md",
+    "Anonymity/04 - 社科答集/资本家 1.md"
   ]
 }

@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: *23/06/2021*
-> Link: [[未来十年]] [[5G]] [[5G - 未来展望2]]
+> Link: [[未来十年]] [[5G]] [[5G - 未来展望]]
 > Tag:
 > 沙海拾金:
 

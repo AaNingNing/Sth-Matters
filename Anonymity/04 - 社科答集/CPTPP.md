@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: *23/06/2021*
-> Link: [[Anonymity/13 - 百年未有之变局/大国博弈]] [[权谋套娃]]
+> Link: [[大国博弈]] [[权谋套娃]]
 > Tag:
 > 沙海拾金:
 
