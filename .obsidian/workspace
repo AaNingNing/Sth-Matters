@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anonymity/13 - 百年未有之变局/杂感5.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 杂感",
+                "query": "tag:#未完待续TBC",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/13 - 百年未有之变局/杂感5.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 208
   },
   "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "Anonymity/13 - 百年未有之变局/杂感4.md",
-    "Anonymity/13 - 百年未有之变局/杂感3.md",
-    "Anonymity/13 - 百年未有之变局/杂感2.md",
-    "Anonymity/11 - 新冠/杂感.md",
-    "Anonymity/09 - 神学答集/爱.md",
-    "Anonymity/13 - 百年未有之变局/所谓大战略家.md",
-    "Anonymity/04 - 社科答集/年轻并不好.md",
-    "Anonymity/01 - 家族答集/平庸.md",
-    "Anonymity/13 - 百年未有之变局/杂感5.md",
-    "Anonymity/04 - 社科答集/资本家 1.md"
+    "本周更新/中年悲哀.md",
+    "本周更新/悲剧.md",
+    "本周更新/大约在冬季.md",
+    "摘抄本/句子摘录.md",
+    "Anonymity/03 - 第一性/恋爱原理.md",
+    "摘抄本/比喻摘录.md",
+    "摘抄本/生词本.md",
+    "摘抄本/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
+    "摘抄本/_附件/Screen Shot 2022-06-10 at 19.46.01.png",
+    "Anonymity/03 - 第一性/两情难悦.md"
   ]
 }
