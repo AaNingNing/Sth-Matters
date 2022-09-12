@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ded8f6ab3553be04",
+        "id": "48810a0a52d6e9a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#未完待续TBC",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +101,17 @@
     "direction": "horizontal",
     "width": 208
   },
-  "active": "4879eced09a10136",
+  "active": "48810a0a52d6e9a2",
   "lastOpenFiles": [
-    "本周更新/中年悲哀.md",
-    "本周更新/悲剧.md",
-    "本周更新/大约在冬季.md",
-    "摘抄本/句子摘录.md",
-    "Anonymity/03 - 第一性/恋爱原理.md",
-    "摘抄本/比喻摘录.md",
-    "摘抄本/生词本.md",
-    "摘抄本/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "摘抄本/_附件/Screen Shot 2022-06-10 at 19.46.01.png",
-    "Anonymity/03 - 第一性/两情难悦.md"
+    "README.md",
+    "Anonymity/10 - “就你机灵”系列/不羡慕.md",
+    "Anonymity/10 - “就你机灵”系列/不接受权与不接受.md",
+    "Anonymity/10 - “就你机灵”系列/不惊不怒.md",
+    "Anonymity/10 - “就你机灵”系列/不幼稚.md",
+    "Anonymity/10 - “就你机灵”系列/一亿一天.md",
+    "Anonymity/10 - “就你机灵”系列/alpha male.md",
+    "Anonymity/10 - “就你机灵”系列/消失的文化.md",
+    "Anonymity/10 - “就你机灵”系列/高等生命.md",
+    "Anonymity/10 - “就你机灵”系列/贸易禁运.md"
   ]
 }
