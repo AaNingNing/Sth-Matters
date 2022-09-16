@@ -1,10 +1,10 @@
-# 圣经 - Bible
+# 圣经Bible
 *我想信奉上帝但不想信奉《圣经》可以吗？*
 
 > Author: #Anonymity
 > Last update: *26/07/2021*
 > Link:  [[圣经 - 神的样子]]
-> Tag:
+> Tag: #神学
 > 沙海拾金: [[新神学1.jpeg]] [[新神学2.jpg]]
 
 首先你要明白bible客观上是什么东西。

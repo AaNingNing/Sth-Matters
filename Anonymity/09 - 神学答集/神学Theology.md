@@ -4,7 +4,7 @@
 > Author:   #Anonymity
 > Last update: *23/07/2021*
 > Link: [[天使]] [[斑点狗]] [[Sin]]
-> Tag:
+> Tag: #神学
 > 沙海拾金:
 
 要定义“神学”，首先要定义“神”。
