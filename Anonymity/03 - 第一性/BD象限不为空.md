@@ -4,7 +4,7 @@
 > Author: #Anonymity
 > Last update: *16/01/2022*
 > Link: [[致读者 - I]] [[爱]]
-> Tag: 
+> Tag:
 > 沙海拾金:
 
 对个人来说，所有的伦理命题一共分为这么几种情况：

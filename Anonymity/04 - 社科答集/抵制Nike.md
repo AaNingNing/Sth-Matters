@@ -4,7 +4,7 @@
 > Author: #Anonymity
 > Last update: *02/02/2022*
 > Link:
-> Tag: #其它/一些推荐 
+> Tag: #其它/一些推荐
 > 沙海拾金:
 
 当然。
