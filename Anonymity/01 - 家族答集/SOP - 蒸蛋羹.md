@@ -199,12 +199,14 @@
 使用适度的力量和速度按压搅拌蛋液，切忌猛烈的搅拌。密切注意蛋液表面，只要不要形成深陷的涡流和细碎的浪花，稍有这样的迹象，就停止搅拌等待蛋液平静。
 
 ![](https://pic1.zhimg.com/50/v2-80fd32bb2d7de3713d0acef58ec8a781_hd.jpg?source=1940ef5c)
+
 因为整个搅拌头深陷液面下，只有一根光滑细幼的不锈钢主轴穿越气液交界，因此，在完成蛋液搅拌的整个过程中将不会产生任何气泡。
-----------------------------------------------------------------
 
 将蛋液完全打匀。如果没有完全打匀，就会有一些未打散的蛋白聚集成团，最终将影响成品口感。因为我们的原理的保证，你的动作可以相当猛烈。
 
-[![](https://pic4.zhimg.com/v2-63b1566558575a7609ca6f5971f7371d.jpg)可以猛烈的搅拌https://www.zhihu.com/video/1363676706256166912](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676706256166912)最后利用搅拌头，将蛋黄膜衣带起（可以不必用力打捞，因为可以在移入盘中时去掉尾液沉淀）。
+[![](https://pic4.zhimg.com/v2-63b1566558575a7609ca6f5971f7371d.jpg)可以猛烈的搅拌](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676706256166912)
+
+最后利用搅拌头，将蛋黄膜衣带起（可以不必用力打捞，因为可以在移入盘中时去掉尾液沉淀）。
 
 搅拌头取出后立刻流水清洗干净，注意摘除缠绕的膜衣，甩干水分归位。同样，此时处理效益最佳。
 
@@ -345,9 +347,11 @@
 
 等待加热的无泡蛋液：
 
-![](https://pic2.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_hd.jpg?source=1940ef5c)正常的成品图：
+![](https://pic2.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_hd.jpg?source=1940ef5c)
 
-[![](https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)
+正常的成品图：
+
+[![](https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)正常的成品图](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)
 
 ![](https://pic1.zhimg.com/50/v2-251a41591c129df98810b51cec51499a_hd.jpg?source=1940ef5c)
 

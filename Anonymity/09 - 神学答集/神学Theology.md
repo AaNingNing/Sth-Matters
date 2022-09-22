@@ -9,7 +9,7 @@
 
 要定义“神学”，首先要定义“神”。
 
-[神的存在性的实质是什么？​www.zhihu.com![图标](https://pic4.zhimg.com/v2-9182986ecc830a9327c4787e2b43cfe7_180x120.jpg)](https://www.zhihu.com/question/21446833/answer/545409161)
+[神的存在性的实质是什么？](https://www.zhihu.com/question/21446833/answer/545409161)
 
 神有一种本质的定义，即“神圣意志”的总和。
 

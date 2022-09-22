@@ -22,7 +22,7 @@
 
 就是没有互联网之前，青少年对世界不满，只有诉诸某种行动。
 
-[日本的例子​www.gushiciku.cn/dc_tw/109916794](https://link.zhihu.com/?target=https%3A//www.gushiciku.cn/dc_tw/109916794)
+[日本的例子](https://link.zhihu.com/?target=https%3A//www.gushiciku.cn/dc_tw/109916794)
 
 一旦真正付诸行动，青少年才会现实的体会到自己主张的分量、代价和确切的合理性。这个过程，也恰恰是青少年成长为新一代的中老年的过程。
 
