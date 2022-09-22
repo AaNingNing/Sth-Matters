@@ -73,22 +73,20 @@
 
 ![](https://pic2.zhimg.com/80/v2-f1d2b1913dcf372e32e93d7f66daee5c_720w.jpg?source=1940ef5c)
 
-## 这也是愤怒：
+**这也是愤怒：**
 
 ![](https://pic1.zhimg.com/50/v2-1f7ffbf723308175546198f7a93fa2f8_hd.jpg?source=1940ef5c)
 
 ![](https://pic1.zhimg.com/80/v2-1f7ffbf723308175546198f7a93fa2f8_720w.jpg?source=1940ef5c)
 
-## 这也是愤怒：
+**这也是愤怒：**
 
 ![](https://pic2.zhimg.com/50/v2-63746a4552277b86a71e5a58056574fc_hd.jpg?source=1940ef5c)
 
 ![](https://pic2.zhimg.com/80/v2-63746a4552277b86a71e5a58056574fc_720w.jpg?source=1940ef5c)
 
-##
-
 以后记住：
 
-## **你的愤怒，只应该带给你新的义务，没有给你带来新的权利！**
+**你的愤怒，只应该带给你新的义务，没有给你带来新的权利！**
 
-## **怒得有出息一点！**
+**怒得有出息一点！**
