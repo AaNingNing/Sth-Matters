@@ -7,12 +7,8 @@
         "id": "4f4d6223bea68a20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +101,17 @@
     "direction": "horizontal",
     "width": 208
   },
-  "active": "4f4d6223bea68a20",
+  "active": "4879eced09a10136",
   "lastOpenFiles": [
+    "沙海拾金/一带一路.md",
+    "沙海拾金/一带一路 1.md",
+    "README.md",
     "【本周更新】/计较.md",
     "【本周更新】/再全球化.md",
     "【本周更新】/不爱交朋友.md",
     "【本周更新】/BlessingInDisguise.md",
-    "README.md",
     "【本周更新】/可谈性.md",
     "【本周更新】/稳定.md",
-    "Anonymity/10 - “就你机灵”系列/镜子.md",
-    "Anonymity/09 - 神学答集/道与上帝.md",
-    "Anonymity/10 - “就你机灵”系列/网中人.md"
+    "Anonymity/10 - “就你机灵”系列/镜子.md"
   ]
 }
