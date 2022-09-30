@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4d6223bea68a20",
+        "id": "a73548f2605df4c8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
-  "active": "4879eced09a10136",
+  "active": "a73548f2605df4c8",
   "lastOpenFiles": [
-    "沙海拾金/一带一路.md",
-    "沙海拾金/一带一路 1.md",
+    "摘抄本/句子摘录.md",
+    "Anonymity/00 - 致读者/致读者 - IV.md",
     "README.md",
-    "【本周更新】/计较.md",
-    "【本周更新】/再全球化.md",
-    "【本周更新】/不爱交朋友.md",
-    "【本周更新】/BlessingInDisguise.md",
-    "【本周更新】/可谈性.md",
-    "【本周更新】/稳定.md",
-    "Anonymity/10 - “就你机灵”系列/镜子.md"
+    "Untitled.md",
+    "沙海拾金/何不食肉糜.md",
+    "沙海拾金/优秀的被诋毁者.md",
+    "沙海拾金/原则.md",
+    "沙海拾金/一带一路.md",
+    "沙海拾金/Sin.md",
+    "沙海拾金/Caritas.md"
   ]
 }

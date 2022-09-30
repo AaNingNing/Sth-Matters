@@ -380,7 +380,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ## Library
 #### Label format
 > Author: #Anonymity
-> Last update: *24/09/2022*
+> Last update: *30/09/2022*
 > Link:
 > Tag:
 > 沙海拾金:
@@ -399,7 +399,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### TO-DO list
 - [x] 统一文章format
-- [ ] 【进行中】沙海拾金 - 图片全部转成文字，方便关键字搜索
+- [ ] 【进行中】沙海拾金 - 图片转文字，方便关键字搜索
 - [ ] 【进行中】逐步添加新版本tag
 - [ ] 【进行中】持续优化tag栏
 - [ ] 建立tag之间的层级结构
