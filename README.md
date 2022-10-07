@@ -158,8 +158,6 @@ Tags确定后，会随着每周笔记更新逐个添加。
 
 待定：
 - 爱Caritas
-- 经济
-	*社会现象的经济学原理*
 - 抖机灵
 	*一本正经地萌萌哒
 
@@ -380,7 +378,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ## Library
 #### Label format
 > Author: #Anonymity
-> Last update: *30/09/2022*
+> Last update: *07/10/2022*
 > Link:
 > Tag:
 > 沙海拾金:

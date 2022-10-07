@@ -3,7 +3,7 @@
 
 > Author:   #Anonymity
 > Last update: *23/07/2021*
-> Link: [[天使]] [[斑点狗]] [[Sin]]
+> Link: [[天使]] [[斑点狗]] [[Anonymity/09 - 神学答集/Sin]]
 > Tag: #神学
 > 沙海拾金:
 
