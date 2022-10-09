@@ -247,7 +247,7 @@
 
 #### 18）可以在此直接搜索内容关键词和查看版本变迁。
 
-*https://github.com/itrewub/jh-notes#jh-notes​github.com*(http://link.zhihu.com/?target=https%3A//github.com/itrewub/jh-notes%23jh-notes)
+[https://github.com/itrewub/jh-notes#jh-notes​github.com](http://link.zhihu.com/?target=https%3A//github.com/itrewub/jh-notes%23jh-notes)
 
 望周知。
 
