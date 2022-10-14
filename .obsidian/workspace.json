@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a73548f2605df4c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+        "id": "2a7adc1a92d5116e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cbbaac707f285c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/逼你幸福.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "【本周更新】/逼你幸福.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +112,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 230
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "转载授权/转载授权_Anonymity.png",
-    "Anonymity/02 - 企管答集/高端初级.md",
-    "Anonymity/04 - 社科答集/百爪挠心.md",
-    "Anonymity/08 - 文艺答集/最好的绘画工具.md",
-    "Anonymity/01 - 家族答集/奴婢.md",
-    "Anonymity/04 - 社科答集/傲慢的两个来源.md",
-    "Anonymity/09 - 神学答集/事无定数.md",
-    "Anonymity/13 - 百年未有之变局/1比0.md",
-    "Anonymity/01 - 家族答集/一切都对.md",
-    "Anonymity/01 - 家族答集/自证清白.md"
+    "【本周更新】/踊跃发言.md",
+    "【本周更新】/缓解尴尬.md",
+    "【本周更新】/红色电话.md",
+    "【本周更新】/白俄罗斯.md",
+    "【本周更新】/按钮.md",
+    "【本周更新】/失亲.md",
+    "【本周更新】/国际承认.md",
+    "【本周更新】/兵力不足.md",
+    "【本周更新】/克里米亚大桥.md",
+    "【本周更新】/不打盲人.md"
   ]
 }

@@ -178,7 +178,7 @@ Tags确定后，会随着每周笔记更新逐个添加。
 	- 安全
 		- 个人安全
 		- 提供帮助
-	- 心理（放在这里？）
+	- 心理
 		- 成因
 		- 防治
 	- 两性
@@ -378,7 +378,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ## Library
 #### Label format
 > Author: #Anonymity
-> Last update: *07/10/2022*
+> Last update: *14/10/2022*
 > Link:
 > Tag:
 > 沙海拾金:
