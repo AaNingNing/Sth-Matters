@@ -7,7 +7,7 @@
 > Tag:
 > 沙海拾金:
 
-[巴基斯坦](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2434991542%7D)这个国家——甚至可以说是所有美国在搅和的不发达国家——似乎总是在发生“亲着美上台，反着美下台”的轮回。
+巴基斯坦这个国家——甚至可以说是所有美国在搅和的不发达国家——似乎总是在发生“亲着美上台，反着美下台”的轮回。
 
 美国扶了一个又一个亲美派上台，然后看着他们一个接一个转身反美，然后又把他们搞掉。
 

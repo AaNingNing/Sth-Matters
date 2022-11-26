@@ -7,11 +7,11 @@
 > Tag:
 > 沙海拾金:
 
-[何小鹏](https://www.zhihu.com/search?q=%E4%BD%95%E5%B0%8F%E9%B9%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2443198821%7D)这事做得很不明智。
+何小鹏这事做得很不明智。
 
 这事要做的话，应该是首先捐一笔钱给上海防疫。然后再**单独向工信部反映自己的困境**。
 
-如果想要声势大一点引起重视，那么你可以拉上你自称要停产的那些兄弟，以**汽车行业协会**的名义去跟[工信部](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BF%A1%E9%83%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2443198821%7D)**闭门**恳谈诉苦。
+如果想要声势大一点引起重视，那么你可以拉上你自称要停产的那些兄弟，以**汽车行业协会**的名义去跟工信部**闭门**恳谈诉苦。
 
 这就是理解和支持政府的姿态，**效果同样达到**，**甚至更好**，但是却没有各种各样可能致命的嫌疑。
 
@@ -25,7 +25,7 @@
 
 说轻点，看你年轻，算你不懂事，不知好歹。
 
-说重点，如果觉得你是故意的，你这叫**[忘恩负义](https://www.zhihu.com/search?q=%E5%BF%98%E6%81%A9%E8%B4%9F%E4%B9%89&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2443198821%7D)**。
+说重点，如果觉得你是故意的，你这叫**忘恩负义**。
 
 吃饭你朝前，扛事你朝后。没叫你推车，你居然嫌坐车坐得不爽？
 
@@ -59,7 +59,7 @@
 
 而上路的一大标志，就是说话做事，对同一个目的能想到无数的方式方法，达到目的根本不是问题，纯属及格水平，你还应该能游刃有余的同时识别出所有的利害相关方，乃至于能**实时演算**，“顺口”“顺手”在无数可行方案、无数表达方式中踩中附带成本最小、附带隐患最小的那个。
 
-这是一种比实时光追更难万倍的智力活动，是真正让人望而兴叹的能力。是**[企业家](https://www.zhihu.com/search?q=%E4%BC%81%E4%B8%9A%E5%AE%B6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2443198821%7D)**真正的职业**。**
+这是一种比实时光追更难万倍的智力活动，是真正让人望而兴叹的能力。是**企业家**真正的职业**。**
 
 这个境界，是在中国真正立住一番事业的基本前提。
 
@@ -67,7 +67,7 @@
 
 ta们基本不会再随便对**公众“**现场发挥”**。**
 
-**所以这些人在身边人感受回忆起来都是“如沐春风，平易近人”，而在公众看来却是“沉默低调，[木讷寡言](https://www.zhihu.com/search?q=%E6%9C%A8%E8%AE%B7%E5%AF%A1%E8%A8%80&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2443198821%7D)”。**
+**所以这些人在身边人感受回忆起来都是“如沐春风，平易近人”，而在公众看来却是“沉默低调，木讷寡言”。**
 
 这是有原因的。
 

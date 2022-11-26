@@ -45,13 +45,13 @@
 
 ---
 
-很多人质疑“[美利坚民族](https://www.zhihu.com/search?q=%E7%BE%8E%E5%88%A9%E5%9D%9A%E6%B0%91%E6%97%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2393807452%7D)”的概念。
+很多人质疑“美利坚民族”的概念。
 
 那么，“民族”到底是哪来的？
 
-大和民族是从[黑船](https://www.zhihu.com/search?q=%E9%BB%91%E8%88%B9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2393807452%7D)生来的。
+大和民族是从黑船生来的。
 
-中华民族是从鸦片战争到[侵华战争](https://www.zhihu.com/search?q=%E4%BE%B5%E5%8D%8E%E6%88%98%E4%BA%89&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2393807452%7D)生出来的。
+中华民族是从鸦片战争到侵华战争生出来的。
 
 **民族本来就是从半透明的灵魂借着存亡的危机分娩出来的。**
 

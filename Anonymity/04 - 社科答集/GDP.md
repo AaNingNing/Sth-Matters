@@ -15,7 +15,7 @@ GDP增长最根本的原因，在于如果没有足够规模的战争、饥荒�
 
 你的GDP增长不力，你便无坐这个位置之德。任何对生产力负责的构建，都将因此失去自己的地位。
 
-政府、社会制度头上一直悬着这把[达摩克利斯](https://www.zhihu.com/search?q=%E8%BE%BE%E6%91%A9%E5%85%8B%E5%88%A9%E6%96%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A544521904%7D)之剑。
+政府、社会制度头上一直悬着这把达摩克利斯之剑。
 
 GDP一定要增长，否则轻则具体的政党要下台，重则就只剩下重大的社会动荡重建社会体制一种答案了。
 

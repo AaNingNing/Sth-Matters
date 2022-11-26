@@ -379,7 +379,7 @@ https://zhuanlan.zhihu.com/p/380200295
 ## Library
 #### Label format
 > Author: #Anonymity
-> Last update: *18/11/2022*
+> Last update: *26/11/2022*
 > Link:
 > Tag:
 > 沙海拾金:
@@ -390,6 +390,7 @@ https://zhuanlan.zhihu.com/p/380200295
 	- Finished for now/To be continued (Label unfinished articles)
 	- Links & tags
 	- Update Date
+	- Add /n in the end 
 - [沙海拾金]
 - [句子摘抄]
 - [Check Authorise certificate]

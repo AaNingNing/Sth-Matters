@@ -61,7 +61,7 @@ ta自己来放，ta自然会安排一切必要的帮助让你扛得住。
 
 否则你的“休息”本身就会越来越失败，而这种名为“休息”的工作的连续失败，最后会毫无疑问的把你逼到尽头。
 
-其实哪有什么“[抑郁症](https://www.zhihu.com/search?q=%E6%8A%91%E9%83%81%E7%97%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2271281381%7D)杀人”，真正杀人的是失眠。
+其实哪有什么“抑郁症杀人”，真正杀人的是失眠。
 
 是无论放多久的假也放松不下来，休假越久越焦虑的失眠，
 
