@@ -386,11 +386,11 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Checklist
 - [新增文章]
-	- Title of Articles (Label untitled articles, delete unwanted symbols & spaces)
+	- Title of articles (Label untitled articles, delete unwanted symbols & spaces)
 	- Finished for now/To be continued (Label unfinished articles)
 	- Links & tags
-	- Update Date
-	- Add /n in the end 
+	- Update date
+	- Add /n in the end
 - [沙海拾金]
 - [句子摘抄]
 - [Check Authorise certificate]
@@ -403,7 +403,7 @@ https://zhuanlan.zhihu.com/p/380200295
 - [ ] 【进行中】逐步添加新版本tag
 - [ ] 【进行中】持续优化tag栏
 - [ ] 建立tag之间的层级结构
-- [ ] 思考如何优化目录栏
+- [ ] 英文翻译
 
 ---
 ---
