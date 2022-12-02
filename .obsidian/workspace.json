@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/WORKER.md",
+                "file": "Anonymity/03 - 第一性/苦而不忍.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#其它/万赞文章",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/WORKER.md",
+                "file": "Anonymity/03 - 第一性/苦而不忍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,23 +108,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 281
   },
-  "active": "fb695364faca2570",
+  "active": "727ef7e1831ef234",
   "lastOpenFiles": [
-    "沙海拾金/泛讨论/泛讨论_This is how it works.md",
-    "沙海拾金/泛讨论/泛讨论_一带一路.md",
-    "沙海拾金/泛讨论/泛讨论_中国人看俄乌战争.md",
-    "沙海拾金/泛讨论/泛讨论_中国的支持.md",
-    "沙海拾金/泛讨论/泛讨论_了解中国.md",
-    "沙海拾金/泛讨论/泛讨论_事实判断.md",
-    "沙海拾金/泛讨论/泛讨论_事实的重量.md",
-    "沙海拾金/泛讨论/泛讨论_人生功课.md",
-    "沙海拾金/泛讨论/泛讨论_人生态度问答.md",
-    "沙海拾金/泛讨论/泛讨论_企业的人才积累.md"
+    "Anonymity/04 - 社科答集/非洲、非洲.md",
+    "Anonymity/08 - 文艺答集/文物.md",
+    "Anonymity/01 - 家族答集/求学.md",
+    "Anonymity/09 - 神学答集/终极真理.md",
+    "Anonymity/04 - 社科答集/仇港.md",
+    "Anonymity/01 - 家族答集/中国式反同化.md",
+    "Anonymity/13 - 百年未有之变局/两难.md",
+    "沙海拾金/评论区/评论区_终极真理.md",
+    "Anonymity/03 - 第一性/苦而不忍.md",
+    "Anonymity/05 - 科学答集/应用科学/工程师.md"
   ]
 }
