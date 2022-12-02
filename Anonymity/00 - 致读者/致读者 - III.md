@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: *23/07/2021*
-> Link: [[致读者 - I]] [[致读者 - II]] [[爱]]
+> Link: [[致读者 - I]] [[致读者 - II]] [[Anonymity/09 - 神学答集/爱]]
 > Tag:
 > 沙海拾金:
 

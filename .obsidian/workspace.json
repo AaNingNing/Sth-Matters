@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cc0936449f6f56a",
+        "id": "31b1ac9642dc97e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b0541c6713745753",
+            "id": "fb695364faca2570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anonymity/03 - 第一性/高级妩媚感.md",
+                "file": "【本周更新】/WORKER.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 333
   },
   "right": {
     "id": "667d5636990656b4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/03 - 第一性/高级妩媚感.md",
+                "file": "【本周更新】/WORKER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,24 +107,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281
   },
-  "active": "4879eced09a10136",
+  "active": "fb695364faca2570",
   "lastOpenFiles": [
-    "Anonymity/01 - 家族答集/骇客帝国.md",
-    "Anonymity/03 - 第一性/首要意义.md",
-    "Anonymity/09 - 神学答集/飞天面条神教.md",
-    "Anonymity/13 - 百年未有之变局/顿巴斯攻坚战.md",
-    "Anonymity/07 - 军事技术与艺术/韩国军工.md",
-    "Anonymity/13 - 百年未有之变局/面向第三世界.md",
-    "Anonymity/01 - 家族答集/零起点.md",
-    "Anonymity/13 - 百年未有之变局/魔法蛋.md",
-    "Anonymity/01 - 家族答集/集体主义.md",
-    "Anonymity/04 - 社科答集/阶层与阶级 1.md"
+    "沙海拾金/泛讨论/泛讨论_This is how it works.md",
+    "沙海拾金/泛讨论/泛讨论_一带一路.md",
+    "沙海拾金/泛讨论/泛讨论_中国人看俄乌战争.md",
+    "沙海拾金/泛讨论/泛讨论_中国的支持.md",
+    "沙海拾金/泛讨论/泛讨论_了解中国.md",
+    "沙海拾金/泛讨论/泛讨论_事实判断.md",
+    "沙海拾金/泛讨论/泛讨论_事实的重量.md",
+    "沙海拾金/泛讨论/泛讨论_人生功课.md",
+    "沙海拾金/泛讨论/泛讨论_人生态度问答.md",
+    "沙海拾金/泛讨论/泛讨论_企业的人才积累.md"
   ]
 }

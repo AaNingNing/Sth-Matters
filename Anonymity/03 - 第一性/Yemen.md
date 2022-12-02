@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: *23/10/2021*
-> Link: [[爱]] [[生离死别]]
+> Link: [[Anonymity/09 - 神学答集/爱]] [[生离死别]]
 > Tag: #两性 #其它/一些推荐
 > 沙海拾金:
 
