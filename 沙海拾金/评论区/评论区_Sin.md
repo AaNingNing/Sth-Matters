@@ -1,4 +1,4 @@
-> Link: [[Anonymity/09 - 神学答集/Sin]]
+> Backlink: [[Sin]]
 
 A：就是人类自己的天然属性自己绑定了罪原。
 

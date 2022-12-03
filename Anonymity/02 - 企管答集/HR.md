@@ -5,7 +5,8 @@
 > Last update: *11/07/2022*
 > Link: [[越界]] [[裁员过渡]]
 > Tag: #其它/一些推荐 
-> 沙海拾金:
+> 评论区：
+> 泛讨论：
 
 人力资源管理有没有含金量，建议参考一下Billions里的温蒂。
 ![](https://picx.zhimg.com/50/v2-2915ffba0d674ef40b4255eba04ecbbd_720w.jpg?source=1940ef5c)
