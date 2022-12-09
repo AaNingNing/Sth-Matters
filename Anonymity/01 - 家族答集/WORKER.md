@@ -28,7 +28,7 @@ Some day, you will understand it preserves an even greater value than life itsel
 
 It’s one of the greatest JOY you should not miss.
 
-If you have 3 million in your bank account, what you have is actually 3 million reasons to enjoy it most dearly and immediately.
+If you have 3 million in your bank account, what you have is actually 3 million reasons to enjoy it most dearly and eminently.
 
 If you don’t have that money, or hell, broke as shit, you have an even more obvious reason to work.
 
@@ -39,5 +39,4 @@ The world is hard-wired that way to make sure every colleague of his is cared fo
 Sadly, those who “bear labor for bread” are not considered as one of them.
 
 They are bearing labor alright,  
-
 but they rarely have that “bread.”
