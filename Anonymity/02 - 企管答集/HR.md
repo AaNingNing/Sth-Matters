@@ -2,7 +2,7 @@
 [为什么说人力资源管理是个毫无含金量的工作？](https://www.zhihu.com/question/331983271/answer/2566790595)
 
 > Author: #Anonymity
-> Last update: *11/07/2022*
+> Last update: [发布于 2022-07-10]
 > Link: [[越界]] [[裁员过渡]]
 > Tag: #其它/一些推荐 
 > 评论区：

@@ -2,7 +2,7 @@
 [怎么理解“ 善战者无赫赫之功 ”？](https://www.zhihu.com/question/409246699/answer/2765683082)
 
 > Author: #Anonymity
-> Last update: *26/11/2022*
+> Last update: [发布于 2022-11-19]
 > Link:
 > Tag: #军事
 > 评论区：

@@ -2,9 +2,9 @@
 [为什么政府部门容易低效?](https://www.zhihu.com/question/29859457/answer/2464809215)
 
 > Author: #Anonymity
-> Last update: *01/05/2022*
+> Last update: [编辑于 2022-05-01]
 > Link:
-> Tag:
+> Tag: #企管 #功夫
 > 评论区：
 > 泛讨论：
 

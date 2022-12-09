@@ -2,7 +2,7 @@
 [怎样才算是尽力了?](https://www.zhihu.com/question/22510326/answer/2763399645)
 
 > Author: #Anonymity
-> Last update: *18/11/2022*
+> Last update: [编辑于 2022-11-18]
 > Link: [[心安]]
 > Tag: #处事 #功夫
 > 评论区：

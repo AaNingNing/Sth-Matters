@@ -2,7 +2,7 @@
 [俄罗斯在大规模动员增兵完成后再打一次基辅的军事合理性如何？](https://www.zhihu.com/question/559901963/answer/2718242715)
 
 > Author: #Anonymity
-> Last update: *21/10/2022*
+> Last update: [编辑于 2022-10-17]
 > Link:
 > Tag: #时政 #军事
 > 评论区：

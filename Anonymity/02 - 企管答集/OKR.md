@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: *25/07/2021*
-> Link: [[SOP - 蒸蛋羹]]
+> Link: [[蒸蛋羹]]
 > Tag:
 > 评论区：
 > 泛讨论：

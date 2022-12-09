@@ -2,9 +2,9 @@
 [中国天眼发现地外文明可疑信号，相关团队正进一步排查，信号如被证实存在这将意味着什么？](https://www.zhihu.com/question/537647710/answer/2529055091)
 
 > Author: #Anonymity
-> Last update: *17/06/2022*
+> Last update: [编辑于 2022-06-15]
 > Link: [[看见外星人]] [[自然法]] [[宇宙战争]] [[UFO]]
-> Tag:
+> Tag: #科技
 > 评论区：
 > 泛讨论：
 

@@ -2,7 +2,7 @@
 [罗永浩AR公司完成约5000万美元融资，称AR才是下一代计算平台，对此你怎么看？](https://www.zhihu.com/question/568365475/answer/2771641450)
 
 > Author: #Anonymity
-> Last update: *26/11/2022*
+> Last update: [编辑于 2022-11-24]
 > Link:
 > Tag: #职业 #科技
 > 评论区：

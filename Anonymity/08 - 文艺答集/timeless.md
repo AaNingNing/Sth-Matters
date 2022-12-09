@@ -2,9 +2,9 @@
 [日产汽车提出的「永恒的日式未来主义」设计理念，应该如何理解？](https://www.zhihu.com/question/527575542/answer/2438172463)
 
 > Author: #Anonymity
-> Last update: *16/04/2022*
+> Last update: [编辑于 2022-07-06]
 > Link:
-> Tag:
+> Tag: #企管 #文艺
 > 评论区：
 > 泛讨论：
 

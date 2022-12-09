@@ -2,9 +2,9 @@
 [乌方称「俄军轰炸一家运作中的妇产医院 」，却被俄国防部否认，目前当地情况如何？](https://www.zhihu.com/question/521154275/answer/2384990036)
 
 > Author: #Anonymity
-> Last update: *13/03/2022*
-> Link:
-> Tag:
+> Last update: [编辑于 2022-03-12]
+> Link: [[MoneyTalk]]
+> Tag: #处事 #军事
 > 评论区：
 > 泛讨论：
 
