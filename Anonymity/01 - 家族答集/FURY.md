@@ -2,9 +2,9 @@
 [一个人的狂怒能有多可怕？](https://www.zhihu.com/question/266645399/answer/1969210271)
 
 > Author: #Anonymity
-> Last update: *30/07/2021*
+> Last update: [编辑于 2021-06-29]
 > Link: [[怒的边界]] [[制怒]] [[戒色]] [[习惯]]
-> Tag:
+> Tag: #历史 #内外
 > 评论区：
 > 泛讨论：
 

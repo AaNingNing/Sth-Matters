@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: [编辑于 2021-10-21]
-> Link: [[Anonymity/09 - 神学答集/爱]] [[生离死别]]
+> Link: [[爱]] [[生离死别]]
 > Tag: #两性 #其它/一些推荐
 > 评论区：#文娱 #两性
 > 泛讨论：

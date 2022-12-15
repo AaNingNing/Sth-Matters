@@ -2,9 +2,9 @@
 [the Cost](https://zhuanlan.zhihu.com/p/492800664)
 
 > Author: #Anonymity
-> Last update: *08/04/2022*
+> Last update: [发布于 2022-04-04]
 > Link:
-> Tag:
+> Tag: #时政
 > 评论区：
 > 泛讨论：
 

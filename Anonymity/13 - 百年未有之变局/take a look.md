@@ -2,9 +2,9 @@
 [take a look](https://zhuanlan.zhihu.com/p/479537304)
 
 > Author: #Anonymity
-> Last update: *13/03/2022*
+> Last update: [编辑于 2022-03-11]
 > Link:
-> Tag:
+> Tag: #其它/一些推荐 
 > 评论区：
 > 泛讨论：
 

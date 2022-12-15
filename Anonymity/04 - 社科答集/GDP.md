@@ -2,9 +2,9 @@
 [GDP为什么一定要增长？](https://www.zhihu.com/question/299080438/answer/544521904)
 
 > Author: #Anonymity
-> Last update: *15/05/2022*
-> Link: [[苏联 - 计划经济]] [[杀死美国经济]]
-> Tag:
+> Last update: [编辑于 2022-05-19]
+> Link: [[计划经济]] [[杀死美国经济]]
+> Tag: #社科
 > 评论区：
 > 泛讨论：
 
