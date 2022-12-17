@@ -1,12 +1,12 @@
 # Fabric UI
-*如何评价微软React组件库Fabric Ui?*
+[如何评价微软React组件库Fabric Ui？](https://www.zhihu.com/question/313507150/answer/716924370)
 
 > Author: #Anonymity
-> Last update: *23/06/2021*
+> Last update: [编辑于 2020-12-15]
 > Link: [[高管写代码]] [[码农的屏幕]]
-> Tag:
-> 评论区：
-> 泛讨论：
+> Tag: #科技
+> 评论区:
+> 泛讨论:
 
 资源太少。
 

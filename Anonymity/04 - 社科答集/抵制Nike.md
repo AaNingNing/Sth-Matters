@@ -2,11 +2,11 @@
 [大家会抵制Nike吗？](https://www.zhihu.com/question/451104022/answer/1808972837)
 
 > Author: #Anonymity
-> Last update: *02/02/2022*
-> Link:
-> Tag: #其它/一些推荐
-> 评论区：
-> 泛讨论：
+> Last update: [编辑于 2021-03-31]
+> Link: [[时尚品味]] [[时尚与fashion]]
+> Tag: #其它/一些推荐 #内外
+> 评论区:
+> 泛讨论:
 
 当然。
 

@@ -1,12 +1,12 @@
 # UFO
-*如何看待知乎赵泠对于UFO的看法？*
+[如何看待知乎赵泠对于UFO的看法？](https://www.zhihu.com/question/467884015/answer/1964289852)
 
 > Author: #Anonymity
-> Last update: *27/06/2021*
+> Last update: [编辑于 2021-06-27]
 > Link: [[看见外星人]]
-> Tag:
-> 评论区：
-> 泛讨论：
+> Tag: #科学 #神学
+> 评论区:
+> 泛讨论:
 
 完全同意。
 

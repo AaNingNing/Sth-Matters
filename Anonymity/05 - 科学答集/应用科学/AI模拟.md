@@ -1,12 +1,12 @@
 # AI模拟
-*这样的AI是真的吗？*
+[这样的AI是真的吗？](https://www.zhihu.com/question/448931860/answer/1777048791)
 
 > Author: #Anonymity
-> Last update: *23/06/2021*
+> Last update: [编辑于 2021-05-15]
 > Link: [[制赌]] [[励志]] [[程序管理人类]]
-> Tag:
-> 评论区：
-> 泛讨论：
+> Tag: #科技 #科学 #社科
+> 评论区:
+> 泛讨论:
 
 一开始就不合理。
 

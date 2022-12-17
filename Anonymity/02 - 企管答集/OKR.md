@@ -1,12 +1,12 @@
 # OKR
-*OKR工具是否被夸大？*
+[OKR工具的作用是否被夸大？](https://www.zhihu.com/question/461337019/answer/1919614525)
 
 > Author: #Anonymity
-> Last update: *25/07/2021*
-> Link: [[蒸蛋羹]]
-> Tag:
-> 评论区：
-> 泛讨论：
+> Last update: [编辑于 2022-02-23]
+> Link: [[SOP]]
+> Tag: #企管
+> 评论区:
+> 泛讨论:
 
 恕我直言，在企业中要实施OKR，需要学术与实践的双重大师的这种级别。
 

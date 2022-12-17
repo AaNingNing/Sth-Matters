@@ -1,12 +1,12 @@
 # Black Wallstreet
-*黑人有没有可能自己建一个州？*
+[黑人有没有可能自己建一个州？](https://www.zhihu.com/question/399529548/answer/1295127135)
 
 > Author: #Anonymity
-> Last update: *23/06/2021*
+> Last update: [编辑于 2021-05-17]
 > Link: [[美国方式]] [[塔利班]]
-> Tag:
-> 评论区：
-> 泛讨论：
+> Tag: #历史
+> 评论区:
+> 泛讨论:
 
 了解一下Tulsa “Black Wallstreet” Massacre。
 

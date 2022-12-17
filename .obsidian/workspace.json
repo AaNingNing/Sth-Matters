@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a0ca58cd2a47fab",
+        "id": "0a12d277bb0e8f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "a1acd760e7297d71",
+            "id": "f3e811f85f6837cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/chatGPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a0b267d2993475c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/撞球游戏.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b3b2574d8af1c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "【本周更新】/有钱人 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -74,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -90,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.0004348754883
+    "width": 319.0026054382324
   },
   "right": {
     "id": "667d5636990656b4",
@@ -111,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "file": "【本周更新】/有钱人 2.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -138,19 +112,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "7569597966c86526",
+  "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "【本周更新】/撞球游戏.md",
-    "沙海拾金/评论区/评论区_撞球游戏.md",
-    "沙海拾金/评论区/评论区_离开知乎.md",
-    "【本周更新】/chatGPT.md",
-    "沙海拾金/评论区/评论区_chatGPT.md",
-    "沙海拾金/泛讨论/泛讨论 - 俄乌战争.md",
-    "沙海拾金/泛讨论/泛讨论_谏言.md",
-    "沙海拾金/泛讨论/泛讨论_中国人看俄乌战争.md",
-    "沙海拾金/评论区/评论区_留言.md",
-    "Anonymity/01 - 家族答集/值得 1.md"
+    "Anonymity/01 - 家族答集/有钱人 1.md",
+    "【本周更新】/有钱人 2.md",
+    "README.md",
+    "【本周更新】/blender.md",
+    "【本周更新】/默认处理.md",
+    "【本周更新】/骑自行车的人 2.md",
+    "【本周更新】/自由与自由主义.md",
+    "【本周更新】/求和困难.md",
+    "【本周更新】/意在沛公.md",
+    "【本周更新】/关键.md"
   ]
 }
