@@ -5,8 +5,8 @@
 > Last update: [编辑于 2021-05-17]
 > Link: [[美国方式]] [[塔利班]]
 > Tag: #历史
-> 评论区：
-> 泛讨论：
+> 评论区:
+> 泛讨论:
 
 了解一下Tulsa “Black Wallstreet” Massacre。
 
