@@ -38,5 +38,5 @@ The world is hard-wired that way to make sure every colleague of his is cared fo
 
 Sadly, those who “bear labor for bread” are not considered as one of them.
 
-They are bearing labor alright,  
+They are bearing labor alright,
 but they rarely have that “bread.”
