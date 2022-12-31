@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee5678774009474",
+        "id": "9f6bc66c65c94825",
         "type": "tabs",
         "children": [
           {
-            "id": "df6f216a8e34dedc",
+            "id": "6ceb6cc8f1938ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anonymity/01 - 家族答集/说谎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8800eacd88459a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anonymity/01 - 家族答集/说谎.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.0026054382324
+    "width": 200
   },
   "right": {
     "id": "667d5636990656b4",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/01 - 家族答集/说谎.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204
+    "width": 204,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,15 +126,15 @@
   },
   "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "沙海拾金/评论区/评论区_说谎.md",
-    "沙海拾金/评论区/评论区_致你们.md",
-    "沙海拾金/评论区/评论区_贪爱相生.md",
-    "沙海拾金/评论区/评论区_优秀的被诋毁者.md",
-    "Anonymity/01 - 家族答集/说谎.md",
-    "README.md",
-    "Anonymity/00 - 致读者/卖瓜 2.md",
-    "Anonymity/00 - 致读者/致你们.md",
-    "【本周更新】/直播带货.md",
-    "【本周更新】/游戏.md"
+    "摘抄本/句子摘录.md",
+    "【本周更新】/财富观 II.md",
+    "沙海拾金/评论区/评论区_财富观 II.md",
+    "沙海拾金/评论区/评论区_水平.md",
+    "沙海拾金/评论区/评论区_撩阴腿.md",
+    "沙海拾金/评论区/评论区_松弛感.md",
+    "【本周更新】/水平.md",
+    "【本周更新】/撩阴腿.md",
+    "【本周更新】/松弛感.md",
+    "沙海拾金/评论区/评论区_努力方向.md"
   ]
 }

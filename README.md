@@ -320,6 +320,8 @@ Tags确定后，会随着每周笔记更新逐个添加。
 
 【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
 
+【专题阅读】 [烟雨行船 - 专题阅读 | 亲子关系](https://zhuanlan.zhihu.com/p/563069554)
+
 【专题阅读】 [烟雨行船 - 专题阅读 | "拆弹"/"排雷”小册子](https://zhuanlan.zhihu.com/p/563034125)
 
 【专题阅读】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
@@ -377,8 +379,8 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Checklist
 - [新增文章]
-	- Title of articles (Label untitled articles, delete unwanted symbols & spaces)
-	- Finished for now/To be continued (Label unfinished articles)
+	- Titles(Label untitled articles, delete unwanted symbols & spaces)
+	- Finished for now/To be continued(Label unfinished articles)
 	- Links & tags
 	- Update date
 	- Add /n in the end
