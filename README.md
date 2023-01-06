@@ -286,6 +286,8 @@ Tags确定后，会随着每周笔记更新逐个添加。
 
 【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
+【Word笔记】 [流水浮灯 & Nnpxg2 - 个人成长内容库](https://zhuanlan.zhihu.com/p/461954872)
+
 【Doc/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
 
 【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
@@ -319,6 +321,8 @@ Tags确定后，会随着每周笔记更新逐个添加。
 【核心能力】 [烟雨行船 - Notes‘ notes](https://zhuanlan.zhihu.com/p/523762857)
 
 【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | COVID-19 Pandemic](https://cowtransfer.com/s/f366279e6dd647)
 
 【专题阅读】 [烟雨行船 - 专题阅读 | 亲子关系](https://zhuanlan.zhihu.com/p/563069554)
 
