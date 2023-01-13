@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#4-世界史",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 574.0039024353027
+    "width": 401.00390243530273
   },
   "right": {
     "id": "667d5636990656b4",
@@ -112,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 350
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,7 +124,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "16d2607f4da02f5b",
+  "active": "727ef7e1831ef234",
   "lastOpenFiles": [
     "Anonymity/10 - “就你机灵”系列/心中有火.md",
     "Anonymity/03 - 第一性/女性公平.md",
