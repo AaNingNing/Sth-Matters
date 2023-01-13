@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/被浪费的人才.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/被浪费的人才.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,8 @@
   },
   "active": "3b83fa7530b7ffbe",
   "lastOpenFiles": [
+    "摘抄本/文章速读/00 - 摘抄 - 致读者/摘抄 - 致读者 - IV.md",
+    "【本周更新】/被浪费的人才.md",
     "【本周更新】/守土有责.md",
     "【本周更新】/国家电力.md",
     "【本周更新】/赵哈哈.md",
@@ -132,8 +134,6 @@
     "【本周更新】/China!.md",
     "【本周更新】/脑核心.md",
     "【本周更新】/竹剑师傅.md",
-    "【本周更新】/RUN.md",
-    "【本周更新】/十三三.md",
-    "【本周更新】/tw can help.md"
+    "【本周更新】/RUN.md"
   ]
 }
