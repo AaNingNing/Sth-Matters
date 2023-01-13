@@ -1,10 +1,10 @@
 # Iphone12
 [这次 iPhone 12 的销量会苹果是最低的吗？](https://www.zhihu.com/question/425567525/answer/1541336359)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2020-12-15]
 > Link: [[5G]]
-> Tag: #社科
+> Tag: #4-世界史/社科
 > 评论区:
 > 泛讨论:
 

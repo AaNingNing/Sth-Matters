@@ -1,10 +1,10 @@
 # lucky 5
 [既然劳务派遣那么坑，为什么不废除劳务派遣制度？](https://www.zhihu.com/question/438240126/answer/2809640699)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-12-21]
 > Link: [[合理 2]] [[态度最重要]] [[学好会计]] [[学好语文]]
-> Tag: #职业 #社科
+> Tag: #2-事业/职业 #4-世界史/社科
 > 评论区:
 > 泛讨论:
 

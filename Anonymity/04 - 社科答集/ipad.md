@@ -1,10 +1,10 @@
 # ipad
 [刚买的iPad Pro 12.9 要买什么套？](https://www.zhihu.com/question/409663831/answer/1741061225)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [发布于 2021-02-21]
 > Link:
-> Tag: #其它/一些推荐
+> Tag: #专题/一些推荐
 > 评论区:
 > 泛讨论:
 

@@ -1,10 +1,10 @@
 # YadaYada
 [德国宣布驱逐 40 名俄罗斯外交官，释放了什么信号？](https://www.zhihu.com/question/526052761/answer/2424589171)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-04-08]
 > Link: [[TOUGHNESS]] [[撒娇政治]]
-> Tag: #时政
+> Tag: #4-世界史/时政
 > 评论区:
 > 泛讨论:
 

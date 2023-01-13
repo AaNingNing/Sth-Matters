@@ -1,10 +1,10 @@
 # ToTheEnd
 [为什么有很多女孩相信"girls help girls"这种观点？](https://www.zhihu.com/question/536653100/answer/2543797753)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-06-25]
 > Link: [[不合理权]] [[应该不应该]] [[不生孩子]] [[平权]] [[BD象限不为空]]
-> Tag: #两性
+> Tag: #1-家族/两性
 > 评论区:
 > 泛讨论:
 

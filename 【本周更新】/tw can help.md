@@ -1,10 +1,10 @@
 # tw can help
 [假如普京去世了，战争会不会立即结束?](https://www.zhihu.com/question/559776368/answer/2839172716)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2023-01-11]
 > Link: [[俄乌局势]] [[关于俄乌的关键分析汇总]] [[一个坑]]
-> Tag: #时政 #军事
+> Tag: #4-世界史/时政 #4-世界史/军事
 > 评论区:
 > 泛讨论:
 

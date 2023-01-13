@@ -1,7 +1,7 @@
 # The Whole Package
 *“上海的拉胯和落后为什么在突发事件面前才暴露出来？”*
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: *15/05/2022*
 > Link: [[免于极端]] [[对人类失望]]
 > Tag:

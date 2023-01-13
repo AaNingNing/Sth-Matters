@@ -1,10 +1,10 @@
 # Black Wallstreet
 [黑人有没有可能自己建一个州？](https://www.zhihu.com/question/399529548/answer/1295127135)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2021-05-17]
 > Link: [[美国方式]] [[塔利班]]
-> Tag: #历史
+> Tag: #4-世界史/历史
 > 评论区:
 > 泛讨论:
 

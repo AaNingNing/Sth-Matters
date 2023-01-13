@@ -1,7 +1,7 @@
 # Easy Girl
 *如何看待在有些国外论坛的老外眼里中国姑娘是Easy Girl、世界公交车?*
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: *23/07/2021*
 > Link: [[女性公平]] [[致全体女性]]
 > Tag:

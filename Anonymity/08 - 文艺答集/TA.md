@@ -1,10 +1,10 @@
 # ta
 [放弃使用「她」字是性别歧视，还是男女平等？](https://www.zhihu.com/question/302600927/answer/1772139335)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2021-05-15]
 > Link: [[学好语文]]
-> Tag: #杂论 #文艺 #历史
+> Tag: #其它/杂论 #4-世界史/文艺 #4-世界史/历史
 > 评论区:
 > 泛讨论:
 

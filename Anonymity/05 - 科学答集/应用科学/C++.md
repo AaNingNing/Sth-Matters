@@ -1,7 +1,7 @@
 # C++
 *如何评论"知名游戏开发者称 C++ 是一种非常糟糕、可怕的语言"?*
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: *23/07/2021*
 > Link: [[码农的屏幕]] [[高管写代码]]
 > Tag:

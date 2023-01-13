@@ -1,10 +1,10 @@
 # the game of 看不起
 [为什么我书读得越多，越看不起周围的人？](https://www.zhihu.com/question/26828496/answer/2830201218)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2023-01-05]
 > Link: [[循环买卖]] [[低贱的事情]] [[尊重]] [[傲慢]]
-> Tag: #内外 #处事
+> Tag: #1-家族/内外 #1-家族/处事
 > 评论区:
 > 泛讨论:
 

@@ -1,10 +1,10 @@
 # 财富观 II
 [为什么我完全不能理解独生子女认为父母的就应该是自己的？](https://www.zhihu.com/question/411023962/answer/2814161842)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-12-24]
 > Link: [[财富观]] [[慈力线]] [[基线]] [[子女的要求]]
-> Tag: #亲子 #家族
+> Tag: #1-家族/亲子 #1-家族/统绪
 > 评论区: [[评论区_财富观 II]]
 > 泛讨论:
 

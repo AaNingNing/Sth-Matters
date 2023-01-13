@@ -1,10 +1,10 @@
 # Z
 [如何看待国际体联要求对体操服有「Z 图案」的俄运动员纪律处罚，称该图案是对俄罗斯「入侵行为」的支持？](https://www.zhihu.com/question/520529592/answer/2538768065)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [发布于 2022-06-21]
 > Link: [[哭出来的奶]]
-> Tag: #时政
+> Tag: #4-世界史/时政
 > 评论区:
 > 泛讨论:
 

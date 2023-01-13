@@ -1,10 +1,10 @@
 # MAGA
 [美国是不是不可能再次伟大了？](https://www.zhihu.com/question/64148000/answer/2393807452)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-03-18]
 > Link: [[伟大]] [[王天下]]
-> Tag: #历史 #时政
+> Tag: #4-世界史/历史 #4-世界史/时政
 > 评论区:
 > 泛讨论:
 

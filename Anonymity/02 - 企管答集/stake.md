@@ -1,10 +1,10 @@
 # stake
 [stakeholder和stockholder有什么区别？](https://www.zhihu.com/question/576106034/answer/2825232752)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2023-01-02]
 > Link: [[制赌]] [[求助力]] [[前途]] [[最好的陌生人]] [[老板及格线]]
-> Tag: #企管 #社科 #时政 #内外
+> Tag: #2-事业/企管 #4-世界史/社科 #4-世界史/时政 #1-家族/内外
 > 评论区:
 > 泛讨论:
 

@@ -1,10 +1,10 @@
 # take a look
 [take a look](https://zhuanlan.zhihu.com/p/479537304)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-03-11]
 > Link:
-> Tag: #其它/一些推荐
+> Tag: #专题/一些推荐
 > 评论区:
 > 泛讨论:
 

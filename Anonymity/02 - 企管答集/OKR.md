@@ -1,10 +1,10 @@
 # OKR
 [OKR工具的作用是否被夸大？](https://www.zhihu.com/question/461337019/answer/1919614525)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-02-23]
 > Link: [[SOP]]
-> Tag: #企管
+> Tag: #2-事业/企管
 > 评论区:
 > 泛讨论:
 

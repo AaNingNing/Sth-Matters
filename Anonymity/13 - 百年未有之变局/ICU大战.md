@@ -1,10 +1,10 @@
 # ICU大战
 [俄罗斯在大规模动员增兵完成后再打一次基辅的军事合理性如何？](https://www.zhihu.com/question/559901963/answer/2718242715)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-10-17]
 > Link:
-> Tag: #时政 #军事
+> Tag: #4-世界史/时政 #4-世界史/军事
 > 评论区:
 > 泛讨论:
 

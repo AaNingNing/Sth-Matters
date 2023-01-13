@@ -1,10 +1,10 @@
 # 时尚与fashion
 [什么叫做「时尚」？](https://www.zhihu.com/question/301852058/answer/528310327)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2021-06-07]
 > Link: [[时尚品味]] [[珠宝的价值]] [[奢侈品 1]] [[奢侈品 2]] [[有匪君子]]
-> Tag: #内外 #历史 #文艺
+> Tag: #1-家族/内外 #4-世界史/历史 #4-世界史/文艺
 > 评论区:
 > 泛讨论:
 

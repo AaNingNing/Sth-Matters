@@ -1,10 +1,10 @@
 # CPTPP
 [如何看待中国对加入 CPTPP 持积极开放态度？若加入将会给中国带来哪些影响？](https://www.zhihu.com/question/431019487/answer/1583793933)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2020-11-19]
 > Link: [[大国博弈]] [[权谋套娃]]
-> Tag: #时政
+> Tag: #4-世界史/时政
 > 评论区:
 > 泛讨论:
 

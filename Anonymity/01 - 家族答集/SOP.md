@@ -1,10 +1,10 @@
 # SOP
 [如何才能做出一碗美味的蛋羹？](https://www.zhihu.com/question/315035483/answer/1789846187)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2021-05-15]
 > Link: [[能力]] [[学习的快乐]] [[做计划]] [[拖拉机]]
-> Tag: #功夫 #处事
+> Tag: #2-事业/功夫 #1-家族/处事
 > 评论区:
 > 泛讨论:
 

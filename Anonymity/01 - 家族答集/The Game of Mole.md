@@ -1,10 +1,10 @@
 # The Game of Mole
 [怎样才算是尽力了?](https://www.zhihu.com/question/22510326/answer/2763399645)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-11-18]
 > Link: [[心安]]
-> Tag: #处事 #功夫
+> Tag: #1-家族/处事 #2-事业/功夫
 > 评论区: [[评论区_The Game of Mole]]
 > 泛讨论:
 

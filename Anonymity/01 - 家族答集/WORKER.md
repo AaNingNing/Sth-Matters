@@ -1,10 +1,10 @@
 # WORKER
 [三百万放银行吃利息，我可以不用上班吗？](https://www.zhihu.com/question/525273331/answer/2777702915)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-12-02]
 > Link: [[事业已定]] [[忙起来]]  [[忙工作]]
-> Tag: #职业
+> Tag: #2-事业/职业
 > 评论区:
 > 泛讨论:
 

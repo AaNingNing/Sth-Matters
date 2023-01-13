@@ -1,10 +1,10 @@
 # chatGPT
 [如何评价 ChatGPT ？会取代搜索引擎吗？](https://www.zhihu.com/question/570062224/answer/2790608277)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2022-12-07]
 > Link: [[逼你幸福]]
-> Tag: #科技
+> Tag: #4-世界史/科技
 > 评论区: [[评论区_chatGPT]]
 > 泛讨论:
 

@@ -1,10 +1,10 @@
 #  the Cost
 [the Cost](https://zhuanlan.zhihu.com/p/492800664)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [发布于 2022-04-04]
 > Link:
-> Tag: #时政
+> Tag: #4-世界史/时政
 > 评论区:
 > 泛讨论:
 

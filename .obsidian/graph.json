@@ -4,19 +4,27 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file: 泛讨论",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 0.847050968172713,
+  "nodeSizeMultiplier": 1.2721782729805,
   "lineSizeMultiplier": 0.605482318476669,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.457352941176471,
   "repelStrength": 17.3824786324786,
   "linkStrength": 0.494257478632479,
   "linkDistance": 500,
-  "scale": 0.09061489035935658,
+  "scale": 0.05872483863927585,
   "close": false
 }

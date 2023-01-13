@@ -1,10 +1,10 @@
 # Fabric UI
 [如何评价微软React组件库Fabric Ui？](https://www.zhihu.com/question/313507150/answer/716924370)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2020-12-15]
 > Link: [[高管写代码]] [[码农的屏幕]]
-> Tag: #科技
+> Tag: #4-世界史/科技
 > 评论区:
 > 泛讨论:
 

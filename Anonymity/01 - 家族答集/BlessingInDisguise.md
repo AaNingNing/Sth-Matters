@@ -1,10 +1,10 @@
 # BlessingInDisguise
 [抑郁焦虑休学了一年多，但还是极度厌学恐惧学校怎么办?](https://www.zhihu.com/question/552876594/answer/2679568286)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [发布于 2022-09-19]
 > Link: [[战胜抑郁]] [[耽误了五六年]] [[抑郁的潮]] [[TOUGHNESS]] [[一事无成]] [[后悔的真相]]
-> Tag: #心理 #内外
+> Tag: #1-家族/心理 #1-家族/内外
 > 评论区:
 > 泛讨论:
 

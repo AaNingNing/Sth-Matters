@@ -1,10 +1,10 @@
 # BRT
 [BRT 和地铁相比有哪些优劣之处？](https://www.zhihu.com/question/20169848/answer/1891741754)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2021-05-25]
 > Link: [[下一站]] [[5G]] [[5G未来展望]]
-> Tag: #社科
+> Tag: #4-世界史/社科
 > 评论区:
 > 泛讨论:
 

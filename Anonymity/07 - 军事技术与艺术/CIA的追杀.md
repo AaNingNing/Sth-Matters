@@ -1,10 +1,10 @@
 # CIA的追杀
 [如果普通人被CIA列为暗杀对象，怎么做才能活超过7天？](https://www.zhihu.com/question/445127735/answer/1830215326)
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: [编辑于 2021-12-10]
 > Link: [[反敌意监控]] [[严刑拷打]] [[敌人]] [[以爱应恨]] [[我的资源]] [[条理]]
-> Tag: #军事
+> Tag: #4-世界史/军事
 > 评论区:
 > 泛讨论:
 

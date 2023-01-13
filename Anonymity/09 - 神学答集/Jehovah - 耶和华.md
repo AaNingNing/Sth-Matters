@@ -1,10 +1,10 @@
 # Jehovah - 耶和华
 *Jehovah（耶和华） 是一个错误翻译吗？*
 
-> Author: #Anonymity
+> Author: #0-Anonymity
 > Last update: *26/07/2021*
 > Link: [[斑点狗]] [[人格化上帝]]
-> Tag: #神学
+> Tag: #3-信仰/新神学
 > 评论区:
 > 泛讨论:
 
