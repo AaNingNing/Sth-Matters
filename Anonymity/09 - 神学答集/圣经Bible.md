@@ -3,8 +3,8 @@
 
 > Author: #0-Anonymity
 > Last update: *26/07/2021*
-> Link:  [[圣经 - 神的样子]]
-> Tag: #3-信仰/3D-新神学
+> Link:  [[神的样子]]
+> Tag: #3-信仰/3E-经传
 > 评论区:
 > 泛讨论:
 

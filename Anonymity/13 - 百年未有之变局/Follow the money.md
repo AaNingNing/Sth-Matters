@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-03-12]
 > Link: [[MoneyTalk]]
-> Tag: #1-家族/1B-处事 #4-世界史/4C-军事
+> Tag: #2-事业/2A-功夫/2-核心能力/信源管理 #2-事业/2B-投资 
 > 评论区:
 > 泛讨论:
 
