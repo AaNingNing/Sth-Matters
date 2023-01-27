@@ -342,6 +342,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
+【Markdown笔记】[世外逃员 - 个人成长内容库（延续浮灯版）](https://zhuanlan.zhihu.com/p/600612487)
+
 【Word笔记】 [流水浮灯 & Nnpxg2 - 个人成长内容库](https://zhuanlan.zhihu.com/p/461954872)
 
 【Doc/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
@@ -350,15 +352,21 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
 
+【摘抄】[南山南山南 - Caritas海报汇总](https://zhuanlan.zhihu.com/p/600095622)
+
 【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
 
 【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
 
 【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
+【想法 & 评论区】 [夫见 - 回答摘录132条总分享](https://zhuanlan.zhihu.com/p/596667607)
+
 【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
 
 【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
+
+【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
 
 【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
 

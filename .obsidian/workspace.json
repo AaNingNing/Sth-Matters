@@ -4,16 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "1b1952fac7ddf308",
+        "id": "254f2f6d62732bee",
         "type": "tabs",
         "children": [
           {
-            "id": "df48ea1c6f33bbb5",
+            "id": "4ada30673c7c1666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/学无门户.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b275095723fc682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anonymity/01 - 家族答集/理解的原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0abcaa2114c28657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/批判性的声音.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea9a96b3c224f6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/家族禁忌.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6461d16e57ba0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/梅机关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a105decdee5fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/修行实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "998a1752151d23ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/真爱永远.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c32a09309a0c667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/脑死亡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71b57f705b93388e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/卵生大猩猩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0787d5309dbee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/自由主义101.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1-家族/1B-处世",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.00043487548828
+    "width": 200
   },
   "right": {
     "id": "667d5636990656b4",
@@ -85,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/学无门户.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,17 +231,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "df48ea1c6f33bbb5",
+  "active": "4ada30673c7c1666",
   "lastOpenFiles": [
-    "【本周更新】/入门.md",
-    "Anonymity/01 - 家族答集/敏感.md",
-    "Anonymity/01 - 家族答集/敌人.md",
-    "Anonymity/01 - 家族答集/操纵.md",
-    "Anonymity/01 - 家族答集/摆脱贫穷.md",
-    "Anonymity/01 - 家族答集/感性.md",
-    "Anonymity/01 - 家族答集/底线.md",
-    "Anonymity/01 - 家族答集/差不多得了.md",
-    "Anonymity/01 - 家族答集/尊重.md",
-    "Anonymity/01 - 家族答集/反清复明.md"
+    "【本周更新】/\"骂娘\"风气.md",
+    "【本周更新】/硬鼻书法.md",
+    "【本周更新】/马赛大曲.md",
+    "【本周更新】/天涯论坛.md",
+    "【本周更新】/上上大吉.md",
+    "【本周更新】/十五秒.md",
+    "【本周更新】/政治正确.md",
+    "【本周更新】/自由主义101.md",
+    "【本周更新】/卵生大猩猩.md",
+    "【本周更新】/脑死亡.md"
   ]
 }
