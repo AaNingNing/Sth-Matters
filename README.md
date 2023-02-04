@@ -433,6 +433,8 @@ https://zhuanlan.zhihu.com/p/380200295
 ![[Screen Shot 2022-06-10 at 19.46.01.png]]
 ![[Screen Shot 2022-06-10 at 19.46.07.png]]
 
+更多笔记使用相关说明： [obsidian-学习笔记 实况录制分享](https://www.zhihu.com/zvideo/1603790661077184512)
+
 ---
 ---
 
