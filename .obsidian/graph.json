@@ -6,15 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file: 泛讨论",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
@@ -25,6 +17,6 @@
   "repelStrength": 17.3824786324786,
   "linkStrength": 0.494257478632479,
   "linkDistance": 500,
-  "scale": 0.05872483863927585,
-  "close": false
+  "scale": 0.03698517392816283,
+  "close": true
 }
