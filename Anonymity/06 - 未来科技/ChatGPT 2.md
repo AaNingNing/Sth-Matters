@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-02-08]
 > Link:
-> Tag: #4-世界史/4E-科学技术/科技
+> Tag: #4-世界史/4E-科学技术/2-科技
 > 评论区: [[评论区_ChatGPT 2]]
 > 泛讨论:
 
