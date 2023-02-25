@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "34e84fe8d86fc3a6",
+        "id": "2700014d7411a520",
         "type": "tabs",
         "children": [
           {
-            "id": "8f931722a0bf9083",
+            "id": "c96f1e69993a3a6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Anonymity/04 - 社科答集/客观理性评价.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1-家族/1D-心理",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anonymity/04 - 社科答集/客观理性评价.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +124,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f931722a0bf9083",
+  "active": "c96f1e69993a3a6e",
   "lastOpenFiles": [
-    "【本周更新】/失信人.md",
-    "【本周更新】/生育率问题.md",
-    "【本周更新】/汽油救火.md",
-    "【本周更新】/脱轨事故.md",
-    "【本周更新】/满分六十.md",
-    "【本周更新】/言少必失.md",
-    "【本周更新】/another.md",
-    "【本周更新】/不助怨.md",
-    "【本周更新】/抗通胀.md",
-    "【本周更新】/战争的本质.md"
+    "Anonymity/04 - 社科答集/出于恐惧的仇恨.md",
+    "Anonymity/04 - 社科答集/公网质量.md",
+    "Anonymity/04 - 社科答集/仇港.md",
+    "Anonymity/04 - 社科答集/中年悲哀.md",
+    "Anonymity/04 - 社科答集/世风日下.md",
+    "Anonymity/01 - 家族答集/进步退步.md",
+    "Anonymity/01 - 家族答集/穷吗你.md",
+    "Anonymity/01 - 家族答集/朋友难交.md",
+    "Anonymity/01 - 家族答集/强盗逻辑.md",
+    "Anonymity/01 - 家族答集/北极夏令营.md",
+    "Anonymity/01 - 家族答集/别愤怒.md",
+    "Anonymity/01 - 家族答集/初中生.md",
+    "Anonymity/01 - 家族答集/以暴制暴.md",
+    "Anonymity/01 - 家族答集/仇穷与仇富.md",
+    "【本周更新】/了解苏联.md",
+    "【本周更新】/柯里昂说.md",
+    "【本周更新】/安欣.md",
+    "【本周更新】/德州.md",
+    "【本周更新】/奸佞.md",
+    "【本周更新】/残忍的极限.md",
+    "【本周更新】/核电站的风险.md",
+    "【本周更新】/马督工.md",
+    "【本周更新】/多余的问题.md",
+    "【本周更新】/双向奔赴.md",
+    "沙海拾金/评论区/评论区_礼貌的愤怒.md",
+    "【本周更新】/礼貌的愤怒.md"
   ]
 }
