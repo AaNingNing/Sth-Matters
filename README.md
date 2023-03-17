@@ -183,10 +183,11 @@ Tags确定后，会随着每周笔记更新陆续添加。
 			- 1b-危险迹象
 			- 1c-自救策略
 		- 2-救助ta人
-	- 1D-心理
-		- 抑郁
-		- 安全感
-		- 幸福
+	- 1D-心理（暂时完成）
+		- 1-情绪
+		- 2-抑郁
+		- 3-安全感
+		- 4-幸福
 	- 1E-两性（暂时完成）
 		- 1-亲密关系
 			- 1a-交往准则
@@ -212,9 +213,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 		- 2-传家
 
 - 2-事业
-	- 2A-功夫
-		- 学与玩
-		- 核心能力
+	- 2A-功夫（待完成）
+		- 1-核心能力
 			- 信源管理
 			- 情报分析
 			- 旷野生存
@@ -223,8 +223,7 @@ Tags确定后，会随着每周笔记更新陆续添加。
 			- 学逻辑
 			- 学语文
 			- 学会计/数学
-			- 学读书
-		- 能力拓展
+		- 2-拓展能力
 			- 绘画
 			- 设计
 			- 哲学
@@ -232,7 +231,6 @@ Tags确定后，会随着每周笔记更新陆续添加。
 			- 弓道
 			- 武艺
 			- 驾驶
-			- 学术
 	- 2B-投资（暂时完成）
 	- 2C-职业（暂时完成）
 		- 1-态度与伦理
@@ -253,7 +251,7 @@ Tags确定后，会随着每周笔记更新陆续添加。
 	- 3E-经传
 
 - 4-世界史
-	- 4A-社科
+	- 4A-社科（待完成）
 		- 自然法
 		- 伦理
 		- 道德
@@ -265,14 +263,14 @@ Tags确定后，会随着每周笔记更新陆续添加。
 		- 法律？
 		- 工业？
 		- 农业？
-	- 4B-政治
+	- 4B-政治（待完成）
 		- 王道？
 		- 霸道？
-	- 4C-军事
+	- 4C-军事（待完成）
 		- 技术
 		- 战术
 			- 信息战
-	- 4D-历史
+	- 4D-历史（待完成）
 	- 4E-科学技术 （暂时完成）
 		- 1-科学
 		- 2-科技
@@ -334,6 +332,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
 
 【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+
+【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
  
 【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
 
@@ -365,21 +365,17 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
 
-【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
-
-【想法 & 评论区】 [夫见 - 回答摘录132条总分享](https://zhuanlan.zhihu.com/p/596667607)
-
-【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
-
-【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
-
-【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
-
-【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
-
-【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
-
 【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
+
+【专题阅读】 [Richard - 专题阅读合集](https://zhuanlan.zhihu.com/p/613373131)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | COVID-19 Pandemic](https://cowtransfer.com/s/f366279e6dd647)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | 亲子关系](https://zhuanlan.zhihu.com/p/563069554)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | "拆弹"/"排雷”小册子](https://zhuanlan.zhihu.com/p/563034125)
+
+【专题阅读】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
 
 【专题研究】 [疗愈艺术 - 手绘长直线研究中心](https://www.zhihu.com/collection/821986940)
 
@@ -393,13 +389,19 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
 
-【专题阅读】 [烟雨行船 - 专题阅读 | COVID-19 Pandemic](https://cowtransfer.com/s/f366279e6dd647)
+【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
 
-【专题阅读】 [烟雨行船 - 专题阅读 | 亲子关系](https://zhuanlan.zhihu.com/p/563069554)
+【想法 & 评论区】 [夫见 - 回答摘录132条总分享](https://zhuanlan.zhihu.com/p/596667607)
 
-【专题阅读】 [烟雨行船 - 专题阅读 | "拆弹"/"排雷”小册子](https://zhuanlan.zhihu.com/p/563034125)
+【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
 
-【专题阅读】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
+【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
+
+【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
+
+【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
+
+【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
 
 【分类】[文章分类-500-社会科学类](https://zhuanlan.zhihu.com/p/392743487)
 
