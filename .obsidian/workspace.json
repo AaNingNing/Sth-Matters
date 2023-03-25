@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5765540f4eac3f34",
+        "id": "e1d1fa911ea3ccb2",
         "type": "tabs",
         "children": [
           {
-            "id": "a7576050536fb611",
+            "id": "8e171351e0256460",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/劫后余生.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 277.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/劫后余生.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,35 +118,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "8e171351e0256460",
   "lastOpenFiles": [
-    "README.md",
-    "【本周更新】/劫后余生.md",
-    "【本周更新】/范式.md",
-    "【本周更新】/吏治.md",
-    "【本周更新】/分手杀.md",
-    "【本周更新】/末法.md",
-    "【本周更新】/文心一言.md",
-    "【本周更新】/老人跳桥.md",
-    "【本周更新】/等等.md",
-    "【本周更新】/不专业专业.md",
-    "【本周更新】/屋乌.md",
-    "【本周更新】/基层陷阱.md",
-    "【本周更新】/强国的度.md",
-    "【本周更新】/坦桑尼亚哈拉少.md",
-    "【本周更新】/巴赫穆特.md",
-    "【本周更新】/跌落.md",
-    "【本周更新】/下不来台.md",
-    "【本周更新】/去世之前.md",
-    "Anonymity/01 - 家族答集/悟性 1.md",
-    "Anonymity/01 - 家族答集/开心.md",
-    "Anonymity/01 - 家族答集/休息.md",
-    "Anonymity/01 - 家族答集/世面.md",
-    "Anonymity/01 - 家族答集/学会.md",
-    "【本周更新】/斤斤计较.md",
-    "【本周更新】/合理 2.md",
-    "Anonymity/01 - 家族答集/别时礼.md",
-    "转载授权/鼓励利用我的内容盈利.jpeg",
+    "Anonymity/01 - 家族答集/no run.md",
+    "Anonymity/01 - 家族答集/分享.md",
+    "【本周更新】/AI 一.md",
+    "【本周更新】/危险迹象 2.md",
+    "【本周更新】/索赔.md",
+    "【本周更新】/不立文字.md",
+    "【本周更新】/CAS.md",
+    "【本周更新】/独立思考的要害.md",
+    "【本周更新】/误导式加密.md",
+    "【本周更新】/集体主义精神.md",
+    "【本周更新】/睡前消息563期.md",
+    "【本周更新】/有罪推定.md",
+    "【本周更新】/母乳喂养.md",
+    "【本周更新】/远东合作.md",
+    "【本周更新】/强强.md",
+    "【本周更新】/利益共同体.md",
+    "【本周更新】/LetMoneyTalk.md",
+    "【本周更新】/大冰箱.md",
+    "【本周更新】/反谣言.md",
+    "Anonymity/04 - 社科答集/农村的未来.md",
+    "Anonymity/04 - 社科答集/环境问题.md",
+    "Anonymity/04 - 社科答集/真正的xx论者.md",
+    "Anonymity/04 - 社科答集/国家绿化.md",
+    "Anonymity/04 - 社科答集/新制造犀牛工厂.md",
+    "Anonymity/01 - 家族答集/不可论断人.md",
+    "Anonymity/01 - 家族答集/与世界为敌.md",
+    "转载授权/2-授权条款更新.png",
+    "转载授权/1-鼓励利用我的内容盈利.jpeg",
+    "Anonymity/14 - 人与智能",
     "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
     "_附件/Screenshot 2022-12-31 at 07.25.21.png",
     "_附件/Screenshot 2022-12-31 at 07.25.12.png",
