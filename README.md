@@ -370,6 +370,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【网站】 [张慕晖 - Note Reader](https://link.zhihu.com/?target=https%3A//jh-reader.github.io/)
 
+【分类】[茶芒 - 文章备份工作打卡贴](https://zhuanlan.zhihu.com/p/563624303)
+
 【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
 【Markdown笔记】[世外逃员 - 个人成长内容库（延续浮灯版）](https://zhuanlan.zhihu.com/p/600612487)
@@ -426,13 +428,6 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
 
-【分类】[文章分类-500-社会科学类](https://zhuanlan.zhihu.com/p/392743487)
-
-【分类】[文章分类-300-科学类|600-中国史地|700-世界史地|800-语言文学|900-艺术类](https://zhuanlan.zhihu.com/p/392745823)
-
-【分类】[文章分类-100-哲学类](https://zhuanlan.zhihu.com/p/392729411)
-
-【分类】[文章分类-400-应用学科类](https://zhuanlan.zhihu.com/p/392737743)
 
 To be continued.
 
