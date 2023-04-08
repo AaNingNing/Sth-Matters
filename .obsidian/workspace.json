@@ -11,8 +11,12 @@
             "id": "32b9d91c96a99b17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周新增】/AI绘图.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周新增】/跳车.md",
+                "file": "【本周新增】/AI绘图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,11 +123,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "727ef7e1831ef234",
+  "active": "32b9d91c96a99b17",
   "lastOpenFiles": [
+    "【本周新增】/跳车.md",
     "【本周新增】/ta助.md",
     "【本周新增】/救生.md",
-    "【本周新增】/AI绘图.md",
     "【本周新增】/待成熟.md",
     "【本周新增】/36度5.md",
     "【本周新增】/精致罪.md",
@@ -134,19 +138,19 @@
     "【本周新增】/一步之遥.md",
     "【本周新增】/你的奋斗.md",
     "【本周新增】/小结巴.md",
-    "【本周新增】/跳车.md",
     "【本周新增】/语言学 1.md",
-    "【本周修订】/二战日军.md",
-    "【本周修订】/信息量.md",
-    "【本周修订】/值得一嫁.md",
-    "【本周修订】/批评.md",
-    "Anonymity/01 - 家族答集/诛心.md",
-    "Anonymity/01 - 家族答集/三面围堵.md",
-    "【本周修订】/双胞胎.md",
-    "Anonymity/04 - 社科答集/合理 2.md",
-    "【本周修订】/粗心.md",
-    "【本周修订】/荒谬的偏激.md",
-    "【本周修订】/知识的上限.md",
+    "【本周新增】/AI绘图.md",
+    "【本周修订】/独立思考.md",
+    "【本周修订】/极度聪明.md",
+    "【本周修订】/凶不起.md",
+    "【本周修订】/文字张力.md",
+    "【本周修订】/不破例.md",
+    "【本周修订】/性.md",
+    "【本周修订】/有困难就说.md",
+    "【本周修订】/快餐式.md",
+    "【本周修订】/精英.md",
+    "【本周修订】/正邪之分.md",
+    "【本周修订】/拿住不抛.md",
     "待移除",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
     "_附件/Screen Shot 2022-06-10 at 19.46.07.png",

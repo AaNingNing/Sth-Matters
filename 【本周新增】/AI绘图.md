@@ -1,3 +1,4 @@
+# AI绘图
 [你能区分这是AI还是真人吗？](https://www.zhihu.com/question/593784685/answer/2969540366)
 
 > Author: #0-Anonymity
