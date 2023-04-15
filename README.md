@@ -326,6 +326,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 ## 附录 
 ### 官方合集
 
+【在线自助AI服务】素问SOOON.AI - [素问 sooon.ai Q&A](https://zhuanlan.zhihu.com/p/620744835)
+
 【文章备份】[GitHub - itrewub/jh-notes](https://link.zhihu.com/?target=https%3A//github.com/itrewub/jh-notes)
 
 【爱发电】[爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.net/a/johnhexa?tab=feed)
