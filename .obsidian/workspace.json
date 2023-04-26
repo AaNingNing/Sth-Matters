@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79c291355f06861d",
+            "id": "bcf8b09eec94b3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anonymity/04 - 社科答集/创新问题 2.md",
+                "file": "【本周修订】/死亡.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-事业/2A-功夫",
+                "query": "宽泛的讲，如果是靠专业技能做到年薪两百万",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 337.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/04 - 社科答集/创新问题 2.md",
+                "file": "【本周修订】/死亡.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,34 +123,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "bcf8b09eec94b3ba",
   "lastOpenFiles": [
-    "Anonymity/04 - 社科答集/自由与自由主义.md",
-    "Anonymity/04 - 社科答集/教育家.md",
-    "Anonymity/04 - 社科答集/底层出身.md",
-    "Anonymity/01 - 家族答集/有匪君子.md",
-    "Anonymity/01 - 家族答集/慕强.md",
-    "Anonymity/01 - 家族答集/人安乐.md",
-    "摘抄本/句子摘录.md",
-    "Anonymity/01 - 家族答集/照顾不周.md",
-    "Anonymity/08 - 文艺答集/俄罗斯艺术之谜.md",
-    "Anonymity/01 - 家族答集/匠心.md",
-    "Anonymity/07 - 军事技术与艺术/降维打击.md",
-    "Anonymity/01 - 家族答集/善意提醒.md",
-    "Anonymity/01 - 家族答集/摆脱思路.md",
-    "Anonymity/01 - 家族答集/释放攻击性.md",
-    "Anonymity/06 - 未来科技/星之航路.md",
-    "Anonymity/06 - 未来科技/模拟人类.md",
+    "【本周修订】/RUN.md",
+    "【本周修订】/收尾.md",
+    "【本周修订】/China!.md",
+    "【本周修订】/见死救.md",
+    "【本周修订】/制赌.md",
+    "Anonymity/01 - 家族答集/龙生于渊.md",
+    "【本周修订】/等于3.md",
+    "【本周修订】/白羽恶魔.md",
     "Anonymity/14 - 素问SOOON.AI/AI管理办法.md",
-    "Anonymity/14 - 素问SOOON.AI/ai纪要.md",
-    "Anonymity/07 - 军事技术与艺术/穿插.md",
-    "Anonymity/06 - 未来科技/数字主权.md",
-    "Anonymity/13 - 百年未有之变局/最佳示范.md",
-    "Anonymity/14 - 素问SOOON.AI/全力以赴.md",
-    "Anonymity/14 - 素问SOOON.AI/素问 sooon.ai 上线测试.md",
-    "Anonymity/01 - 家族答集/长时间保持理性.md",
-    "Anonymity/01 - 家族答集/理性暴政.md",
-    "Anonymity/03 - 第一性/让爱.md",
+    "【本周新增】/人口第一.md",
+    "【本周新增】/吃与不吃.md",
+    "【本周新增】/提问者.md",
+    "【本周新增】/爱讲逻辑.md",
+    "【本周新增】/autoGPT.md",
+    "【本周新增】/乌克兰与宋朝.md",
+    "【本周新增】/打怪兽.md",
+    "【本周新增】/好耐磨.md",
+    "【本周新增】/内容深度.md",
+    "【本周新增】/可信的ai服务.md",
+    "【本周新增】/相处力.md",
+    "【本周新增】/大好人.md",
+    "【本周新增】/打碎观音.md",
+    "【本周新增】/好人多还是坏人多.md",
+    "【本周新增】/程序员的悲哀.md",
+    "【本周新增】/判决书漏洞.md",
+    "【本周新增】/健康卡.md",
+    "Untitled",
+    "新增文件/Untitled",
     "Anonymity/14 - 素问SOOON.AI",
     "待移除",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
