@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b45a9303988e04e4",
+        "id": "8de209fd22e32674",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf8b09eec94b3ba",
+            "id": "d7bef9dc2c833f54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周修订】/死亡.md",
+                "file": "Anonymity/13 - 百年未有之变局/反炮兵雷达.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "宽泛的讲，如果是靠专业技能做到年薪两百万",
+                "query": "tag:#4-世界史/4C-军事/1-军工与技术",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse"
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周修订】/死亡.md",
+                "file": "Anonymity/13 - 百年未有之变局/反炮兵雷达.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,41 +124,41 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bcf8b09eec94b3ba",
+  "active": "727ef7e1831ef234",
   "lastOpenFiles": [
-    "【本周修订】/RUN.md",
-    "【本周修订】/收尾.md",
-    "【本周修订】/China!.md",
-    "【本周修订】/见死救.md",
-    "【本周修订】/制赌.md",
-    "Anonymity/01 - 家族答集/龙生于渊.md",
-    "【本周修订】/等于3.md",
-    "【本周修订】/白羽恶魔.md",
-    "Anonymity/14 - 素问SOOON.AI/AI管理办法.md",
-    "【本周新增】/人口第一.md",
-    "【本周新增】/吃与不吃.md",
-    "【本周新增】/提问者.md",
-    "【本周新增】/爱讲逻辑.md",
-    "【本周新增】/autoGPT.md",
-    "【本周新增】/乌克兰与宋朝.md",
-    "【本周新增】/打怪兽.md",
-    "【本周新增】/好耐磨.md",
-    "【本周新增】/内容深度.md",
-    "【本周新增】/可信的ai服务.md",
-    "【本周新增】/相处力.md",
-    "【本周新增】/大好人.md",
-    "【本周新增】/打碎观音.md",
-    "【本周新增】/好人多还是坏人多.md",
-    "【本周新增】/程序员的悲哀.md",
-    "【本周新增】/判决书漏洞.md",
-    "【本周新增】/健康卡.md",
+    "Anonymity/13 - 百年未有之变局/超高音速武器.md",
+    "Anonymity/13 - 百年未有之变局/修船.md",
+    "Anonymity/10 - “就你机灵”系列/提高命中.md",
+    "Anonymity/07 - 军事技术与艺术/韩国军工.md",
+    "Anonymity/07 - 军事技术与艺术/橙剂.md",
+    "Anonymity/07 - 军事技术与艺术/打怪兽.md",
+    "Anonymity/07 - 军事技术与艺术/弓箭的杀伤力.md",
+    "Anonymity/07 - 军事技术与艺术/后坐力.md",
+    "Anonymity/07 - 军事技术与艺术/军舰降噪.md",
+    "Anonymity/05 - 科学答集/螺母.md",
+    "Anonymity/05 - 科学答集/螺栓松了.md",
+    "Anonymity/05 - 科学答集/弯道超车.md",
+    "Anonymity/05 - 科学答集/两指宽.md",
+    "Anonymity/04 - 社科答集/核电站的风险.md",
+    "Anonymity/07 - 军事技术与艺术/日本弯刀.md",
+    "Anonymity/07 - 军事技术与艺术/浮桥.md",
+    "Anonymity/07 - 军事技术与艺术/我们如何战胜认知战.md",
+    "Anonymity/07 - 军事技术与艺术/打掉飞箭.md",
+    "Anonymity/05 - 科学答集/运动最强.md",
+    "Anonymity/05 - 科学答集/驾与驶.md",
+    "Anonymity/05 - 科学答集/烤不化的冰糕.md",
+    "Anonymity/05 - 科学答集/抢快还是拳快.md",
+    "Anonymity/01 - 家族答集/不卑不亢 2.md",
+    "Anonymity/00 - 致读者/留言.md",
+    "Anonymity/00 - 致读者/卖瓜 3.md",
+    "Anonymity/01 - 家族答集/理性的代价.md",
+    "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
+    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
+    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
     "Untitled",
     "新增文件/Untitled",
     "Anonymity/14 - 素问SOOON.AI",
     "待移除",
-    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
     "_附件",
     "待移除",
     "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
