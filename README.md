@@ -364,6 +364,9 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 
 #### 文字类：
+
+【App】 [大卫 - Caritas App3.0](https://zhuanlan.zhihu.com/p/617158917)
+
 【App】 [idealclover - Caritas APP2.0](https://zhuanlan.zhihu.com/p/556201282)
 
 【App】 [大卫 - Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619)
@@ -374,13 +377,19 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【分类】[茶芒 - 文章备份工作打卡贴](https://zhuanlan.zhihu.com/p/563624303)
 
+【分类】[茶芒 - 中文图书分类法](https://zhuanlan.zhihu.com/p/625684969)
+
+【目录】[鱼丸粗面 - 回答目录整理](https://zhuanlan.zhihu.com/p/616482557)
+
 【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
 【Markdown笔记】[世外逃员 - 个人成长内容库（延续浮灯版）](https://zhuanlan.zhihu.com/p/600612487)
 
 【Word笔记】 [流水浮灯 & Nnpxg2 - 个人成长内容库](https://zhuanlan.zhihu.com/p/461954872)
 
-【Doc/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
+【Docx/PDF/EPUB/MOBI】[广场台灯 - 合集打印版](https://zhuanlan.zhihu.com/p/586168733)
+
+【Docx/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
 
 【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
 
