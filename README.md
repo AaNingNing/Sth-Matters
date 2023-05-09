@@ -433,6 +433,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
+【想法 & 评论区】[Rectangle - 想法过滤](https://www.zhihu.com/collection/855914677)
+
 【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
 
 【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)

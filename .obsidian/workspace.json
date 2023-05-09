@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/孤立.md",
+                "file": "【本周更新】/反着战.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca04886afe644cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/关于“我们”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b300b8ec276caa7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/贫民窟.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +56,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 27.983539094650205,
+        "dimension": 56.104252400548695,
         "children": [
           {
             "id": "7569597966c86526",
@@ -39,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-家族/1F-亲子/1-身为子女",
+                "query": "file: 底层",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +94,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 72.0164609053498,
+        "dimension": 43.895747599451305,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/孤立.md",
+                "file": "【本周更新】/贫民窟.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,34 +164,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4de225c3d6d9fa6",
+  "active": "b300b8ec276caa7f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "【本周更新】/贫民窟.md",
+    "【本周更新】/神奇的健忘.md",
+    "【本周更新】/关于“我们”.md",
+    "【本周更新】/振金弹.md",
+    "【本周更新】/反着战.md",
+    "【本周更新】/图160.md",
+    "README.md",
+    "【本周更新】/钱不够.md",
+    "【本周更新】/从同情到厌恶.md",
+    "【本周更新】/本来无一物.md",
+    "中图法分类/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/198-2. 选择与规划/底层.md",
+    "【本周更新】/肉身菩萨.md",
+    "【本周更新】/性骚扰共识.md",
+    "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/孤立.md",
     "【本周更新】/兄姐之道.md",
     "沙海拾金/泛讨论/泛讨论_保持订阅.md",
     "沙海拾金/泛讨论/泛讨论_\"不比蒋小\".md",
-    "【本周更新】/从同情到厌恶.md",
     "【本周更新】/修和之礼.md",
-    "【本周更新】/反着战.md",
-    "【本周更新】/图160.md",
     "【本周更新】/居合.md",
-    "【本周更新】/性骚扰共识.md",
-    "【本周更新】/振金弹.md",
     "【本周更新】/教育失败.md",
     "【本周更新】/普里戈金.md",
-    "【本周更新】/本来无一物.md",
     "【本周更新】/民族团结.md",
     "【本周更新】/淘金客.md",
     "【本周更新】/生死符.md",
-    "【本周更新】/神奇的健忘.md",
-    "【本周更新】/肉身菩萨.md",
-    "【本周更新】/钱不够.md",
     "沙海拾金/相关讨论/评论区_The Game of Mole.md",
-    "【本周更新】/2023-05-04其实也不用那么紧张，你不小心说了冒犯的….md",
-    "中图法分类/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/198-1. 态度与伦理/The Game of Mole.md",
-    "【本周更新】/泰坦尼克.md",
-    "Anonymity/04 - 社科答集/炸弹人.md",
-    "5-1/修订/2023-05-03为什么有人喜欢说别人“团建”？.md",
-    "【本周更新】/2023-05-04史航再度回应「不存在性骚扰，和几位当事人都交往过」，如何界定性骚扰？怎样从法律角度解读？.md",
     "5-1/新增",
     "5-1/修订",
     "5-1",
