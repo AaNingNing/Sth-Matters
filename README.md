@@ -356,6 +356,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 
 【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
 
+【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
+
 【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
 
 【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
@@ -400,6 +402,8 @@ Tags确定后，会随着每周笔记更新陆续添加。
 【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
 
 【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
+
+【摘抄】[世外逃员 - 高频文章 - 名词科普·常识拓展](https://zhuanlan.zhihu.com/p/626408626)
 
 【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
 
