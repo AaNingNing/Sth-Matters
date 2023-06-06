@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anonymity/01 - 家族答集/爱的产生.md",
+                "file": "中图法分类/【10 - 专题类】/俄乌战争/重点人群.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "中图法分类/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/飞机/C919 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dff5f4be7464f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anonymity/01 - 家族答集/天与.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 28.799999999999997,
+        "dimension": 22.857142857142854,
         "children": [
           {
             "id": "7569597966c86526",
@@ -51,21 +63,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-家族/1B-处世/1-内务",
+                "query": "file：",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "be93b815a191d52f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -81,7 +85,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 71.2,
+        "dimension": 77.14285714285714,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/01 - 家族答集/爱的产生.md",
+                "file": "中图法分类/【10 - 专题类】/俄乌战争/重点人群.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +155,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "6283f3bb183fef62",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "中图法分类/【10 - 专题类】/俄乌战争/重点人群.md",
+    "Anonymity/01 - 家族答集/iPad.md",
+    "5.22/新增",
+    "5.22",
+    "Anonymity/01 - 家族答集/广州.md",
+    "Anonymity/01 - 家族答集/C919首航.md",
+    "Anonymity/01 - 家族答集/管得着.md",
+    "中图法分类/【1 - 哲学类】/160 - 形而上学/165 - 价值论/世界观/世界史.md",
+    "中图法分类/【5 - 社会科学】/540 - 社会学/540 - 社会学总论/自然法.md",
+    "Anonymity/01 - 家族答集/爱的产生.md",
+    "Anonymity/01 - 家族答集/尘心说.md",
+    "Anonymity/01 - 家族答集/天与.md",
+    "Anonymity/01 - 家族答集/一怒千金.md",
+    "Anonymity/01 - 家族答集/害怕独处.md",
+    "Anonymity/01 - 家族答集/修礼.md",
+    "中图法分类/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/学习的快乐.md",
+    "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论投资/祷告观.md",
+    "中图法分类/【2 - 信仰类】/神学答集/爱.md",
     "Anonymity/01 - 家族答集/感动三分钟.md",
     "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论安全/自我保护/隐私隔离/挖掘隐私 2.md",
     "Anonymity/01 - 家族答集/平庸.md",
@@ -162,25 +185,6 @@
     "中图法分类/【10 - 专题类】/杂论/医嘱.md",
     "中图法分类/【10 - 专题类】/杂论/爱心饭.md",
     "中图法分类/【10 - 专题类】/杂论/为国捐躯pro.md",
-    "中图法分类/【10 - 专题类】/杂论/文心一言 1.md",
-    "中图法分类/【10 - 专题类】/杂论/五一.md",
-    "中图法分类/【10 - 专题类】/杂论/高智商.md",
-    "中图法分类/【10 - 专题类】/杂论/瘾君六艺.md",
-    "中图法分类/【10 - 专题类】/杂论/网中人.md",
-    "Anonymity/01 - 家族答集/批评与赞美.md",
-    "Anonymity/01 - 家族答集/宽恕秘诀.md",
-    "Anonymity/01 - 家族答集/好人难做.md",
-    "中图法分类/【2 - 信仰类】/神学答集/因惧而行.md",
-    "中图法分类/【5 - 社会科学】/570 - 政治/570 - 政治学总论/家庭政治.md",
-    "中图法分类/【5 - 社会科学】/570 - 政治/571 - 政治学各论/政治的科学.md",
-    "中图法分类/【5 - 社会科学】/570 - 政治/570 - 政治学总论/政治.md",
-    "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/交友之道/好友杀人.md",
-    "中图法分类/【1 - 哲学类】/160 - 形而上学/165 - 价值论/世界观/因果报应.md",
-    "Anonymity/01 - 家族答集/吃老虎的猪.md",
-    "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/表达意愿/四步一没有.md",
-    "中图法分类/【2 - 信仰类】/神学答集/同情的资格.md",
-    "5.22",
-    "5.22/新增",
     "5.22/修订",
     "中图法分类/【9 - 艺术类】/970 - 技艺/匠心",
     "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/交往之道/交友",
