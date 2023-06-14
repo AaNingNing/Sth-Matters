@@ -1,4 +1,4 @@
-# 监守自盗II
+# 监守自盗ii
 [年轻女老师教学生反抗「举报制度」失败后离职，如何看待此事？可能反映出哪些教育问题？](https://www.zhihu.com/question/600325056/answer/3034377298)
 
 > Author: #0-Anonymity

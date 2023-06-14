@@ -1,4 +1,4 @@
-# autoGPT
+# autogpt
 [AutoGPT 是什么？它有哪些应用场景？](https://www.zhihu.com/question/595359852/answer/2987136199)
 
 > Author: #0-Anonymity
