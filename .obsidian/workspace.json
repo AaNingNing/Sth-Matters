@@ -11,8 +11,12 @@
             "id": "61c9ec957628dfe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 22.857142857142858,
+        "dimension": 22.857142857142854,
         "children": [
           {
             "id": "7569597966c86526",
@@ -57,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 77.14285714285715,
+        "dimension": 77.14285714285714,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

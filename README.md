@@ -285,6 +285,10 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【值得一读】[一条阅读轨迹](https://www.zhihu.com/collection/163594245)
 
 ---
+#### 素问服务相关
+[素问 - 代问服务](https://zhuanlan.zhihu.com/p/637257507)
+
+---
 
 ### 优秀学习资源
 
@@ -315,11 +319,15 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 【网站】 [张慕晖 - Note Reader](https://link.zhihu.com/?target=https%3A//jh-reader.github.io/)
 
+【公众号】[鱼丸粗面 - 欢迎大家关注公众号【Karitas】](https://zhuanlan.zhihu.com/p/607481192)
+
 【分类】[茶芒 - 文章备份工作打卡贴](https://zhuanlan.zhihu.com/p/563624303)
 
 【分类】[茶芒 - 中文图书分类法](https://zhuanlan.zhihu.com/p/625684969)
 
 【目录】[鱼丸粗面 - 回答目录整理](https://zhuanlan.zhihu.com/p/616482557)
+
+【目录】[林思 - 回答链接汇总](https://www.zhihu.com/pin/1622022306473066497)
 
 【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
@@ -382,7 +390,6 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
 
 【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
-
 
 To be continued.
 
