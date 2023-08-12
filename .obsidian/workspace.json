@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f84f3a65269c5a8a",
+        "id": "5abd4c3674f45241",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8f93f93328b2e1",
+            "id": "8fc142d3643dbebe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【9 - 艺术类】/920 - 建筑艺术/handyman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a8f524bdb046b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【5 - 社会科学】/570 - 政治/570 - 政治学总论/super power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24c8ea20eeab0f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/俗.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42f23b56d0942fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/滑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62e130090b882bc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/195 - 社会伦理/社会伦理/阴极生阳.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +27,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 30.97142857142857,
+        "dimension": 37.714285714285715,
         "children": [
           {
             "id": "7569597966c86526",
@@ -88,7 +35,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "为什么有人对戴头盔那么抵触?",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -110,7 +57,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 69.02857142857142,
+        "dimension": 62.28571428571429,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -126,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 360.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -142,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/滑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,34 +126,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "42f23b56d0942fc9",
+  "active": "8fc142d3643dbebe",
   "lastOpenFiles": [
-    "【本周更新】/头盔锁.md",
-    "【本周更新】/滑.md",
-    "【本周更新】/先独立，再自由.md",
-    "【本周更新】/不必急.md",
-    "【本周更新】/发奋读书.md",
-    "【本周更新】/0day风险.md",
-    "【本周更新】/西瓜皮.md",
-    "【本周更新】/德国制造业.md",
-    "【本周更新】/必要工作.md",
-    "【本周更新】/室温超导.md",
-    "【本周更新】/大国的方法.md",
-    "【本周更新】/退票.md",
-    "【本周更新】/一次性.md",
-    "【本周更新】/罗刹海市.md",
-    "【本周更新】/俗.md",
-    "【本周更新】/分明的灰.md",
-    "【本周更新】/小灵通.md",
+    "【本周更新】/科技翡翠.md",
+    "【本周更新】/韩军文化.md",
+    "【本周更新】/装之罪.md",
     "【本周更新】/无人真心.md",
-    "【本周更新】/宗教和教会组织.md",
-    "【本周更新】/无脸硬汉.md",
-    "【本周更新】/下一阶段.md",
-    "【本周更新】/工程师路线 4.md",
-    "【本周更新】/帮忙.md",
-    "【本周更新】/密码安全.md",
-    "【本周更新】/事不可为.md",
     "【本周更新】/鲁迅复活.md",
+    "【本周更新】/豹二.md",
+    "【本周更新】/平原县地震.md",
+    "【本周更新】/否认历史.md",
+    "【本周更新】/不收钱.md",
+    "【本周更新】/德国模式.md",
+    "【本周更新】/好生不仁.md",
+    "【本周更新】/劳资蜀道山.md",
+    "【本周更新】/与民同乐.md",
+    "【本周更新】/不优秀的价值.md",
+    "【本周更新】/无动力.md",
+    "【本周更新】/爱因斯坦之子.md",
+    "【本周更新】/反间.md",
+    "【本周更新】/发脾气权.md",
+    "【本周更新】/幼稚的成年人.md",
+    "【本周更新】/金鸡独立的程咬金.md",
+    "【本周更新】/头盔锁.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论投资/批评.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论投资/批评与赞美.md",
+    "【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学/先独立，再自由.md",
+    "【文章目录】/【1 - 哲学类】/100 - 哲学总论/低级诡辩.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/人生观/不必急.md",
     "7.24/新增",
     "7.24/修订",
     "7.24",
