@@ -4,6 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-03-11]
 > Link:
+> Category: #百年未有之变局
 > Tag: #合集/合集2-一些推荐
 > 评论区:
 > 泛讨论:

@@ -4,6 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-05-01]
 > Link:
+> Category: #社科答集
 > Tag: #2-事业/2D-企管/1-管理者素质 #2-事业/2E-创业
 > 评论区:
 > 泛讨论:

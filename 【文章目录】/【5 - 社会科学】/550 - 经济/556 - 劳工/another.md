@@ -4,6 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-02-12]
 > Link:
+> Category: #社科答集
 > Tag: #4-世界史/4A-社科/自然法
 > 评论区:
 > 泛讨论:
