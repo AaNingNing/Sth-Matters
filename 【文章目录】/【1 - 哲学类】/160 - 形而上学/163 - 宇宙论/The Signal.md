@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-06-15]
 > Link: [[看见外星人]] [[自然法]] [[宇宙战争]] [[UFO]]
-> Category: #文艺答集
+> Category: #【答集】/文艺答集
 > Tag: #4-世界史/4E-科学技术/2-科技
 > 评论区:
 > 泛讨论:

@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2020-12-15]
 > Link: [[高管写代码]] [[码农的屏幕]]
-> Category: #科学答集
+> Category: #【答集】/科学答集
 > Tag: #4-世界史/4E-科学技术/2-科技
 > 评论区:
 > 泛讨论:

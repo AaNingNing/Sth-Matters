@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-12-08]
 > Link: [[奢侈品]] [[人才流失]] [[招工人]]
-> Category: #未来科技
+> Category: #【答集】/未来科技
 > Tag: #4-世界史/4E-科学技术/2-科技
 > 评论区:
 > 泛讨论:
