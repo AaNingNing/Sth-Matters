@@ -4,6 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-04-18]
 > Link:
+> Category: #社科答集
 > Tag: #合集/合集3-Covid新冠 #2-事业/2D-企管/2-经营案例
 > 评论区:
 > 泛讨论:

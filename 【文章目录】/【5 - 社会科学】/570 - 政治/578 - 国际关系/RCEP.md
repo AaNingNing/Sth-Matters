@@ -4,6 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2021-05-25]
 > Link: [[大国博弈]]
+> Category: #社科答集
 > Tag: #4-世界史/4B-政治
 > 评论区:
 > 泛讨论:
