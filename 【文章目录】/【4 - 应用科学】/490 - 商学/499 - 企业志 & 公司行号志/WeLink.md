@@ -4,6 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [发布于 2020-03-06]
 > Link: [[华为 - 战略]]
+> Category: #【答集】/社科答集
 > Tag: #2-事业/2D-企管/2-经营案例
 > 评论区:
 > 泛讨论:

@@ -4,7 +4,8 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-04-12]
 > Link: [[泽连斯基 1]] [[木偶人]]
-> Tag: #其它/杂论
+> Category: #“就你机灵”系列
+> Tag: #6-其它/杂论
 > 评论区:
 > 泛讨论:
 
