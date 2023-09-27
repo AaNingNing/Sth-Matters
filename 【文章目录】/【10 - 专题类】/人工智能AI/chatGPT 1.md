@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-12-07]
 > Link: [[逼你幸福]]
-> Category: #【答集】/未来科技
+> Category: #【答集】/06-未来科技
 > Tag: #4-世界史/4E-科学技术/2-科技 #5-专题合集/合集5-人与智能 
 > 评论区: [[评论区_chatGPT 1]]
 > 泛讨论:

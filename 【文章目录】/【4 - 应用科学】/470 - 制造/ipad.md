@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [发布于 2021-02-21]
 > Link:
-> Category: #【答集】/社科答集
+> Category: #【答集】/04-社科答集
 > Tag: #5-专题合集/合集2-一些推荐
 > 评论区:
 > 泛讨论:

@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-05-28]
 > Link: 
-> Category: #【答集】/社科答集
+> Category: #【答集】/04-社科答集
 > Tag:  #1-家族/1B-处世/1-内务 #5-专题合集/合集2-一些推荐 
 > 评论区:
 > 泛讨论:

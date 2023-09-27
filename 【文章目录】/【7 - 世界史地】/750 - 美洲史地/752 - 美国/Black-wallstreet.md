@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2021-05-17]
 > Link: [[美国方式]] [[塔利班]]
-> Category: #【答集】/社科答集
+> Category: #【答集】/04-社科答集
 > Tag: #4-世界史/4D-历史
 > 评论区:
 > 泛讨论:
