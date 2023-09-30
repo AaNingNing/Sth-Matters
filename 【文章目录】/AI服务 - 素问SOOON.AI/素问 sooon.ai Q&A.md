@@ -105,4 +105,4 @@ sooon.ai是一项基于我的内容的、具有高可溯源性的人工智能服
 [爱发电 · 连接创作者与粉丝的会员制平台](https://link.zhihu.com/?target=https%3A//afdian.net/item/de9e3c80cdc211edb6a352540025c377)
 
 （未完，待续）
-#6-其它/未完待续TBC 
+#6-其它/未完待续TBC
