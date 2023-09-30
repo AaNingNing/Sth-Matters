@@ -2,18 +2,8 @@
   "items": [
     {
       "type": "file",
-      "title": "财富观",
-      "path": "Anonymity/01 - 家族答集/财富观.md"
-    },
-    {
-      "type": "file",
-      "title": "悲观与乐观",
-      "path": "Anonymity/01 - 家族答集/悲观与乐观.md"
-    },
-    {
-      "type": "file",
       "title": "批评",
-      "path": "Anonymity/01 - 家族答集/批评.md"
+      "path": "Anonymity/04 - 社科答集/批评.md"
     },
     {
       "type": "file",
@@ -27,18 +17,8 @@
     },
     {
       "type": "file",
-      "title": "致读者",
-      "path": "Anonymity/00 - 致读者/致读者 - 置顶文章.md"
-    },
-    {
-      "type": "file",
       "title": "恋爱原理",
       "path": "Anonymity/03 - 第一性/恋爱原理.md"
-    },
-    {
-      "type": "file",
-      "title": "爱",
-      "path": "Anonymity/09 - 神学答集/爱.md"
     },
     {
       "type": "file",
@@ -107,11 +87,6 @@
     },
     {
       "type": "file",
-      "title": "求学",
-      "path": "Anonymity/01 - 家族答集/求学.md"
-    },
-    {
-      "type": "file",
       "title": "买鱼",
       "path": "Anonymity/01 - 家族答集/买鱼.md"
     },
@@ -122,48 +97,13 @@
     },
     {
       "type": "file",
-      "title": "不予考虑",
-      "path": "Anonymity/03 - 第一性/紧追不放.md"
-    },
-    {
-      "type": "file",
       "title": "爱的好处",
       "path": "Anonymity/03 - 第一性/爱的好处.md"
     },
     {
       "type": "file",
-      "title": "世故青年",
-      "path": "Anonymity/01 - 家族答集/世故青年.md"
-    },
-    {
-      "type": "file",
       "title": "前途的选择",
       "path": "Anonymity/01 - 家族答集/前途.md"
-    },
-    {
-      "type": "file",
-      "title": "人的原罪",
-      "path": "Anonymity/09 - 神学答集/Sin.md"
-    },
-    {
-      "type": "file",
-      "title": "上帝的存在",
-      "path": "Anonymity/09 - 神学答集/斑点狗.md"
-    },
-    {
-      "type": "file",
-      "title": "约伯",
-      "path": "Anonymity/09 - 神学答集/约伯.md"
-    },
-    {
-      "type": "file",
-      "title": "学习的快乐",
-      "path": "Anonymity/01 - 家族答集/学习的快乐.md"
-    },
-    {
-      "type": "file",
-      "title": "家族",
-      "path": "Anonymity/01 - 家族答集/家族.md"
     },
     {
       "type": "file",
@@ -192,31 +132,6 @@
     },
     {
       "type": "file",
-      "title": "扼杀个性",
-      "path": "Anonymity/04 - 社科答集/校服.md"
-    },
-    {
-      "type": "file",
-      "title": "价值观",
-      "path": "Anonymity/01 - 家族答集/价值框架.md"
-    },
-    {
-      "type": "file",
-      "title": "好书",
-      "path": "Anonymity/08 - 文艺答集/好书.md"
-    },
-    {
-      "type": "file",
-      "title": "做计划",
-      "path": "Anonymity/01 - 家族答集/做计划.md"
-    },
-    {
-      "type": "file",
-      "title": "正义",
-      "path": "Anonymity/01 - 家族答集/正义.md"
-    },
-    {
-      "type": "file",
       "title": "爹味",
       "path": "Anonymity/01 - 家族答集/爹味.md"
     },
@@ -232,23 +147,8 @@
     },
     {
       "type": "file",
-      "title": "致全体女性",
-      "path": "Anonymity/00 - 致读者/致全体女性.md"
-    },
-    {
-      "type": "file",
       "title": "情绪失控的孩子",
       "path": "Anonymity/01 - 家族答集/情绪失控的孩子.md"
-    },
-    {
-      "type": "file",
-      "title": "烦躁",
-      "path": "Anonymity/01 - 家族答集/烦躁.md"
-    },
-    {
-      "type": "file",
-      "title": "所谓民族",
-      "path": "Anonymity/08 - 文艺答集/所谓民族.md"
     },
     {
       "type": "file",
@@ -262,33 +162,13 @@
     },
     {
       "type": "file",
-      "title": "Untitled 4",
-      "path": "Anonymity/02 - 企管答集/有困难就说.md"
-    },
-    {
-      "type": "file",
       "title": "纠缠不休",
       "path": "Anonymity/01 - 家族答集/纠缠不休.md"
     },
     {
       "type": "file",
-      "title": "爱无筹码",
-      "path": "Anonymity/03 - 第一性/爱无筹码.md"
-    },
-    {
-      "type": "file",
-      "title": "烦躁",
-      "path": "Anonymity/01 - 家族答集/烦躁.md"
-    },
-    {
-      "type": "file",
-      "title": "学好语文",
-      "path": "Anonymity/01 - 家族答集/学好语文.md"
-    },
-    {
-      "type": "file",
       "title": "祷告观",
-      "path": "Anonymity/09 - 神学答集/祷告观.md"
+      "path": "Anonymity/神学答集/祷告观.md"
     },
     {
       "type": "file",
@@ -297,28 +177,8 @@
     },
     {
       "type": "file",
-      "title": "以爱应恨",
-      "path": "Anonymity/01 - 家族答集/以爱应恨.md"
-    },
-    {
-      "type": "file",
-      "title": "隐私",
-      "path": "Anonymity/01 - 家族答集/隐私.md"
-    },
-    {
-      "type": "file",
-      "title": "求原谅",
-      "path": "Anonymity/01 - 家族答集/求之不得.md"
-    },
-    {
-      "type": "file",
       "title": "正确的爱",
       "path": "沙海拾金/泛讨论/爱.md"
-    },
-    {
-      "type": "file",
-      "title": "世界史",
-      "path": "Anonymity/01 - 家族答集/世界史.md"
     },
     {
       "type": "file",
@@ -332,33 +192,13 @@
     },
     {
       "type": "file",
-      "title": "三合一",
-      "path": "Anonymity/08 - 文艺答集/三合一.md"
-    },
-    {
-      "type": "file",
-      "title": "埃及文明",
-      "path": "Anonymity/08 - 文艺答集/埃及文明.md"
-    },
-    {
-      "type": "file",
       "title": "科学界定",
       "path": "延伸阅读/其它作者/科学界定.md"
     },
     {
       "type": "file",
-      "title": "坚守理想",
-      "path": "Anonymity/01 - 家族答集/理想.md"
-    },
-    {
-      "type": "file",
       "title": "唯物论",
       "path": "沙海拾金/泛讨论/唯物论.jpg"
-    },
-    {
-      "type": "file",
-      "title": "资本家2",
-      "path": "Anonymity/04 - 社科答集/资本家 1.md"
     },
     {
       "type": "file",
@@ -372,28 +212,8 @@
     },
     {
       "type": "file",
-      "title": "中国策略",
-      "path": "Anonymity/04 - 社科答集/咄咄逼人.md"
-    },
-    {
-      "type": "file",
-      "title": "对人类失望",
-      "path": "Anonymity/01 - 家族答集/对人类失望.md"
-    },
-    {
-      "type": "file",
       "title": "运气",
       "path": "Anonymity/01 - 家族答集/运气.md"
-    },
-    {
-      "type": "file",
-      "title": "幽默与性感",
-      "path": "Anonymity/03 - 第一性/幽默与性感.md"
-    },
-    {
-      "type": "file",
-      "title": "心不自由",
-      "path": "Anonymity/09 - 神学答集/心不自由.md"
     },
     {
       "type": "file",
@@ -407,33 +227,8 @@
     },
     {
       "type": "file",
-      "title": "德不配位",
-      "path": "Anonymity/01 - 家族答集/德不配位.md"
-    },
-    {
-      "type": "file",
       "title": "重组家庭的难题",
       "path": "Anonymity/01 - 家族答集/重组家庭的难题.md"
-    },
-    {
-      "type": "file",
-      "title": "人设指南",
-      "path": "Anonymity/01 - 家族答集/人设指南.md"
-    },
-    {
-      "type": "file",
-      "title": "知识的责任",
-      "path": "Anonymity/04 - 社科答集/知识的责任.md"
-    },
-    {
-      "type": "file",
-      "title": "身价",
-      "path": "Anonymity/03 - 第一性/身价.md"
-    },
-    {
-      "type": "file",
-      "title": "学会",
-      "path": "Anonymity/01 - 家族答集/学会.md"
     },
     {
       "type": "file",
@@ -442,43 +237,13 @@
     },
     {
       "type": "file",
-      "title": "有修养",
-      "path": "Anonymity/01 - 家族答集/有修养.md"
-    },
-    {
-      "type": "file",
       "title": "大格局",
       "path": "Anonymity/01 - 家族答集/大格局.md"
     },
     {
       "type": "file",
-      "title": "自强",
-      "path": "Anonymity/01 - 家族答集/自强.md"
-    },
-    {
-      "type": "file",
       "title": "教养",
       "path": "Anonymity/01 - 家族答集/教养.md"
-    },
-    {
-      "type": "file",
-      "title": "提升格局",
-      "path": "Anonymity/01 - 家族答集/提升格局.md"
-    },
-    {
-      "type": "file",
-      "title": "忍耐",
-      "path": "Anonymity/01 - 家族答集/忍耐.md"
-    },
-    {
-      "type": "file",
-      "title": "法律",
-      "path": "Anonymity/04 - 社科答集/本质.md"
-    },
-    {
-      "type": "file",
-      "title": "瞧不起努力",
-      "path": "Anonymity/01 - 家族答集/瞧不起努力.md"
     },
     {
       "type": "file",
@@ -488,17 +253,12 @@
     {
       "type": "file",
       "title": "当然反驳权",
-      "path": "Anonymity/01 - 家族答集/当然反驳权.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/当然反驳权.md"
     },
     {
       "type": "file",
       "title": "自由意志",
-      "path": "Anonymity/01 - 家族答集/自由意志.md"
-    },
-    {
-      "type": "file",
-      "title": "圣经 - 神的样子",
-      "path": "Anonymity/09 - 神学答集/神的样子.md"
+      "path": "中图法分类/【3 - 自然科学】/390 - 人类学/自由意志.md"
     },
     {
       "type": "file",
@@ -523,7 +283,7 @@
     {
       "type": "file",
       "title": "大男子主义",
-      "path": "Anonymity/03 - 第一性/大男子主义.md"
+      "path": "中图法分类/【5 - 社会科学】/540 - 社会学/541 - 社会学个论/平权主义/大男子主义.md"
     },
     {
       "type": "file",
@@ -559,11 +319,6 @@
       "type": "file",
       "title": "本笃的勇敢（The Two Popes）",
       "path": "Nell Nell/其它/本笃的勇敢（The Two Popes）.md"
-    },
-    {
-      "type": "file",
-      "title": "天使",
-      "path": "Anonymity/09 - 神学答集/天使.md"
     },
     {
       "type": "file",
@@ -617,23 +372,13 @@
     },
     {
       "type": "file",
-      "title": "圣经 - 看懂",
-      "path": "Anonymity/09 - 神学答集/看懂圣经.md"
-    },
-    {
-      "type": "file",
       "title": "赦罪伦理学",
-      "path": "Anonymity/09 - 神学答集/赦罪伦理学.md"
+      "path": "中图法分类/【2 - 信仰类】/神学答集/赦罪伦理学.md"
     },
     {
       "type": "file",
       "title": "学习哲学 - 之一",
-      "path": "Anonymity/04 - 社科答集/全科学习.md"
-    },
-    {
-      "type": "file",
-      "title": "学习哲学 - 之二",
-      "path": "Anonymity/01 - 家族答集/学哲学 2.md"
+      "path": "中图法分类/【1 - 哲学类】/100 - 哲学总论/100 - 哲学总论/论哲学/全科学习.md"
     },
     {
       "type": "file",
@@ -652,38 +397,8 @@
     },
     {
       "type": "file",
-      "title": "保持快乐",
-      "path": "Anonymity/01 - 家族答集/保持快乐.md"
-    },
-    {
-      "type": "file",
-      "title": "FURY",
-      "path": "Anonymity/01 - 家族答集/FURY.md"
-    },
-    {
-      "type": "file",
       "title": "精英",
       "path": "Anonymity/01 - 家族答集/精英.md"
-    },
-    {
-      "type": "file",
-      "title": "绅士风度",
-      "path": "Anonymity/01 - 家族答集/绅士风度.md"
-    },
-    {
-      "type": "file",
-      "title": "温柔",
-      "path": "Anonymity/01 - 家族答集/温柔.md"
-    },
-    {
-      "type": "file",
-      "title": "王天下",
-      "path": "Anonymity/04 - 社科答集/王天下.md"
-    },
-    {
-      "type": "file",
-      "title": "掐脖子的水电站",
-      "path": "Anonymity/04 - 社科答集/掐脖子的水电站.md"
     },
     {
       "type": "file",
@@ -697,23 +412,13 @@
     },
     {
       "type": "file",
-      "title": "艺哲废人",
-      "path": "Anonymity/08 - 文艺答集/艺术废人.md"
-    },
-    {
-      "type": "file",
-      "title": "雅俗共赏",
-      "path": "Anonymity/08 - 文艺答集/雅俗共赏.md"
-    },
-    {
-      "type": "file",
       "title": "中国宗教的问题",
-      "path": "Anonymity/09 - 神学答集/中国宗教的问题.md"
+      "path": "中图法分类/【2 - 信仰类】/神学答集/中国宗教的问题.md"
     },
     {
       "type": "file",
       "title": "不敢爱",
-      "path": "Anonymity/03 - 第一性/爱怕了.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-2.亲密关系/论恋爱/原理/爱怕了.md"
     },
     {
       "type": "file",
@@ -843,7 +548,7 @@
     {
       "type": "file",
       "title": "自学捷径",
-      "path": "Anonymity/01 - 家族答集/自学捷径.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/自学捷径.md"
     },
     {
       "type": "file",
@@ -873,17 +578,17 @@
     {
       "type": "file",
       "title": "进化心理学",
-      "path": "Anonymity/03 - 第一性/进化心理学.md"
+      "path": "中图法分类/【1 - 哲学类】/170 - 心理学/170 - 心理学总论/进化心理学.md"
     },
     {
       "type": "file",
       "title": "在意讨厌",
-      "path": "Anonymity/03 - 第一性/在意讨厌.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理 & 修身/修身/在意讨厌.md"
     },
     {
       "type": "file",
       "title": "智能终端",
-      "path": "Anonymity/03 - 第一性/智能终端.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/文责意识/智能终端.md"
     },
     {
       "type": "file",
@@ -903,7 +608,7 @@
     {
       "type": "file",
       "title": "安慰",
-      "path": "Anonymity/01 - 家族答集/安慰.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论安全/救助他人/安慰.md"
     },
     {
       "type": "file",
@@ -918,7 +623,7 @@
     {
       "type": "file",
       "title": "包装",
-      "path": "Anonymity/08 - 文艺答集/包装.md"
+      "path": "中图法分类/【4 - 应用科学】/490 - 商学/496 - 商品学 & 市场学 & 行销管理/包装.md"
     },
     {
       "type": "file",
@@ -938,7 +643,7 @@
     {
       "type": "file",
       "title": "最终困难",
-      "path": "Anonymity/03 - 第一性/最终困难.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/197 - 生命伦理学/养老问题/最终困难.md"
     },
     {
       "type": "file",
@@ -993,12 +698,12 @@
     {
       "type": "file",
       "title": "先轻信后多疑",
-      "path": "Anonymity/03 - 第一性/先轻信后多疑.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-2.亲密关系/论恋爱/原则/先轻信后多疑.md"
     },
     {
       "type": "file",
       "title": "从心所欲不逾矩",
-      "path": "Anonymity/01 - 家族答集/从心所欲不逾矩.md"
+      "path": "中图法分类/【4 - 应用科学】/420 - 家政/427 - 饮食 & 烹饪/从心所欲不逾矩.md"
     },
     {
       "type": "file",
@@ -1008,7 +713,7 @@
     {
       "type": "file",
       "title": "侠",
-      "path": "Anonymity/01 - 家族答集/侠.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论安全/救助他人/侠.md"
     },
     {
       "type": "file",
@@ -1053,12 +758,12 @@
     {
       "type": "file",
       "title": "木秀于林",
-      "path": "Anonymity/01 - 家族答集/木秀于林.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理 & 修身/自强/木秀于林.md"
     },
     {
       "type": "file",
       "title": "热烈",
-      "path": "Anonymity/03 - 第一性/热烈和长久.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-2.亲密关系/论恋爱/原则/热烈和长久.md"
     },
     {
       "type": "file",
@@ -1073,7 +778,7 @@
     {
       "type": "file",
       "title": "败事有余",
-      "path": "Anonymity/02 - 企管答集/败事有余.md"
+      "path": "中图法分类/【4 - 应用科学】/490 - 商学/494 - 企业管理/败事有余.md"
     },
     {
       "type": "file",
@@ -1088,7 +793,7 @@
     {
       "type": "file",
       "title": "性感男人",
-      "path": "Anonymity/03 - 第一性/性感.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-1.性伦理/性感/性感.md"
     },
     {
       "type": "file",
@@ -1113,7 +818,7 @@
     {
       "type": "file",
       "title": "如何看待网红 lu 一丝曝光前夫葛成孕期出轨，大街上抢走女儿威胁勒索？",
-      "path": "Anonymity/03 - 第一性/抢孩子.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-2.亲密关系/论分手/抢孩子.md"
     },
     {
       "type": "file",
@@ -1123,7 +828,7 @@
     {
       "type": "file",
       "title": "天堂与地狱",
-      "path": "Anonymity/09 - 神学答集/天堂与地狱.md"
+      "path": "中图法分类/【2 - 信仰类】/神学答集/天堂与地狱.md"
     },
     {
       "type": "file",
@@ -1143,22 +848,22 @@
     {
       "type": "file",
       "title": "读书与行路",
-      "path": "Anonymity/01 - 家族答集/读书与行路.md"
+      "path": "中图法分类/【0 - 总类】/019 - 读书法/读书与行路.md"
     },
     {
       "type": "file",
       "title": "反浪辩",
-      "path": "Anonymity/01 - 家族答集/反浪辩.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/反浪辩.md"
     },
     {
       "type": "file",
       "title": "自证清白",
-      "path": "Anonymity/01 - 家族答集/自证清白.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/自证清白.md"
     },
     {
       "type": "file",
       "title": "反压力",
-      "path": "Anonymity/01 - 家族答集/反压力.md"
+      "path": "中图法分类/【1 - 哲学类】/170 - 心理学/173 - 一般心理/解压/反压力.md"
     },
     {
       "type": "file",
@@ -1168,12 +873,12 @@
     {
       "type": "file",
       "title": "大道理",
-      "path": "Anonymity/01 - 家族答集/大道理.md"
+      "path": "中图法分类/【1 - 哲学类】/120 - 中国哲学/大道理.md"
     },
     {
       "type": "file",
       "title": "荒谬的偏激",
-      "path": "Anonymity/01 - 家族答集/荒谬的偏激.md"
+      "path": "Anonymity/08 - 文艺答集/荒谬的偏激.md"
     },
     {
       "type": "file",
@@ -1193,7 +898,7 @@
     {
       "type": "file",
       "title": "主动的被动",
-      "path": "Anonymity/01 - 家族答集/主动的被动.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-2.亲密关系/论恋爱/原理/主动的被动.md"
     },
     {
       "type": "file",
@@ -1227,28 +932,23 @@
     },
     {
       "type": "file",
-      "title": "圣经 - Bible",
-      "path": "Anonymity/09 - 神学答集/圣经Bible.md"
-    },
-    {
-      "type": "file",
       "title": "说服力的重量",
       "path": "Anonymity/01 - 家族答集/说服力的重量.md"
     },
     {
       "type": "file",
       "title": "诚实",
-      "path": "Anonymity/01 - 家族答集/诚实.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/文责意识/诚实.md"
     },
     {
       "type": "file",
       "title": "人间失格",
-      "path": "Anonymity/09 - 神学答集/人间失格.md"
+      "path": "中图法分类/【2 - 信仰类】/神学答集/人间失格.md"
     },
     {
       "type": "file",
       "title": "说实话",
-      "path": "Anonymity/01 - 家族答集/说实话.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/文责意识/说实话.md"
     },
     {
       "type": "file",
@@ -1283,17 +983,12 @@
     {
       "type": "file",
       "title": "大成就者",
-      "path": "Anonymity/01 - 家族答集/大成就者.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论天赋/大成就者.md"
     },
     {
       "type": "file",
       "title": "后悔的真相",
       "path": "Anonymity/03 - 第一性/后悔的真相.md"
-    },
-    {
-      "type": "file",
-      "title": "警方通报「25 岁摄影师鹿道森遗体被打捞上岸，已不幸离世」，具体情况如何？",
-      "path": "Anonymity/01 - 家族答集/TOUGHNESS.md"
     },
     {
       "type": "file",
@@ -1313,7 +1008,7 @@
     {
       "type": "file",
       "title": "底线",
-      "path": "Anonymity/01 - 家族答集/底线.md"
+      "path": "中图法分类/【1 - 哲学类】/170 - 心理学/173 - 一般心理/欲望/底线.md"
     },
     {
       "type": "file",
@@ -1338,7 +1033,7 @@
     {
       "type": "file",
       "title": "“哲学家”",
-      "path": "Anonymity/08 - 文艺答集/哲学家.md"
+      "path": "中图法分类/【1 - 哲学类】/120 - 中国哲学/哲学家.md"
     },
     {
       "type": "file",
@@ -1358,7 +1053,7 @@
     {
       "type": "file",
       "title": "两难",
-      "path": "Anonymity/13 - 百年未有之变局/两难.md"
+      "path": "中图法分类/【10 - 专题类】/俄乌战争/两难.md"
     },
     {
       "type": "file",
@@ -1373,12 +1068,12 @@
     {
       "type": "file",
       "title": "女生不讲理",
-      "path": "Anonymity/03 - 第一性/女生不讲理.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/194-2.亲密关系/论恋爱/原理/女生不讲理.md"
     },
     {
       "type": "file",
       "title": "藏书",
-      "path": "Anonymity/01 - 家族答集/藏书.md"
+      "path": "中图法分类/【0 - 总类】/029 - 私家藏书/藏书.md"
     },
     {
       "type": "file",
@@ -1388,7 +1083,7 @@
     {
       "type": "file",
       "title": "专职主内",
-      "path": "Anonymity/03 - 第一性/专职主内.md"
+      "path": "中图法分类/【4 - 应用科学】/420 - 家政/421 - 家庭经济 & 管理/家庭管理/结构管理/专职主内.md"
     },
     {
       "type": "file",
@@ -1403,7 +1098,7 @@
     {
       "type": "file",
       "title": "诛心",
-      "path": "Anonymity/01 - 家族答集/诛心.md"
+      "path": "中图法分类/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/补强原则/诛心.md"
     },
     {
       "type": "file",
@@ -1448,22 +1143,12 @@
     {
       "type": "file",
       "title": "大国崛起",
-      "path": "Anonymity/04 - 社科答集/历史必然.md"
-    },
-    {
-      "type": "file",
-      "title": "爱与自由",
-      "path": "Anonymity/01 - 家族答集/爱与自由.md"
-    },
-    {
-      "type": "file",
-      "title": "营级战术群",
-      "path": "Anonymity/13 - 百年未有之变局/营级战术群.md"
+      "path": "中图法分类/【1 - 哲学类】/190 - 伦理学/196 - 国家伦理/历史必然.md"
     },
     {
       "type": "file",
       "title": "应急储备",
-      "path": "Anonymity/13 - 百年未有之变局/应急储备.md"
+      "path": "Anonymity/百年未有之变局/应急储备.md"
     },
     {
       "type": "file",
@@ -1472,23 +1157,8 @@
     },
     {
       "type": "file",
-      "title": "政治",
-      "path": "Anonymity/04 - 社科答集/政治.md"
-    },
-    {
-      "type": "file",
-      "title": "学会与历史相处",
-      "path": "Anonymity/01 - 家族答集/学会与历史相处.md"
-    },
-    {
-      "type": "file",
       "title": "子女的要求",
       "path": "Anonymity/01 - 家族答集/子女的要求.md"
-    },
-    {
-      "type": "file",
-      "title": "内耗",
-      "path": "Anonymity/01 - 家族答集/内耗.md"
     },
     {
       "type": "file",
@@ -1498,7 +1168,7 @@
     {
       "type": "file",
       "title": "赔我啥",
-      "path": "Anonymity/03 - 第一性/赔我啥.md"
+      "path": "Anonymity/03 - 第一性/不破例.md"
     },
     {
       "type": "file",
@@ -1507,23 +1177,8 @@
     },
     {
       "type": "file",
-      "title": "聪明的笨功夫",
-      "path": "Anonymity/01 - 家族答集/聪明的笨功夫.md"
-    },
-    {
-      "type": "file",
-      "title": "遏制台独",
-      "path": "Anonymity/04 - 社科答集/遏制台独.md"
-    },
-    {
-      "type": "file",
       "title": "社会化",
       "path": "Anonymity/01 - 家族答集/社会化.md"
-    },
-    {
-      "type": "file",
-      "title": "抗骚扰",
-      "path": "Anonymity/01 - 家族答集/抗骚扰.md"
     },
     {
       "type": "file",
@@ -1534,31 +1189,6 @@
       "type": "file",
       "title": "越界",
       "path": "Anonymity/02 - 企管答集/越界.md"
-    },
-    {
-      "type": "file",
-      "title": "科学信仰",
-      "path": "Anonymity/09 - 神学答集/科学信仰.md"
-    },
-    {
-      "type": "file",
-      "title": "较真这种性格好吗？在什么情况下需要较真？",
-      "path": "Anonymity/01 - 家族答集/较真.md"
-    },
-    {
-      "type": "file",
-      "title": "失望",
-      "path": "Anonymity/01 - 家族答集/失望.md"
-    },
-    {
-      "type": "file",
-      "title": "天地无用",
-      "path": "Anonymity/01 - 家族答集/天地无用.md"
-    },
-    {
-      "type": "file",
-      "title": "字斟句酌",
-      "path": "Anonymity/03 - 第一性/字斟句酌.md"
     }
   ]
 }

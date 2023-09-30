@@ -1,0 +1,11 @@
+{
+	"id": "advanced-merger",
+	"name": "Advanced Merger",
+	"version": "1.4.0",
+	"minAppVersion": "0.15.0",
+	"description": "Merge a folder of notes for easier export.",
+	"author": "Anto Keinänen",
+	"authorUrl": "https://github.com/antoKeinanen",
+	"fundingUrl": "https://www.buymeacoffee.com/antokeinanen",
+	"isDesktopOnly": false
+}

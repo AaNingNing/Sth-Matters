@@ -6,10 +6,11 @@
   "backlink",
   "canvas",
   "tag-pane",
+  "properties",
   "page-preview",
   "note-composer",
   "command-palette",
-  "starred",
+  "bookmarks",
   "markdown-importer",
   "word-count",
   "file-recovery"

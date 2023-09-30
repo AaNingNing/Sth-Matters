@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d1fa911ea3ccb2",
+        "id": "0a7cce5f5d7dbd0b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e171351e0256460",
+            "id": "67a490051bb984c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/150 - 逻辑学/153 - 科学方法论/3. 案例分析/洗洗再睡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f334a5aef5eb5782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/三代乃成.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,17 +44,8 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
+        "dimension": 29.37142857142857,
         "children": [
-          {
-            "id": "4879eced09a10136",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          },
           {
             "id": "7569597966c86526",
             "type": "leaf",
@@ -49,23 +57,40 @@
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
           {
-            "id": "be93b815a191d52f",
+            "id": "366372991e7a9040",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5cddf796add1364e",
+        "type": "tabs",
+        "dimension": 70.62857142857143,
+        "children": [
+          {
+            "id": "4879eced09a10136",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 361.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【本周更新】/三代乃成.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,13 +127,23 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "bf225de6acac63ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -118,41 +154,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8e171351e0256460",
+  "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "Anonymity/01 - 家族答集/no run.md",
-    "Anonymity/01 - 家族答集/分享.md",
-    "【本周更新】/AI 一.md",
-    "【本周更新】/危险迹象 2.md",
-    "【本周更新】/索赔.md",
-    "【本周更新】/不立文字.md",
-    "【本周更新】/CAS.md",
-    "【本周更新】/独立思考的要害.md",
-    "【本周更新】/误导式加密.md",
-    "【本周更新】/集体主义精神.md",
-    "【本周更新】/睡前消息563期.md",
-    "【本周更新】/有罪推定.md",
-    "【本周更新】/母乳喂养.md",
-    "【本周更新】/远东合作.md",
-    "【本周更新】/强强.md",
-    "【本周更新】/利益共同体.md",
-    "【本周更新】/LetMoneyTalk.md",
-    "【本周更新】/大冰箱.md",
-    "【本周更新】/反谣言.md",
-    "Anonymity/04 - 社科答集/农村的未来.md",
-    "Anonymity/04 - 社科答集/环境问题.md",
-    "Anonymity/04 - 社科答集/真正的xx论者.md",
-    "Anonymity/04 - 社科答集/国家绿化.md",
-    "Anonymity/04 - 社科答集/新制造犀牛工厂.md",
-    "Anonymity/01 - 家族答集/不可论断人.md",
-    "Anonymity/01 - 家族答集/与世界为敌.md",
-    "转载授权/2-授权条款更新.png",
+    "【本周更新】/霸王卸甲.md",
+    "【本周更新】/无风之浪.md",
+    "【本周更新】/三缺一2.md",
+    "【本周更新】/关于问题的问题.md",
+    "【本周更新】/不置可否.md",
+    "【本周更新】/指责消费者.md",
+    "【本周更新】/解除拉黑的最佳实践.md",
+    "【本周更新】/鬼佬.md",
+    "【本周更新】/不欣赏权.md",
+    "【本周更新】/陵园.md",
+    "【本周更新】/译诗.md",
+    "【本周更新】/拆散.md",
+    "【本周更新】/宇宙.md",
+    "【本周更新】/羊奶锅.md",
+    "【本周更新】/神速.md",
+    "【本周更新】/以盾为剑.md",
+    "【本周更新】/贵亲.md",
+    "【本周更新】/三代乃成.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/军舰/敦睦舰队.md",
+    "【文章目录】/【1 - 哲学类】/150 - 逻辑学/153 - 科学方法论/3. 案例分析/洗洗再睡.md",
+    "9.18/修订/2023-09-24中国如果有4个航母战斗群，在国际上会有什么变化？.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/494 - 企业管理/期望管理.md",
+    "9.18/修订/2023-09-23为什么有一种人喜欢剥开自己给别人看，容易交浅言深，事后还后悔？.md",
+    "9.18/修订/2023-09-23如何管理他人的期望？.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/494 - 企业管理/OKR.md",
+    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致读者.md",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/572 - 比较政府/美国政府",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/572 - 比较政府/美国政治制度",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/抖音",
+    "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/游戏",
+    "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/自媒体",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/社会化",
+    "【文章目录】/【8 - 语言文学类】/890 - 新闻学/情报分析",
+    "【本周更新】/新增",
+    "9.11/修订",
+    "9.11",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
-    "Anonymity/14 - 人与智能",
+    "转载授权/2-授权条款更新.png",
+    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
+    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
     "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
-    "_附件/Screenshot 2022-12-31 at 07.25.21.png",
-    "_附件/Screenshot 2022-12-31 at 07.25.12.png",
-    "_附件/Screenshot 2022-12-31 at 07.25.27.png",
-    "_附件/Screenshot 2022-12-31 at 07.25.34.png"
+    "Untitled.canvas",
+    "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
+    "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png",
+    "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png",
+    "待移除/_附件/Screenshot 2022-12-31 at 07.25.21.png",
+    "待移除/_附件/Screenshot 2022-12-31 at 07.25.27.png"
   ]
 }
