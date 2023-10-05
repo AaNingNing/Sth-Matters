@@ -2,7 +2,7 @@
 [如何评论"知名游戏开发者称 C++ 是一种非常糟糕、可怕的语言"？](https://www.zhihu.com/question/284606685/answer/530087942)
 
 > Author: #0-Anonymity
-> Last update: [编辑于2023-01-13]
+> Last update: [编辑于 2023-01-13]
 > Link: [[码农的屏幕]] [[高管写代码]]
 > Tag: #2-事业/2C-职业/3-职业分析
 > 评论区:
