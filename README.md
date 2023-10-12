@@ -417,12 +417,6 @@ https://zhuanlan.zhihu.com/p/380200295
 ##### Step 3. Obsidian - Open folder as Vault 
 选择解压后的文件夹，现在你看到的就是笔记内容了。
 
-界面左上角的小星星里面收录了对我个人最有价值的文章，觉得文章太多不知道从何处开始看可以考虑从这里开始。  
-
-文章正文连接的links我用作平行或者做向上指向。右下角backlinks点击可以看到文章向下指向的子目录。
-
-左侧工具栏，点击graph view查看可视化知识网络。
-
 ![[Screen Shot 2022-06-10 at 19.46.01.png]]
 ![[Screen Shot 2022-06-10 at 19.46.07.png]]
 
