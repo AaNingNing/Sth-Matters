@@ -299,6 +299,7 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 ### 优秀学习资源
 
+
 ####  有声&视频：
 
 【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
@@ -332,6 +333,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 【分类】[茶芒 - 中文图书分类法](https://zhuanlan.zhihu.com/p/625684969)
 
+【分类】 [水木长情 - 使用说明书（主体完工）](https://zhuanlan.zhihu.com/p/625067241)
+
 【目录】[鱼丸粗面 - 回答目录整理](https://zhuanlan.zhihu.com/p/616482557)
 
 【目录】[林思 - 回答链接汇总](https://www.zhihu.com/pin/1622022306473066497)
@@ -339,6 +342,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
 
 【Markdown笔记】[世外逃员 - 个人成长内容库（延续浮灯版）](https://zhuanlan.zhihu.com/p/600612487)
+
+【PDF笔记】 [林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
 
 【Word笔记】 [流水浮灯 & Nnpxg2 - 个人成长内容库](https://zhuanlan.zhihu.com/p/461954872)
 
@@ -357,10 +362,21 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
 
 【摘抄】[世外逃员 - 高频文章 - 名词科普·常识拓展](https://zhuanlan.zhihu.com/p/626408626)
-
 【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
 
+【专题阅读】[pfkfu - 文章串联](https://zhuanlan.zhihu.com/p/654259861)
+
+【专题阅读】[木知 - 专题收藏夹整理](https://zhuanlan.zhihu.com/p/648830102)
+
+【专题阅读】 [鱼丸粗面 - 专题整理](https://www.zhihu.com/collection/925912729)
+
 【专题阅读】 [Richard - 专题阅读合集](https://zhuanlan.zhihu.com/p/613373131)
+
+【专题阅读】[开心 - 亲子关系：最好的陌生人](https://zhuanlan.zhihu.com/p/650628996)
+
+【专题阅读】[安之 - 财富专题汇总 ](https://zhuanlan.zhihu.com/p/664813766)
+
+【专题阅读】[安之 - 礼专题汇总](https://zhuanlan.zhihu.com/p/664744501)
 
 【专题阅读】 [烟雨行船 - 专题阅读 | COVID-19 Pandemic](https://cowtransfer.com/s/f366279e6dd647)
 
@@ -373,6 +389,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【专题研究】 [疗愈艺术 - 手绘长直线研究中心](https://www.zhihu.com/collection/821986940)
 
 【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
+
+【拓展阅读】[青475 - 全科学习参考资料](https://zhuanlan.zhihu.com/p/619314597)
 
 【核心能力】[夫见 - 核心能力训练合集](https://www.zhihu.com/column/c_1405957234203062272)
 
@@ -391,6 +409,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
 
 【想法 & 评论区】[Rectangle - 想法过滤](https://www.zhihu.com/collection/855914677)
+
+【想法 & 评论区】[用户o3665p - 我的泡椒凤爪寿司：一位知乎答主的想法摘录118条](https://zhuanlan.zhihu.com/p/660393226)
 
 【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
 
