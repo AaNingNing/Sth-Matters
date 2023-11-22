@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d799836b257e7d8f",
+        "id": "2a9d23c268809b4c",
         "type": "tabs",
         "children": [
           {
-            "id": "17198accee511580",
+            "id": "bf3dc1f5d9536861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "default.md",
+                "file": "待归档/中国中央.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02eac234801039b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/赔我啥.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 22.857142857142858,
+        "dimension": 36.34285714285714,
         "children": [
           {
             "id": "7569597966c86526",
@@ -39,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "如果是你主动提出帮助",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +73,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 77.14285714285715,
+        "dimension": 63.65714285714286,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -69,7 +81,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -77,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 277.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "default.md",
+                "file": "待归档/中国中央.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,34 +153,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "bf3dc1f5d9536861",
   "lastOpenFiles": [
-    "【本周更新】/人财倍出.md",
-    "【本周更新】/归去.md",
-    "【本周更新】/亚里士多德.md",
-    "【本周更新】/职场洁癖.md",
-    "【本周更新】/实名政策.md",
-    "【本周更新】/盗亦有道.md",
-    "【本周更新】/向问天 任我行.md",
-    "【本周更新】/gap.md",
-    "【本周更新】/安内必先攘外.md",
-    "【本周更新】/一而再再而三.md",
-    "【本周更新】/自来水上瘾.md",
-    "【本周更新】/痒痒豆.md",
-    "【本周更新】/和氏传奇.md",
-    "【本周更新】/具体的典狱长.md",
-    "【本周更新】/均衡操作.md",
-    "【本周更新】/科目二.md",
-    "【本周更新】/断续.md",
-    "【本周更新】/中国中央.md",
-    "【本周更新】/最多辞职.md",
-    "【本周更新】/取决于谁.md",
-    "【本周更新】/淡定的许褚.md",
-    "【本周更新】/完美的皮肤.md",
-    "【本周更新】/硅胶干燥剂.md",
-    "【本周更新】/恐艾.md",
-    "【本周更新】/接班第一.md",
-    "【本周更新】/热爱的福利.md",
+    "待归档/一而再再而三.md",
+    "待归档/gap.md",
+    "待归档/自来水上瘾.md",
+    "【本周更新】/出钱出力.md",
+    "【本周更新】/ai轻应用.md",
+    "【本周更新】/对美国绝望.md",
+    "【本周更新】/符力.md",
+    "【本周更新】/赌神.md",
+    "md_n5DnLW/2023-11-13世上无谓的痛苦，因为你们会有机会更少一….md",
+    "md_n5DnLW/2023-11-09有哪些事是谈过多次恋爱才明白的?.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/赔我啥.md",
+    "md_n5DnLW/2023-11-09哈马斯领导为何不学像法塔赫一样投降去挽救加沙平民呢？.md",
+    "待归档/归去.md",
+    "【本周更新】/缺养.md",
+    "【本周更新】/惊奇队长2.md",
+    "【本周更新】/博.md",
+    "【本周更新】/耿耿.md",
+    "【本周更新】/上慰中慰与少慰.md",
+    "【本周更新】/同意无效.md",
+    "【本周更新】/知足常胜.md",
+    "【本周更新】/程门雪.md",
+    "【本周更新】/左南右北.md",
+    "【本周更新】/慧极型必伤.md",
+    "【本周更新】/家祭无忘告乃翁.md",
+    "【文章目录】/【3 - 自然科学】/390 - 人类学/厌倦.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/195 - 社会伦理/计较.md",
+    "Nell",
     "10.16/新增",
     "10.16/修订",
     "10.16",
@@ -179,7 +191,6 @@
     "9.25/修订",
     "9.25",
     "【本周更新】/新增",
-    "【文章目录】/【5 - 社会科学】/570 - 政治/572 - 比较政府/美国政府",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",

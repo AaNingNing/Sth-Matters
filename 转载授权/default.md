@@ -1,12 +1,4 @@
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\AI管理办法.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\ai纪要.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\全力以赴.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\可信的ai服务.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\智能家长.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\激励措施.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\素问 sooon.ai Q&A.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\素问 sooon.ai 上线测试.md
-Sth-Matters\【文章目录】\AI服务 - 素问SOOON.AI\给女儿的信.md
+
 Sth-Matters\【文章目录】\【0 - 总类】\000 - 特藏 - 致读者\对抗抑郁.md
 Sth-Matters\【文章目录】\【0 - 总类】\000 - 特藏 - 致读者\致读者.md
 Sth-Matters\【文章目录】\【1 - 哲学类】\100 - 哲学总论\论哲学\先独立再自由.md
@@ -558,10 +550,7 @@ Sth-Matters\【文章目录】\【9 - 艺术类】\970 - 技艺\捕猎\放生.md
 Sth-Matters\【文章目录】\【9 - 艺术类】\970 - 技艺\演艺\演技单薄.md
 Sth-Matters\【文章目录】\【9 - 艺术类】\970 - 技艺\演艺\神鬼传奇.md
 Sth-Matters\【文章目录】\【9 - 艺术类】\970 - 技艺\演艺\管得着.md
-Sth-Matters\【文章目录】\【9 - 艺术类】\970 - 技艺\竞技体育\中国体育.md
-Sth-Matters\【文章目录】\【9 - 艺术类】\980 - 戏剧\流浪地球 2.md
-Sth-Matters\【文章目录】\【9 - 艺术类】\980 - 戏剧\西瓜皮.md
-Sth-Matters\【文章目录】\【9 - 艺术类】\980 - 戏剧\长安三万里.md
+
 
 
 > Author: #0-Anonymity
