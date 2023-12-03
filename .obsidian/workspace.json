@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9d23c268809b4c",
+        "id": "eef4ec6185760ccf",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3dc1f5d9536861",
+            "id": "f5934a805571cffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待归档/中国中央.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02eac234801039b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/赔我啥.md",
+                "file": "待归档/事实黑.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 36.34285714285714,
+        "dimension": 22.857142857142854,
         "children": [
           {
             "id": "7569597966c86526",
@@ -51,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "如果是你主动提出帮助",
+                "query": "tag:#【答集】/10-百年未有之变局",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -73,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 63.65714285714286,
+        "dimension": 77.14285714285714,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -81,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待归档/中国中央.md",
+                "file": "待归档/事实黑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,34 +141,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf3dc1f5d9536861",
+  "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "待归档/一而再再而三.md",
-    "待归档/gap.md",
-    "待归档/自来水上瘾.md",
-    "【本周更新】/出钱出力.md",
-    "【本周更新】/ai轻应用.md",
-    "【本周更新】/对美国绝望.md",
-    "【本周更新】/符力.md",
-    "【本周更新】/赌神.md",
-    "md_n5DnLW/2023-11-13世上无谓的痛苦，因为你们会有机会更少一….md",
-    "md_n5DnLW/2023-11-09有哪些事是谈过多次恋爱才明白的?.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/赔我啥.md",
-    "md_n5DnLW/2023-11-09哈马斯领导为何不学像法塔赫一样投降去挽救加沙平民呢？.md",
+    "待归档/中国中央.md",
+    "待归档/人财倍出.md",
+    "待归档/老抱怨.md",
+    "待归档/不两立.md",
+    "待归档/股东打工.md",
+    "待归档/一般轨迹.md",
     "待归档/归去.md",
-    "【本周更新】/缺养.md",
-    "【本周更新】/惊奇队长2.md",
-    "【本周更新】/博.md",
-    "【本周更新】/耿耿.md",
-    "【本周更新】/上慰中慰与少慰.md",
-    "【本周更新】/同意无效.md",
-    "【本周更新】/知足常胜.md",
-    "【本周更新】/程门雪.md",
-    "【本周更新】/左南右北.md",
-    "【本周更新】/慧极型必伤.md",
-    "【本周更新】/家祭无忘告乃翁.md",
-    "【文章目录】/【3 - 自然科学】/390 - 人类学/厌倦.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/195 - 社会伦理/计较.md",
+    "待归档/撞死羊.md",
+    "待归档/家祭无忘告乃翁.md",
+    "待归档/左南右北.md",
+    "待归档/程门雪.md",
+    "待归档/稻种.md",
+    "待归档/同意无效.md",
+    "待归档/慧极型必伤.md",
+    "待归档/知足常胜.md",
+    "待归档/对美国绝望.md",
+    "待归档/ai轻应用.md",
+    "待归档/惊奇队长2.md",
+    "待归档/上慰中慰与少慰.md",
+    "待归档/耿耿.md",
+    "待归档/博.md",
+    "待归档/出钱出力.md",
+    "待归档/缺养.md",
+    "待归档/赌神.md",
+    "待归档/符力.md",
+    "待归档/阿拉伯国家.md",
     "Nell",
     "10.16/新增",
     "10.16/修订",
