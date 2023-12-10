@@ -4,8 +4,8 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-02-08]
 > Link:
-> Category: #【答集】/06-未来科技
-> Tag: #4-世界史/4E-科学技术/2-科技/AI #5-专题合集/合集5-人与智能
+> Category:  #【答集】/13-人与智能
+> Tag: #4-世界史/4E-科学技术/2-科技/AI 
 > 评论区: [[评论区_ChatGPT 2]]
 > 泛讨论:
 

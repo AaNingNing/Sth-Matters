@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-11-14]
 > Link:
-> Category: #【答集】/06-未来科技 
+> Category:  #【答集】/13-人与智能
 > Tag:
 > 评论区:
 > 泛讨论:
