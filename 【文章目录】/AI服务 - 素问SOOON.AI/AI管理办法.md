@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-04-11]
 > Link:
-> Category:  #【答集】/13-人与智能
+> Category:  #【答集】/14-人与智能
 > Tag: #4-世界史/4E-科学技术/2-科技/AI #6-其它/素问
 > 评论区:
 > 泛讨论:

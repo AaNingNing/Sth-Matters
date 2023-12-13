@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2022-03-12]
 > Link: [[MoneyTalk]]
-> Category: #【答集】/10-百年未有之变局
+> Category: #【答集】/13-百年未有之变局
 > Tag: #2-事业/2A-功夫/1-核心能力/信源管理 #2-事业/2B-投资
 > 评论区:
 > 泛讨论:
