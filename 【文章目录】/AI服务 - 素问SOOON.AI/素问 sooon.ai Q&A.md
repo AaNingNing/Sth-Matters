@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-04-27]
 > Link:
-> Category: #【答集】/00-致读者 
+> Category: #【答集】/00-致读者
 > Tag: #6-其它/素问
 > 评论区:
 > 泛讨论:
