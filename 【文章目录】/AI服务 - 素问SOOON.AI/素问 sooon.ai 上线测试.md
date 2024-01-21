@@ -4,7 +4,7 @@
 > Author: #0-Anonymity
 > Last update: [发布于 2023-04-09]
 > Link:
-> Category: #【答集】/06-未来科技 
+> Category: #【答集】/06-未来科技
 > Tag: #6-其它/素问
 > 评论区:
 > 泛讨论:

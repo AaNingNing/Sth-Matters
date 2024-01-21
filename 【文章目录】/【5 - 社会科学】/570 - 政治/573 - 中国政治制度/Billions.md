@@ -4,8 +4,8 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-10-11]
 > Link:
-> Category: 
-> Tag: [社科, 文艺, 最近更新]
+> Category: #【答集】/04-社科答集 #【答集】/08-文艺答集
+> Tag: #4-世界史/4A-社科
 > 评论区:
 > 泛讨论:
 
