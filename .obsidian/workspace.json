@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b26765cb71d8a634",
+        "id": "94268f964ff8a933",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3f201d11e9bcd2",
+            "id": "0e71150bc3ba4f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/经纪人.md",
+                "file": "【本周更新】/房产投资.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 30.03003003003003,
+        "dimension": 22.857142857142858,
         "children": [
           {
             "id": "7569597966c86526",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "等的意思在实践上有两条",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 69.96996996996997,
+        "dimension": 77.14285714285715,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/经纪人.md",
+                "file": "【本周更新】/房产投资.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,34 +143,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "0e71150bc3ba4f93",
   "lastOpenFiles": [
-    "【本周更新】/傻博士.md",
-    "【本周更新】/万家乐.md",
-    "【本周更新】/邪不压正.md",
-    "【本周更新】/淋雨.md",
-    "【本周更新】/半星之敌.md",
-    "【本周更新】/道歉机会.md",
-    "【本周更新】/树知道.md",
-    "【本周更新】/普亭.md",
-    "【本周更新】/手心打手背.md",
-    "【本周更新】/学霸.md",
-    "【本周更新】/敌意.md",
-    "【本周更新】/下一代坦克.md",
-    "【本周更新】/冯唐.md",
-    "【本周更新】/孔雀.md",
-    "【本周更新】/三鞠躬.md",
-    "【本周更新】/上白班的杰克.md",
-    "【本周更新】/千年景区.md",
-    "【本周更新】/第一巴图鲁.md",
-    "【本周更新】/难办.md",
-    "【本周更新】/无端.md",
-    "【本周更新】/碳装甲.md",
-    "【本周更新】/镜子.md",
-    "【本周更新】/盈利背离.md",
-    "【本周更新】/大排场.md",
-    "【本周更新】/经纪人.md",
-    "【文章目录】/【5 - 社会科学】/570 - 政治/570 - 政治学总论/丁香医生.md",
+    "【本周更新】/公平标准.md",
+    "【本周更新】/房产投资.md",
+    "【本周更新】/汪小姐的招商会.md",
+    "【本周更新】/日本女性之难.md",
+    "【本周更新】/人生意义.md",
+    "【本周更新】/繁花.md",
+    "【本周更新】/自救.md",
+    "【本周更新】/事实第一.md",
+    "【本周更新】/标准翻译.md",
+    "【本周更新】/锁门.md",
+    "【本周更新】/斜率.md",
+    "【本周更新】/穴居人.md",
+    "【本周更新】/红毯先生.md",
+    "【本周更新】/忠诚的卧底.md",
+    "【本周更新】/荣宝斋.md",
+    "【本周更新】/王家的秘密.md",
+    "【本周更新】/多语种剧情.md",
+    "【本周更新】/射杀.md",
+    "【本周更新】/最佳回应.md",
+    "【本周更新】/我不问，你不说.md",
+    "【本周更新】/老法师.md",
+    "【本周更新】/张记包子.md",
+    "【本周更新】/天平.md",
+    "【本周更新】/打断腿.md",
+    "待归档/经纪人.md",
+    "2024-02-10分手了还有必要继续联系吗？.md",
     "www.zhihu.com/question/634890549/answer",
     "www.zhihu.com/question/634890549",
     "www.zhihu.com/question",
