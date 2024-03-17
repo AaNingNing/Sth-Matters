@@ -11,8 +11,12 @@
             "id": "1629eb76b96b8ec0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "沙海拾金/泛讨论/泛讨论_贴标签.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 22.857142857142858,
+        "dimension": 22.857142857142854,
         "children": [
           {
             "id": "7569597966c86526",
@@ -57,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 77.14285714285715,
+        "dimension": 77.14285714285714,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -65,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/性伦理/性感/默认隐藏.md",
+                "file": "沙海拾金/泛讨论/泛讨论_贴标签.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,8 +143,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "1629eb76b96b8ec0",
   "lastOpenFiles": [
+    "沙海拾金/泛讨论/泛讨论_不可靠猜测.md",
+    "沙海拾金/泛讨论/泛讨论_利润导向.md",
+    "沙海拾金/泛讨论/泛讨论_AI 热潮.md",
+    "沙海拾金/泛讨论/泛讨论_“内容过剩”.md",
     "【本周更新】/999007.md",
     "待归档/暖气片.md",
     "待归档/暖气片 1.md",
@@ -163,10 +171,6 @@
     "【本周更新】/FAIR AND SQUARE.md",
     "【本周更新】/MUST BE MY WAY.md",
     "【本周更新】/不动心.md",
-    "沙海拾金/泛讨论/泛讨论_不可靠猜测.md",
-    "【本周更新】/不求人.md",
-    "【本周更新】/大船.md",
-    "【本周更新】/和平大饭店.md",
     "md/Nell",
     "md",
     "Nell",
