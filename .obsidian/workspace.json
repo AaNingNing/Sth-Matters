@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5918d45802dcce6",
+        "id": "82dbd7aaf9e8f9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "1629eb76b96b8ec0",
+            "id": "e76e19de5e71cb5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "沙海拾金/泛讨论/泛讨论_贴标签.md",
+                "file": "【本周更新】/面子.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 22.857142857142854,
+        "dimension": 22.857142857142858,
         "children": [
           {
             "id": "7569597966c86526",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#【答集】",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 77.14285714285714,
+        "dimension": 77.14285714285715,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/泛讨论/泛讨论_贴标签.md",
+                "file": "【本周更新】/面子.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,44 +143,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1629eb76b96b8ec0",
+  "active": "7569597966c86526",
   "lastOpenFiles": [
-    "沙海拾金/泛讨论/泛讨论_不可靠猜测.md",
-    "沙海拾金/泛讨论/泛讨论_利润导向.md",
-    "沙海拾金/泛讨论/泛讨论_AI 热潮.md",
-    "沙海拾金/泛讨论/泛讨论_“内容过剩”.md",
-    "【本周更新】/999007.md",
-    "待归档/暖气片.md",
-    "待归档/暖气片 1.md",
-    "待归档/地狱骑士.md",
-    "待归档/地狱骑士.md",
-    "待归档/多事.md",
-    "【本周更新】/多事.md",
-    "【本周更新】/红顶商人.md",
-    "【本周更新】/瑜不掩瑕.md",
-    "【本周更新】/Gaze.md",
-    "【本周更新】/看不见的喷火龙.md",
-    "【本周更新】/作恶的理由.md",
-    "【本周更新】/手工的精度.md",
-    "【本周更新】/新能源车.md",
-    "【本周更新】/海地.md",
-    "【本周更新】/米莱.md",
-    "【本周更新】/正常开支.md",
-    "【本周更新】/Ticktok.md",
-    "【本周更新】/钟妈妈.md",
-    "【本周更新】/FAIR AND SQUARE.md",
-    "【本周更新】/MUST BE MY WAY.md",
-    "【本周更新】/不动心.md",
-    "md/Nell",
+    "【本周更新】/自古以来.md",
+    "【本周更新】/保密要求.md",
+    "【本周更新】/凯特王妃.md",
+    "【本周更新】/三战.md",
+    "【本周更新】/上流社会.md",
+    "【本周更新】/典守者难辞其咎.md",
+    "【本周更新】/军用地图.md",
+    "【本周更新】/基本饮水权.md",
+    "【本周更新】/好不风光.md",
+    "【本周更新】/最佳徒手圆.md",
+    "【本周更新】/步坦协同.md",
+    "【本周更新】/没用的眼泪.md",
+    "【本周更新】/短标题.md",
+    "【本周更新】/祖坟青烟.md",
+    "【本周更新】/第一口奶.md",
+    "【本周更新】/行业纵览.md",
+    "【本周更新】/跛刘禅.md",
+    "【本周更新】/金钱爆.md",
+    "【本周更新】/面子.md",
+    "待归档/Gaze.md",
+    "待归档/看不见的喷火龙.md",
+    "待归档/瑜不掩瑕.md",
+    "md/瑜不掩瑕.md",
+    "md/滴滴.md",
+    "待归档/滴滴.md",
+    "待归档/大船.md",
+    "md/N",
     "md",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/知乎",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/火箭",
+    "md/Nell",
     "Nell",
     "md/Nell",
     "md/Nell",
     "创业",
-    "管理者",
-    "www.zhihu.com/question/634890549/answer",
-    "www.zhihu.com/question/634890549",
-    "www.zhihu.com/question",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
