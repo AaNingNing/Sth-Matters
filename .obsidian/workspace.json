@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25d7d8a8f950b490",
+        "id": "833688ca21775b25",
         "type": "tabs",
         "children": [
           {
-            "id": "b22ebbda233d6f84",
+            "id": "8b38b23b4ed70597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待归档/羁绊源.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a02f60556a78163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/166 - 真理论/终极真理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac6376fb2f6ea0cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/自强/自责.md",
+                "file": "【本周更新】/zz理论.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人类会在知道终极真理**之前**疯掉。",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -101,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 201.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待归档/羁绊源.md",
+                "file": "【本周更新】/zz理论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,36 +144,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "8b38b23b4ed70597",
   "lastOpenFiles": [
-    "待归档/羁绊源.md",
-    "待归档/羁绊源.md",
-    "待归档/投降问题.md",
-    "待归档/成性论.md",
-    "待归档/成性论.md",
-    "【本周更新】/拈花.md",
-    "【本周更新】/童真.md",
-    "【本周更新】/忏与悔.md",
-    "【本周更新】/镇妖塔.md",
-    "【本周更新】/凸 蚓 凸.md",
-    "【本周更新】/不依赖.md",
-    "【本周更新】/自由的印花税.md",
-    "【本周更新】/最先的关系.md",
+    "【本周更新】/月之暗面.md",
+    "【本周更新】/谷歌.md",
+    "【本周更新】/能谈的问题.md",
+    "【本周更新】/一年疫苗.md",
+    "【本周更新】/不成人形.md",
     "【本周更新】/乱发脾气.md",
-    "【本周更新】/倦怠.md",
-    "【本周更新】/自药自吃.md",
-    "【本周更新】/有言在先.md",
-    "待归档/婚内财产.md",
-    "待归档/汇率狂砭.md",
-    "md/N/2024-04-20为什么表达出跟别人意见不一致的态度的时候，对方会恼羞成怒？.md",
-    "【文章目录】/AI服务 - 素问SOOON.AI/同问.md",
+    "【本周更新】/喜怒不形于色.md",
+    "【本周更新】/接线员.md",
+    "【本周更新】/旁观.md",
+    "【本周更新】/朝韩文化.md",
+    "【本周更新】/核动力学习.md",
+    "【本周更新】/第一稀缺.md",
+    "【本周更新】/zz理论.md",
+    "【本周更新】/踢出SWIFT.md",
+    "待归档/镇妖塔.md",
+    "待归档/有言在先.md",
+    "md/有言在先.md",
+    "待归档/自由的印花税.md",
+    "待归档/不依赖.md",
+    "md/N/2024-04-29有没有一种感觉，自己好像没干过什么亏良心的事情，对别人也不算刻薄，但就是很孤独没有人喜欢自己?.md",
+    "md/N/2024-04-2710个字以内，你能讲一个浪漫的故事吗？.md",
+    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/鼓励利用我的内容盈利.md",
+    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致读者.md",
+    "md/2024-05-02你有哪些话想对知乎上关注你的人说？.md",
+    "md/N/2024-04-28如何去好好的爱一个人?.md",
+    "md/N/2024-04-27用先生称呼杰出女性真的不妥吗？.md",
     "md/N",
-    "【文章目录】/AI服务 - 素问SOOON.AI/素问 sooon.ai 上线测试.md",
-    "【文章目录】/AI服务 - 素问SOOON.AI/智能家长.md",
-    "【文章目录】/AI服务 - 素问SOOON.AI/素问 sooon.ai Q&A.md",
-    "【文章目录】/AI服务 - 素问SOOON.AI/终极目的.md",
-    "md/N/2024-04-24作为妈妈，如果孩子和你分享了她的秘密，还让你不能和别人说，你会怎么处理？.md",
     "md",
+    "md/N",
     "【本周更新】/md/Nel",
     "【本周更新】/md",
     "md/Nell",
@@ -204,7 +182,6 @@
     "md/N",
     "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
     "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/知乎",
-    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/火箭",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
