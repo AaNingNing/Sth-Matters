@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "833688ca21775b25",
+        "id": "00360547814d7f42",
         "type": "tabs",
         "children": [
           {
-            "id": "8b38b23b4ed70597",
+            "id": "6c74bd5e110aa2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/zz理论.md",
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/未曾开始.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8f4e02efc6a81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/冒充提问.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814732cdc7f6b597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/海底总动员.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e4a9ab60177a95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/小米世界.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b127d677e55999e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/万人大裁员.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03ff495b4a5d28e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/取名 - 青姓.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeb925764eaea300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/父母出轨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07c266846ae82c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/万人大裁员.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -31,7 +116,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 34.17142857142857,
+        "dimension": 46.400000000000006,
         "children": [
           {
             "id": "7569597966c86526",
@@ -39,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#【答集】/01-家族答集",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +146,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 65.82857142857142,
+        "dimension": 53.6,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -93,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/zz理论.md",
+                "file": "【本周更新】/万人大裁员.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,36 +228,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b38b23b4ed70597",
+  "active": "f07c266846ae82c5",
   "lastOpenFiles": [
-    "【本周更新】/月之暗面.md",
-    "【本周更新】/谷歌.md",
-    "【本周更新】/能谈的问题.md",
-    "【本周更新】/一年疫苗.md",
-    "【本周更新】/不成人形.md",
-    "【本周更新】/乱发脾气.md",
-    "【本周更新】/喜怒不形于色.md",
-    "【本周更新】/接线员.md",
-    "【本周更新】/旁观.md",
-    "【本周更新】/朝韩文化.md",
-    "【本周更新】/核动力学习.md",
-    "【本周更新】/第一稀缺.md",
-    "【本周更新】/zz理论.md",
-    "【本周更新】/踢出SWIFT.md",
-    "待归档/镇妖塔.md",
-    "待归档/有言在先.md",
-    "md/有言在先.md",
-    "待归档/自由的印花税.md",
+    "【本周更新】/冒充提问.md",
+    "【本周更新】/海底总动员.md",
+    "【本周更新】/小米世界.md",
+    "【本周更新】/万人大裁员.md",
+    "【本周更新】/取名 - 青姓.md",
+    "【文章目录】/【10 - 专题类】/杂论/取名 - 牛姓.md",
+    "【本周更新】/后置吟唱.md",
+    "【本周更新】/父母出轨.md",
+    "【本周更新】/辞源.md",
+    "【本周更新】/夜叉.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/未曾开始.md",
+    "待归档/中产.md",
+    "待归档/谁不像.md",
+    "待归档/失能.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/傲慢之路.md",
     "待归档/不依赖.md",
-    "md/N/2024-04-29有没有一种感觉，自己好像没干过什么亏良心的事情，对别人也不算刻薄，但就是很孤独没有人喜欢自己?.md",
-    "md/N/2024-04-2710个字以内，你能讲一个浪漫的故事吗？.md",
-    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/鼓励利用我的内容盈利.md",
-    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致读者.md",
-    "md/2024-05-02你有哪些话想对知乎上关注你的人说？.md",
-    "md/N/2024-04-28如何去好好的爱一个人?.md",
-    "md/N/2024-04-27用先生称呼杰出女性真的不妥吗？.md",
+    "待归档/天意不可违.md",
+    "待归档/遇袒则忧.md",
+    "待归档/乱发脾气.md",
+    "待归档/乱发脾气 1.md",
+    "【本周更新】/经济指挥棒.md",
+    "待归档/zz理论.md",
+    "待归档/月之暗面.md",
+    "沙海拾金/泛讨论/泛讨论_你说说.md",
+    "沙海拾金/泛讨论/泛讨论_大型超市的未来.md",
+    "【本周更新】/危机之上.md",
     "md/N",
     "md",
+    "md/N",
     "md/N",
     "【本周更新】/md/Nel",
     "【本周更新】/md",
@@ -181,7 +266,6 @@
     "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/苹果",
     "md/N",
     "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
-    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/知乎",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
