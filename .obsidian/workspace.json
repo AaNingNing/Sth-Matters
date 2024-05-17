@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00360547814d7f42",
+        "id": "12e49355931ece05",
         "type": "tabs",
         "children": [
           {
-            "id": "6c74bd5e110aa2d5",
+            "id": "f0041a7b61b56d00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/未曾开始.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df8f4e02efc6a81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/冒充提问.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "814732cdc7f6b597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/海底总动员.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e4a9ab60177a95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/小米世界.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b127d677e55999e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/万人大裁员.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03ff495b4a5d28e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/取名 - 青姓.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeb925764eaea300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/父母出轨.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07c266846ae82c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/万人大裁员.md",
+                "file": "待归档/Aaron 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 46.400000000000006,
+        "dimension": 22.857142857142858,
         "children": [
           {
             "id": "7569597966c86526",
@@ -124,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#【答集】/01-家族答集",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -146,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 53.6,
+        "dimension": 77.14285714285715,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -162,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 376.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -178,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/万人大裁员.md",
+                "file": "待归档/Aaron 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,34 +143,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f07c266846ae82c5",
+  "active": "f0041a7b61b56d00",
   "lastOpenFiles": [
-    "【本周更新】/冒充提问.md",
-    "【本周更新】/海底总动员.md",
-    "【本周更新】/小米世界.md",
-    "【本周更新】/万人大裁员.md",
-    "【本周更新】/取名 - 青姓.md",
-    "【文章目录】/【10 - 专题类】/杂论/取名 - 牛姓.md",
-    "【本周更新】/后置吟唱.md",
-    "【本周更新】/父母出轨.md",
-    "【本周更新】/辞源.md",
-    "【本周更新】/夜叉.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/未曾开始.md",
-    "待归档/中产.md",
-    "待归档/谁不像.md",
-    "待归档/失能.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/傲慢之路.md",
-    "待归档/不依赖.md",
-    "待归档/天意不可违.md",
-    "待归档/遇袒则忧.md",
-    "待归档/乱发脾气.md",
-    "待归档/乱发脾气 1.md",
-    "【本周更新】/经济指挥棒.md",
-    "待归档/zz理论.md",
-    "待归档/月之暗面.md",
-    "沙海拾金/泛讨论/泛讨论_你说说.md",
-    "沙海拾金/泛讨论/泛讨论_大型超市的未来.md",
-    "【本周更新】/危机之上.md",
+    "待归档/合理的艺术.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/克制真爱.md",
+    "【文章目录】/【10 - 专题类】/杂论/案例库.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/表达意愿/过三关.md",
+    "【文章目录】/【6 - 中国史地】/680 - 中国地理类志/687 - 人物/毛文龙.md",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/575 - 地方制度 & 自治/台湾/Jimmy要爱国.md",
+    "【文章目录】/【5 - 社会科学】/550 - 经济/555 - 产业 & 工业/时间轴平移.md",
+    "【文章目录】/【8 - 语言文学类】/890 - 新闻学/认知战/挑拨离间.md",
+    "【文章目录】/【5 - 社会科学】/550 - 经济/558 - 贸易/妖风.md",
+    "待归档/县里人.md",
+    "【文章目录】/【7 - 世界史地】/730 - 亚洲史地/732 - 韩国/地球梦.md",
+    "【文章目录】/【9 - 艺术类】/980 - 戏剧/七折假钞.md",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/汽车/Island Hopper.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/惩戒的资格.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/参天.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/一体两面.md",
+    "【本周更新】/先谈后定.md",
+    "【本周更新】/wait and see.md",
+    "【本周更新】/后悔酱.md",
+    "【本周更新】/味精炒鸡精.md",
+    "【本周更新】/坐脸虫.md",
+    "【本周更新】/愚蠢之为物也.md",
+    "【本周更新】/挖机.md",
+    "【本周更新】/易守难攻.md",
+    "【本周更新】/释放攻击性.md",
+    "待归档/万人大裁员.md",
+    "md/N",
     "md/N",
     "md",
     "md/N",
@@ -265,7 +181,6 @@
     "md/Nell",
     "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/苹果",
     "md/N",
-    "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
