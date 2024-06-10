@@ -1,5 +1,7 @@
 > Backlink: 
 
+[怎么识别loser？ 第一，常被社会事件激怒…](https://www.zhihu.com/pin/1185750276085170176)
+
 A: 怎么识别loser？  
 
 第一，常被社会事件激怒。  
