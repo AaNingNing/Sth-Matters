@@ -335,6 +335,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 【公众号】[鱼丸粗面 - 欢迎大家关注公众号【Karitas】](https://zhuanlan.zhihu.com/p/607481192)
 
+【词典】[六朝声 - 词典《语词的辨析与使用》](https://www.zhihu.com/pin/1731348988693958657)
+
 【分类】[茶芒 - 文章备份工作打卡贴](https://zhuanlan.zhihu.com/p/563624303)
 
 【分类】[茶芒 - 中文图书分类法](https://zhuanlan.zhihu.com/p/625684969)
@@ -360,6 +362,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
 
 【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
+
+【摘抄】[用户o3665p -  我的泡椒凤爪寿司: 一位知乎答主的回答摘录（2017-2023)](https://zhuanlan.zhihu.com/p/660404554)
 
 【摘抄】[南山南山南 - Caritas海报汇总](https://zhuanlan.zhihu.com/p/600095622)
 
