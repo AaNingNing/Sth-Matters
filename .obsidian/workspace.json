@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2924ef31d62a9cac",
+        "id": "810936750b13b758",
         "type": "tabs",
         "children": [
           {
-            "id": "a62b885996b456b8",
+            "id": "122802cccabf48bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待归档/有效结盟.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e14481c7a2d800d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/一夜千万.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4154200fdd0acde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/千金马骨.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65f19ace68da2a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/净肉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c3c7e378b38e9ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【5 - 社会科学】/540 - 社会学/548 - 社会救济/三慈善.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 35.69711538461539,
+        "dimension": 24.03846153846154,
         "children": [
           {
             "id": "7569597966c86526",
@@ -88,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "好照片有两种。",
+                "query": "tag:#1-家族/1E-两性/2-平权主义",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -110,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 64.30288461538461,
+        "dimension": 75.96153846153845,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -126,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 236.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/净肉.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,35 +143,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "65f19ace68da2a3d",
+  "active": "7569597966c86526",
   "lastOpenFiles": [
-    "【本周更新】/一直受伤.md",
-    "【本周更新】/一夜千万.md",
-    "【本周更新】/净肉.md",
-    "【本周更新】/千金马骨.md",
-    "【本周更新】/六根雪糕.md",
-    "待归档/解决问题的态度.md",
-    "待归档/解决问题的态度.md",
+    "【本周更新】/从龙.md",
+    "【本周更新】/the F grade.md",
+    "待归档/一夜千万.md",
+    "【本周更新】/温柔的魔鬼.md",
+    "【本周更新】/金毒.md",
+    "【本周更新】/由华入美.md",
+    "【本周更新】/我要生气.md",
+    "【本周更新】/一两金镯.md",
+    "【本周更新】/不忙解释.md",
+    "【本周更新】/暗怕.md",
+    "【本周更新】/没有简单.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/文责意识/条理.md",
+    "【本周更新】/器官的组合.md",
+    "md/2024-07-02如何解决思维混乱、讲话没条理的情况？.md",
+    "【本周更新】/搬到加沙.md",
+    "【本周更新】/Vision Pro.md",
+    "【本周更新】/天凉好个秋.md",
+    "md/Untitled/2024-07-01如何评价各大互联网平台共同宣布将打击网络极端民族主义言论?.md",
+    "md/Untitled",
+    "【本周更新】/哈尔佛.md",
+    "待归档/王不见王.md",
+    "md/2024-06-30月子里我妈要求岳父母表态，气得我老婆伤口渗液，我应该怎么做？.md",
     "待归档/有效结盟.md",
-    "待归档/独我.md",
-    "【本周更新】/好照片.md",
-    "【本周更新】/集结号.md",
-    "【本周更新】/大棒pro.md",
-    "【本周更新】/圣人无名.md",
-    "【本周更新】/纹身.md",
-    "【本周更新】/重量级棋王.md",
-    "【本周更新】/炼血成丹.md",
-    "【本周更新】/王不见王.md",
-    "【本周更新】/地动仪.md",
-    "【本周更新】/矛盾的赌注.md",
-    "【文章目录】/【9 - 艺术类】/950 - 摄影 & 电脑艺术/数字相机.md",
-    "md/2024-06-22如何看待up主本喵叫兔兔，猫德研究员小杨等的猫德医院开业三个月以来被他人遗弃二十多只猫？.md",
-    "【文章目录】/【5 - 社会科学】/540 - 社会学/548 - 社会救济/三慈善.md",
+    "待归档/千金马骨.md",
+    "待归档/净肉.md",
+    "待归档/一直受伤.md",
+    "待归档/六根雪糕.md",
     "md",
-    "待归档/一万粉.md",
-    "待归档/否.md",
-    "待归档/宗教的价值.md",
-    "待归档/三角石.md",
     "md/Nell",
     "md/N",
     "【文章目录】/【2 - 信仰类】/神学评论区",
@@ -229,7 +181,6 @@
     "爱发电/会员专享",
     "爱发电/钩沉",
     "沙海拾金/想法待整理",
-    "md/Nell",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
