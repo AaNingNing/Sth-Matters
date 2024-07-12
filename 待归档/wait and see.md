@@ -1,7 +1,7 @@
 # wait and see
 [茅台会在什么情况下崩盘?](https://www.zhihu.com/question/348553732/answer/3496332356)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-05-13]
 > Link:
 > Category: #【答集】/02-企管答集 

@@ -1,7 +1,7 @@
 # FAIR AND SQUARE
 [乌克兰战争纪录片《马里乌波尔的 20 天》夺奥斯卡最佳纪录片奖，片中哪些信息值得关注？](https://www.zhihu.com/question/648013088/answer/3429713555)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-03-14]
 > Link:
 > Category: #【答集】/08-文艺答集 #【答集】/13-百年未有之变局 

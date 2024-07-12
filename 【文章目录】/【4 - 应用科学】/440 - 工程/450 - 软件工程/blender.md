@@ -1,11 +1,11 @@
 # blender
 [游戏建模为什么不能是 blender + Zbrush 的工作流呢？](https://www.zhihu.com/question/508310078/answer/2796012866)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-12-11]
 > Link: [[着色]]
 > Category: #【答集】/06-未来科技
-> Tag: #4-世界史/4E-科学技术/2-科技 #2-事业/2C-职业/3-职业分析
+> Tag: #7-科学与技术/3-应用科学/工程/软件
 > 评论区:
 > 泛讨论:
 

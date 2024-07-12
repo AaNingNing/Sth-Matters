@@ -1,11 +1,11 @@
 # AI模拟
 [这样的AI是真的吗？](https://www.zhihu.com/question/448931860/answer/1777048791)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-05-15]
 > Link: [[制赌]] [[励志]] [[程序管理人类]]
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI #4-世界史/4E-科学技术/1-科学 #4-世界史/4A-社科
+> Tag: #7-科学与技术/3-应用科学/人工智能 
 > 评论区:
 > 泛讨论:
 

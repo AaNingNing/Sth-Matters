@@ -1,11 +1,11 @@
 # ChatGPT
 [ChatGPT 火爆，人工智能发展到了要奴役人类的地步了吗？](https://www.zhihu.com/question/582612036/answer/2881765914)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-02-08]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI
+> Tag: #7-科学与技术/3-应用科学/人工智能
 > 评论区: [[评论区_ChatGPT 2]]
 > 泛讨论:
 

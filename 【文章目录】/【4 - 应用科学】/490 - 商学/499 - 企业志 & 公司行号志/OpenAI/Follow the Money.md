@@ -1,11 +1,11 @@
 # Follow the Money
 [数百名 OpenAI 员工致信董事会，要求恢复奥特曼职位，将带来哪些影响？](https://www.zhihu.com/question/631041787/answer/3296271966)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-11-21]
 > Link:
 > Category: #【答集】/02-企管答集 #【答集】/14-人与智能
-> Tag: #2-事业/2D-企管/2-经营案例
+> Tag: #4-职业发展/6-经营案例
 > 评论区:
 > 泛讨论:
 

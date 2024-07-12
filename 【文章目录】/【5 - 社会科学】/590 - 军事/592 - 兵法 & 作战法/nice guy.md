@@ -1,11 +1,11 @@
 # nice guy
 [怎么理解“ 善战者无赫赫之功 ”？](https://www.zhihu.com/question/409246699/answer/2765683082)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [发布于 2022-11-19]
 > Link:
 > Category: #【答集】/07-军事技术与艺术
-> Tag: #4-世界史/4C-军事
+> Tag: #5-社会科学/4-军事学/3-兵法与战术 
 > 评论区:
 > 泛讨论:
 

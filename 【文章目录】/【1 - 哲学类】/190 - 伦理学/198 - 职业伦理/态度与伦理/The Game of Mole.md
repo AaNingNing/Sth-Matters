@@ -1,11 +1,11 @@
 # The Game of Mole
 [怎样才算是尽力了?](https://www.zhihu.com/question/22510326/answer/2763399645)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-10-11]
 > Link: [[心安]]
 > Category: #【答集】/01-家族答集
-> Tag: #5-专题合集/合集1-概念与定义 #2-事业/2A-功夫/1-核心能力/学会计 #2-事业/2C-职业/1-态度与伦理
+> Tag: #_专题合集/合集1-概念与定义 #1-个人成长/5-核心能力/5e-数学与会计 #4-职业发展/1-态度与伦理
 > 评论区: [[评论区_The Game of Mole]]
 > 泛讨论:
 

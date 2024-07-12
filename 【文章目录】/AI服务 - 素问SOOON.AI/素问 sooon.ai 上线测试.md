@@ -1,11 +1,11 @@
 # 素问 sooon.ai 上线测试
 [素问 sooon.ai 上线测试](https://www.zhihu.com/pin/1628470702197186560)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [发布于 2023-04-09]
 > Link:
 > Category: #【答集】/06-未来科技
-> Tag: #6-其它/素问
+> Tag: #_其它/素问
 > 评论区:
 > 泛讨论:
 

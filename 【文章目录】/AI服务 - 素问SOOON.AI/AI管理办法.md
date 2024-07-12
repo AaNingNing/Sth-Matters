@@ -1,11 +1,11 @@
 # AI管理办法
 [网信办就《生成式人工智能服务管理办法（征求意见稿）》公开征求意见，哪些内容值得注意？将产生哪些影响？](https://www.zhihu.com/question/594908238/answer/2978979404)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-04-11]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI #6-其它/素问
+> Tag: #7-科学与技术/3-应用科学/人工智能 #_其它/素问
 > 评论区:
 > 泛讨论:
 

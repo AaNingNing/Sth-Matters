@@ -1,7 +1,7 @@
 # Gaze
 [男性的凝视是不是只是女性的想象？](https://www.zhihu.com/question/641081823/answer/3428251809)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-03-13]
 > Link:
 > Category: #【答集】/01-家族答集 #【答集】/03-第一性 

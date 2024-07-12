@@ -1,11 +1,11 @@
 # another
 [为什么年轻人不再以劳动为荣了？](https://www.zhihu.com/question/581996087/answer/2889123105)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-02-12]
 > Link:
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4A-社科/自然法
+> Tag: #5-社会科学/3-经济学/3d-劳工
 > 评论区:
 > 泛讨论:
 

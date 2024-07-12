@@ -1,11 +1,11 @@
 # RTX
 [如何看待 NVIDIA 中文官网删除 RTX 4090 相关内容？](https://www.zhihu.com/question/630550147/answer/3294634215)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-11-19]
 > Link:
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4A-社科/经贸
+> Tag: #5-社会科学/3-经济学/3c-经贸
 > 评论区:
 > 泛讨论:
 

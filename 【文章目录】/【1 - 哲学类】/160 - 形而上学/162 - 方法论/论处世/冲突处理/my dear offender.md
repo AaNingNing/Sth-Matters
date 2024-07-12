@@ -1,11 +1,11 @@
 # my dear offender
 [被人骂了，而且很难听该怎么办?](https://www.zhihu.com/question/391340889/answer/2910657630)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-07-03]
 > Link:
 > Category: #【答集】/01-家族答集
-> Tag: #1-家族/1B-处世/2-外务/2e-冲突处理 #1-家族/1C-安全/2-救助ta人 #3-信仰/3A-Caritas/2-慈善
+> Tag: #1-个人成长/3-处世之道/3g-冲突处理 #1-个人成长/3-处世之道/3a-人身安全/2-救助ta人 #_专题合集/合集6-个人信仰/A-Caritas/2-慈善
 > 评论区:
 > 泛讨论:
 

@@ -1,11 +1,11 @@
 # gap
 [为什么我们不被允许有gap year？](https://www.zhihu.com/question/593093174/answer/3267321026)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-10-28]
 > Link:
 > Category: #【答集】/01-家族答集
-> Tag: #2-事业/2C-职业/2-选择与规划
+> Tag: #4-职业发展/2-选择与规划
 > 评论区:
 > 泛讨论:
 

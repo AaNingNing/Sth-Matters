@@ -1,11 +1,11 @@
 # Jimmy要爱国
 [台湾人怎么看周处除三害在大陆火爆?](https://www.zhihu.com/question/647159751/answer/3421382548)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-03-07]
 > Link:
 > Category: #【答集】/04-社科答集 
-> Tag:  #4-世界史/4G-文娱/2-影视 
+> Tag:  #6-文化艺术/3-影视与戏剧 #5-社会科学/2-政治学/2d-地方政治/台湾 
 > 评论区:
 > 泛讨论:
 

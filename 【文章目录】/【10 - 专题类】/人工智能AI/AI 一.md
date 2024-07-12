@@ -1,11 +1,11 @@
 # AI 一
 [OpenAI 研究人员发文称「约 80% 美国人的工作将被 AI 影响」，如何看待这一观点？](https://www.zhihu.com/question/591002830/answer/2947430561)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-03-22]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI #2-事业/2C-职业/2-选择与规划
+> Tag: #7-科学与技术/3-应用科学/人工智能 #4-职业发展/2-选择与规划
 > 评论区:
 > 泛讨论:
 

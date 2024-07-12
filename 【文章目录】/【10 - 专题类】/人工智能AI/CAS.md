@@ -1,11 +1,11 @@
 # CAS
 [chatGPT 会带来失业潮吗？](https://www.zhihu.com/question/582933780/answer/2951269178)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-03-24]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #2-事业/2C-职业/2-选择与规划 #4-世界史/4E-科学技术/2-科技/AI
+> Tag: #4-职业发展/2-选择与规划 #7-科学与技术/3-应用科学/人工智能
 > 评论区:
 > 泛讨论:
 

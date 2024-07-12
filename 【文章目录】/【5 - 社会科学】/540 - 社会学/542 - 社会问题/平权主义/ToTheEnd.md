@@ -1,11 +1,11 @@
 # ToTheEnd
 [为什么有很多女孩相信"girls help girls"这种观点？](https://www.zhihu.com/question/536653100/answer/2543797753)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-06-25]
 > Link: [[不合理权]] [[应该不应该]] [[不生孩子]] [[平权]] [[BD象限不为空]]
 > Category: #【答集】/03-第一性
-> Tag: #1-家族/1E-两性/1-亲密关系/1a-交往准则/银子弹
+> Tag: #2-亲密关系/1-交往准则/1f-银子弹 #1-个人成长/5-核心能力/5c-学哲学/论平权 
 > 评论区:
 > 泛讨论:
 

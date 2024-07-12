@@ -1,11 +1,11 @@
 # my style
 [学美术一年多了，但是依旧找不到自己的画风该怎么办？](https://www.zhihu.com/question/613265666/answer/3130541537)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-07-22]
 > Link:
 > Category: #【答集】/08-文艺答集
-> Tag: #2-事业/2A-功夫/1-核心能力/学绘画 #4-世界史/4F-文艺/2-艺术
+> Tag: #6-文化艺术/4-技艺/绘画与设计 
 > 评论区:
 > 泛讨论:
 

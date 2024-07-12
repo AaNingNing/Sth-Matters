@@ -1,11 +1,11 @@
 # Island Hopper
 [「飞行汽车」首飞成功，深圳到珠海所需时间缩短至 20 分钟，如何看待新出行方式的出现？对此有哪些期待？](https://www.zhihu.com/question/646238164/answer/3413005329)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-02-29]
 > Link:
 > Category: #【答集】/05-科学答集 
-> Tag: #4-世界史/4E-科学技术/2-科技 
+> Tag: #7-科学与技术/3-应用科学/交通/汽车
 > 评论区:
 > 泛讨论:
 

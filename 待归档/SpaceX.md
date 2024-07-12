@@ -1,7 +1,7 @@
 # SpaceX
 [SpaceX 星舰第四次试飞成功，成功在印度洋溅落，此次试飞有哪些亮点？](https://www.zhihu.com/question/658266211/answer/3523063629)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-06-07]
 > Link:
 > Category: [最近更新]

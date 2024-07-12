@@ -1,11 +1,11 @@
 # 抵制Nike
 [大家会抵制Nike吗？](https://www.zhihu.com/question/451104022/answer/1808972837)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-03-31]
 > Link: [[时尚品味]] [[时尚与fashion]]
 > Category: #【答集】/04-社科答集
-> Tag: #5-专题合集/合集2-一些推荐 #1-家族/1A-内外/1-内在建设/1c-品味
+> Tag: #_专题合集/合集2-一些推荐 #1-个人成长/2-外在管理/2d-衣饰美容 
 > 评论区:
 > 泛讨论:
 

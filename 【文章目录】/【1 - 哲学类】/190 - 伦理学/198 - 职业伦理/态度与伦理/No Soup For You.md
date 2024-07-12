@@ -1,11 +1,11 @@
 # No Soup For You
 [张雪峰回应「文科都是服务业」，称「做服务业没有不好，我是提醒以为某些专业高大上的人」，如何看待此事？](https://www.zhihu.com/question/634065846/answer/3325844037)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-12-15]
 > Link:
 > Category: #【答集】/04-社科答集 
-> Tag: #2-事业/2C-职业/1-态度与伦理 
+> Tag: #4-职业发展/1-态度与伦理 
 > 评论区:
 > 泛讨论: 
 

@@ -1,7 +1,7 @@
 # God Father
 [美议员再提封禁 TikTok 法案，要求字节跳动在 165 天内剥离 TikTok，具体情况如何？](https://www.zhihu.com/question/647591058/answer/3423795827)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-03-09]
 > Link:
 > Category: #【答集】/04-社科答集 

@@ -1,11 +1,11 @@
 # GDP
 [GDP为什么一定要增长？](https://www.zhihu.com/question/299080438/answer/544521904)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-05-19]
 > Link: [[计划经济]] [[杀死美国经济]]
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4A-社科
+> Tag: #5-社会科学/3-经济学/3c-经贸
 > 评论区:
 > 泛讨论:
 

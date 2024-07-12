@@ -1,11 +1,11 @@
 # FURY
 [一个人的狂怒能有多可怕？](https://www.zhihu.com/question/266645399/answer/1969210271)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-06-29]
 > Link: [[怒的边界]] [[制怒]] [[戒色]] [[习惯]]
 > Category: #【答集】/01-家族答集
-> Tag: #4-世界史/4D-历史 #1-家族/1A-内外/1-内在建设/1b-修养
+> Tag: #1-个人成长/4-心理与疗愈/4a-情绪与心态 
 > 评论区:
 > 泛讨论:
 

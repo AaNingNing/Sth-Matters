@@ -1,11 +1,11 @@
 # BetterWay
 [何小鹏称「若供应链企业无法找到复产方式，中国所有整车厂或将停工」，会有哪些影响？](https://www.zhihu.com/question/527966984/answer/2443198821)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-04-18]
 > Link:
 > Category: #【答集】/04-社科答集
-> Tag: #5-专题合集/合集3-Covid新冠 #2-事业/2D-企管/2-经营案例
+> Tag: #_专题合集/合集3-Covid新冠 #4-职业发展/6-经营案例
 > 评论区:
 > 泛讨论:
 

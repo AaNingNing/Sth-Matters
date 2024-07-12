@@ -1,7 +1,7 @@
 # 踢出SWIFT
 [如果中国被踢出SWIFT系统，我们可以采取哪些对策呢？](https://www.zhihu.com/question/653969662/answer/3479962012)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-04-27]
 > Link:
 > Category: #【答集】/13-百年未有之变局 

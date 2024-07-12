@@ -1,11 +1,11 @@
 # The Signal
 [中国天眼发现地外文明可疑信号，相关团队正进一步排查，信号如被证实存在这将意味着什么？](https://www.zhihu.com/question/537647710/answer/2529055091)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-10-17]
 > Link: [[看见外星人]] [[自然法]] [[宇宙战争]] [[UFO]]
 > Category: #【答集】/08-文艺答集 #【答集】/05-科学答集
-> Tag: #4-世界史/4E-科学技术/2-科技
+> Tag: #7-科学与技术/2-自然科学/宇宙
 > 评论区:
 > 泛讨论:
 

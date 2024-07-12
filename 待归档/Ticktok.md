@@ -1,7 +1,7 @@
 # Ticktok
 [美众议院决定本周三就 TikTok「二选一」法案投票，或致这款应用在美下架，TikTok 将何去何从？](https://www.zhihu.com/question/648325208/answer/3429625778)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-03-14]
 > Link:
 > Category: #【答集】/04-社科答集 

@@ -1,11 +1,11 @@
 # Billions
 [官方通报北极鲶鱼事件，深圳市原交通局货运管理分局局长被开除党籍并收缴其违纪违法所得，哪些信息值得关注？](https://www.zhihu.com/question/625433269/answer/3244814726)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-10-11]
 > Link:
 > Category: #【答集】/04-社科答集 #【答集】/08-文艺答集
-> Tag: #4-世界史/4A-社科
+> Tag: #5-社会科学/2-政治学/2c-中国政治
 > 评论区:
 > 泛讨论:
 

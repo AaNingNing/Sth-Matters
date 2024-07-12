@@ -1,11 +1,11 @@
 # 为国捐躯pro
 [如何看待泽连斯基表示「我不想做英雄，但也已准备好为国捐躯」，透露出哪些信息？](https://www.zhihu.com/question/527319101/answer/2435004635)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-04-12]
 > Link: [[泽连斯基 1]] [[木偶人]]
 > Category: #“就你机灵”系列
-> Tag: #6-其它/杂论
+> Tag: #_其它/杂论
 > 评论区:
 > 泛讨论:
 

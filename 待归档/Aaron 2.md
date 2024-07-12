@@ -1,11 +1,11 @@
 # Aaron
 [美媒「一男子在以色列驻美大使馆外自焚，目前情况危急」，如何看待此事？事件调查进展如何？](https://www.zhihu.com/question/645880901/answer/3411158442)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-02-27]
 > Link:
 > Category: #【答集】/04-社科答集 
-> Tag: #3-信仰/3C-宗教 
+> Tag: #_专题合集/合集6-个人信仰/C-宗教 
 > 评论区:
 > 泛讨论:
 

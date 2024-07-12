@@ -1,11 +1,11 @@
 # LetMoneyTalk
 [土耳其支持芬兰加入北约，决定开始启动相关程序，芬兰若加入北约意味着什么？如何解读土耳其此举？](https://www.zhihu.com/question/590332731/answer/2942378129)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-03-18]
 > Link:
 > Category: #【答集】/13-百年未有之变局
-> Tag: #4-世界史/4B-政治/外交
+> Tag: #5-社会科学/2-政治学/2g-国际关系/各国发展/北欧
 > 评论区:
 > 泛讨论:
 

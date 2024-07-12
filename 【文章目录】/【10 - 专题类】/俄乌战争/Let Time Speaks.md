@@ -1,11 +1,11 @@
 # Let Time Speaks
 [为什么国内一堆军事博主对俄乌战争走向的判断还不如马前卒一个自媒体人靠谱？](https://www.zhihu.com/question/561317056/answer/3325572380)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-12-14]
 > Link:
 > Category: #【答集】/13-百年未有之变局 
-> Tag: #5-专题合集/合集4-俄乌战争 #2-事业/2A-功夫/1-核心能力/信源管理 
+> Tag: #_专题合集/合集4-俄乌战争 #5-社会科学/4-军事学/4-情报分析 
 > 评论区:
 > 泛讨论:
 

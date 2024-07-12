@@ -1,11 +1,11 @@
 # GPT-4
 [GPT-4 将于下周公布，多模态模型，可支持视频，百度「文心一言」下周也将发布，哪些信息值得关注？](https://www.zhihu.com/question/588714203/answer/2930530809)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-03-10]
 > Link:
 > Category: #【答集】/06-未来科技
-> Tag: #4-世界史/4E-科学技术/2-科技/AI
+> Tag: #7-科学与技术/3-应用科学/人工智能
 > 评论区:
 > 泛讨论:
 

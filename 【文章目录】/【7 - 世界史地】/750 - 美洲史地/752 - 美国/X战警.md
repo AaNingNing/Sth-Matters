@@ -1,11 +1,11 @@
 # X战警
 [现在的美国能打赢胡塞武装吗？](https://www.zhihu.com/question/635495212/answer/3338998409)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-12-26]
 > Link:
 > Category: #【答集】/01-家族答集 #【答集】/07-军事技术与艺术 
-> Tag: #4-世界史/4B-政治/博弈 
+> Tag: #5-社会科学/2-政治学/2g-国际关系/各国发展/美国
 > 评论区:
 > 泛讨论:
 

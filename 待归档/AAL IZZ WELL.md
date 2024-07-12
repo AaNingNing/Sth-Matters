@@ -1,7 +1,7 @@
 # AAL IZZ WELL
 [复旦大学中国俄罗斯问题专家冯玉军认为俄必败，你认为他说的对吗？](https://www.zhihu.com/question/653154291/answer/3470588841)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-04-18]
 > Link:
 > Category: #【答集】/01-家族答集 

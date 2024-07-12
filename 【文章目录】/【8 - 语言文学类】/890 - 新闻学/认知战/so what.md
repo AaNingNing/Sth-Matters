@@ -1,11 +1,11 @@
 # so what
 [如何评价谣言“吴京艾滋”？](https://www.zhihu.com/question/644446788/answer/3399427613)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-02-18]
 > Link:
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4C-军事/2-兵法与战术/认知战 
+> Tag: #6-文化艺术/2-语言文学/2b-新闻学/认知战 
 > 评论区:
 > 泛讨论:
 

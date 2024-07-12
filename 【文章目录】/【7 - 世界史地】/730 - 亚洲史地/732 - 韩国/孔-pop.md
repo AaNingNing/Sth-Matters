@@ -1,11 +1,11 @@
 # 孔-pop
 [为什么韩国邪教特别多？](https://www.zhihu.com/question/52257294/answer/3067257766)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-06-10]
 > Link:
 > Category: #【答集】/04-社科答集 #【答集】/08-文艺答集
-> Tag: #3-信仰/3C-宗教 #4-世界史/4A-社科
+> Tag: #_专题合集/合集6-个人信仰/C-宗教 #5-社会科学/2-政治学/2g-国际关系/各国发展/韩国 
 > 评论区:
 > 泛讨论:
 

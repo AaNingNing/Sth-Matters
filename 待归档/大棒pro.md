@@ -1,7 +1,7 @@
 # 大棒pro
 [带了一个「心比天高」的职场新人，还爱怼我，有什么好方法应对？](https://www.zhihu.com/question/658504391/answer/3541799254)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-06-25]
 > Link:
 > Category: #【答集】/02-企管答集 

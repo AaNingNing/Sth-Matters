@@ -1,11 +1,11 @@
 # IT装备解决方案
 [为什么很多公司配的笔记本都特别渣？](https://www.zhihu.com/question/545253024/answer/3348082671)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [发布于 2024-01-03]
 > Link:
 > Category: #【答集】/02-企管答集 
-> Tag: #2-事业/2E-创业 #2-事业/2D-企管/1-管理者素质 
+> Tag: #4-职业发展/5-创业 #4-职业发展/4-管理者素质 
 > 评论区:
 > 泛讨论:
 

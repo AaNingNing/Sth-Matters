@@ -1,11 +1,11 @@
 # super power
 [以现在中国的综合国力，能否称得上超级大国？](https://www.zhihu.com/question/390281202/answer/3128994147)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-07-21]
 > Link:
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4A-社科 #5-专题合集/合集1-概念与定义
+> Tag: #_专题合集/合集1-概念与定义 #5-社会科学/2-政治学/2c-中国政治 
 > 评论区:
 > 泛讨论:
 

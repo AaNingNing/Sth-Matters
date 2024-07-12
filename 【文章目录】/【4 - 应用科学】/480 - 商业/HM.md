@@ -1,11 +1,11 @@
 # HM
 [如何看待 H&M 在「禁用新疆棉花」一事后，疑似遭淘宝等多个电商平台下架？](https://www.zhihu.com/question/451051189/answer/1798289573)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-05-16]
 > Link: [[时尚品味]] [[时尚与fashion]] [[品牌]]
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4A-社科
+> Tag: #1-个人成长/2-外在管理/2d-衣饰美容 
 > 评论区:
 > 泛讨论:
 

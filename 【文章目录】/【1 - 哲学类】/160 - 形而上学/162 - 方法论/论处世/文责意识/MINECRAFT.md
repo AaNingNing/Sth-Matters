@@ -1,11 +1,11 @@
 # MINECRAFT
 [为什么感觉最近的氛围是神友赢麻了?](https://www.zhihu.com/question/487726983/answer/2139768368)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: *30/09/2021*
 > Link: [[信源管理]] [[年轻并不好]] [[傲慢]] [[傲慢之路]] [[气泡膜]] [[躺平]] [[戒阴阳怪气]] [[Circle-Of-Shame]]
 > Category: #【答集】/04-社科答集
-> Tag: #1-家族/1B-处世/2-外务/2d-文责意识
+> Tag: #1-个人成长/3-处世之道/3c-文责意识
 > 评论区:
 > 泛讨论:
 

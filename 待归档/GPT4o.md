@@ -1,7 +1,7 @@
 # GPT4o
 [GPT-4o 实时语音交流「秒懂」人类情感，电影《Her》的故事会成真吗？](https://www.zhihu.com/question/655917209/answer/3504803318)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-05-21]
 > Link:
 > Category: #【答集】/14-人与智能 

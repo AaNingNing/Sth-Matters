@@ -1,11 +1,11 @@
 # kintana moro
 [如何评价知乎用户 @kintana moro？](https://www.zhihu.com/question/30074326/answer/615067344)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2019-03-09]
 > Link:
 > Category: #【答集】/04-社科答集
-> Tag: #4-世界史/4A-社科
+> Tag: #6-文化艺术/5-文化娱乐/自媒体 
 > 评论区:
 > 泛讨论:
 

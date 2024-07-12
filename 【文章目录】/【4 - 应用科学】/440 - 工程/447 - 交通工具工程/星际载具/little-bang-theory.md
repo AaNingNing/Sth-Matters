@@ -1,11 +1,11 @@
 # little-bang-theory
 [假设宇宙飞船在以百分之一的光速飞行，在飞行过程中遇到了一个静止钨元素为主的小陨石？当前材料是否能防护？](https://www.zhihu.com/question/597646532/answer/3000584911)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-04-25]
 > Link:
 > Category: #【答集】/06-未来科技
-> Tag: #4-世界史/4E-科学技术/2-科技
+> Tag: #7-科学与技术/3-应用科学/交通/其它载具 
 > 评论区:
 > 泛讨论:
 

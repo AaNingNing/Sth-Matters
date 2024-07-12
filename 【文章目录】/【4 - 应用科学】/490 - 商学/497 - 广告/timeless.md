@@ -1,11 +1,11 @@
 # timeless
 [日产汽车提出的「永恒的日式未来主义」设计理念，应该如何理解？](https://www.zhihu.com/question/527575542/answer/2438172463)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-07-06]
 > Link:
 > Category: #【答集】/08-文艺答集
-> Tag: #2-事业/2D-企管/2-经营案例 #2-事业/2A-功夫/1-核心能力/学语言
+> Tag: #4-职业发展/6-经营案例 #6-文化艺术/2-语言文学/2a-语言学总论 
 > 评论区:
 > 泛讨论:
 

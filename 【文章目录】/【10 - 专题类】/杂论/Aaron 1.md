@@ -1,11 +1,11 @@
 # Aaron
 [如何看待美国空军现役军人Aaron Bushnell在以色列驻美大使馆前为声援巴勒斯坦自焚抗议？](https://www.zhihu.com/question/645864475/answer/3410659211)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-02-27]
 > Link:
 > Category: #【答集】/04-社科答集 
-> Tag: #6-其它/杂论 
+> Tag: #_其它/杂论 
 > 评论区:
 > 泛讨论:
 

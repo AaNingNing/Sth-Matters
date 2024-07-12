@@ -1,11 +1,11 @@
 # SOP
 [如何才能做出一碗美味的蛋羹？](https://www.zhihu.com/question/315035483/answer/1789846187)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-05-15]
 > Link: [[能力]] [[学习的快乐]] [[做计划]] [[拖拉机]]
 > Category: #【答集】/01-家族答集
-> Tag: #2-事业/2A-功夫/1-核心能力/做计划 #2-事业/2A-功夫/2-拓展能力/厨艺
+> Tag: #1-个人成长/5-核心能力/5f-做计划 #3-家庭伦理/1-家庭管理/1e-饮食烹饪 
 > 评论区: [[评论区_SOP]]
 > 泛讨论:
 
@@ -357,4 +357,4 @@
 
 ![](https://pic1.zhimg.com/50/v2-251a41591c129df98810b51cec51499a_hd.jpg?source=1940ef5c)
 
-#6-其它/未完待续TBC
+#_其它/未完待续TBC

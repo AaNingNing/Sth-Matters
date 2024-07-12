@@ -1,11 +1,11 @@
 # 可信的ai服务
 [什么是「可信  AI」？有哪些用途？](https://www.zhihu.com/question/510142161/answer/2989954457)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-04-18]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI #6-其它/素问
+> Tag: #7-科学与技术/3-应用科学/人工智能 #_其它/素问
 > 评论区:
 > 泛讨论:
 

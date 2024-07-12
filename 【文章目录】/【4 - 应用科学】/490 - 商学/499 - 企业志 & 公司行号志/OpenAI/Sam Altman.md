@@ -1,11 +1,11 @@
 # Sam Altman
 [如何评价OpenAI CEO Sam Altman所写《万物摩尔定律》？](https://www.zhihu.com/question/470203851/answer/3298272649)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-11-22]
 > Link:
 > Category:  #【答集】/14-人与智能 #【答集】/02-企管答集
-> Tag: #2-事业/2D-企管/1-管理者素质
+> Tag: #4-职业发展/4-管理者素质
 > 评论区:
 > 泛讨论:
 

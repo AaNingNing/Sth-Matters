@@ -1,11 +1,11 @@
 # Unity
 [在UE里的模型，在边缘处会有这种高亮，请问是咋实现的？在Unity里用什么方法可以实现？](https://www.zhihu.com/question/467883161/answer/1962634796)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-06-26]
 > Link: [[高管写代码]]
 > Category: #【答集】/05-科学答集
-> Tag: #4-世界史/4E-科学技术/2-科技 #5-专题合集/合集2-一些推荐
+> Tag: #7-科学与技术/3-应用科学/工程/软件 
 > 评论区:
 > 泛讨论:
 

@@ -1,11 +1,11 @@
 # ai的权利
 [如果ai具有与人相似的意识，那么ai能不能进化成人，并且拥有人类同等的权利?](https://www.zhihu.com/question/626746531/answer/3298913163)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-11-23]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI
+> Tag: #7-科学与技术/3-应用科学/人工智能
 > 评论区:
 > 泛讨论:
 

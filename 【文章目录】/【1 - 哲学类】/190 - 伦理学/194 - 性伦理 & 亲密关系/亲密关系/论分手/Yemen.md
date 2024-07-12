@@ -1,11 +1,11 @@
 # Yemen
 [如何体面的结束一段感情？](https://www.zhihu.com/question/294412231/answer/2180850450)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2021-10-21]
 > Link: [[爱]] [[生离死别]]
 > Category: #【答集】/03-第一性
-> Tag: #5-专题合集/合集2-一些推荐 #1-家族/1E-两性/1-亲密关系/1b-交往案例/分手
+> Tag: #_专题合集/合集2-一些推荐 #2-亲密关系/2-交往案例/2c-论分手
 > 评论区:
 > 泛讨论:
 

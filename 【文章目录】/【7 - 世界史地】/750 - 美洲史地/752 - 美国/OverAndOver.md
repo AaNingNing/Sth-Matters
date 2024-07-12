@@ -1,11 +1,11 @@
 # OverAndOver
 [巴基斯坦多个城市爆发大规模抗议，有哪些信息值得关注？](https://www.zhihu.com/question/525966847/answer/2434991542)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-04-12]
 > Link:
 > Category: #【答集】/13-百年未有之变局
-> Tag: #4-世界史/4B-政治
+> Tag: #5-社会科学/2-政治学/2g-国际关系/各国发展/南亚与印度 
 > 评论区:
 > 泛讨论:
 

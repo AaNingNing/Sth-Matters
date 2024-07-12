@@ -1,11 +1,11 @@
 # autogpt
 [AutoGPT 是什么？它有哪些应用场景？](https://www.zhihu.com/question/595359852/answer/2987136199)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-04-17]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI
+> Tag: #7-科学与技术/3-应用科学/人工智能
 > 评论区:
 > 泛讨论:
 

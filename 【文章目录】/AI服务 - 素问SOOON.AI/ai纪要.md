@@ -1,11 +1,11 @@
 # ai纪要
 [飞书推出智能 AI 助手「My AI」，能够自动汇总会议纪要等，对此你有哪些期待？](https://www.zhihu.com/question/594980453/answer/2980072119)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2023-04-12]
 > Link:
 > Category:  #【答集】/14-人与智能
-> Tag: #4-世界史/4E-科学技术/2-科技/AI #6-其它/素问
+> Tag: #7-科学与技术/3-应用科学/人工智能 #_其它/素问
 > 评论区:
 > 泛讨论:
 

@@ -1,11 +1,11 @@
 # VENI VIDI VICI
 [C919 全球首架机正式交付，有望最早于 2023 年春投入商业载客运营，具有哪些重要意义？](https://www.zhihu.com/question/570769858/answer/2791196124)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-12-08]
 > Link: [[奢侈品]] [[人才流失]] [[招工人]]
 > Category: #【答集】/06-未来科技
-> Tag: #4-世界史/4E-科学技术/2-科技
+> Tag: #7-科学与技术/3-应用科学/交通/飞机 
 > 评论区:
 > 泛讨论:
 

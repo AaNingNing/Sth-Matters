@@ -1,11 +1,11 @@
 #  the Cost
 [the Cost](https://zhuanlan.zhihu.com/p/492800664)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [发布于 2022-04-04]
 > Link:
 > Category: #【答集】/13-百年未有之变局
-> Tag: #4-世界史/4B-政治
+> Tag: #_专题合集/合集4-俄乌战争 
 > 评论区:
 > 泛讨论:
 

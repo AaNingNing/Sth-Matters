@@ -1,11 +1,11 @@
 # Follow the money
 [乌方称「俄军轰炸一家运作中的妇产医院 」，却被俄国防部否认，目前当地情况如何？](https://www.zhihu.com/question/521154275/answer/2384990036)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2022-03-12]
 > Link: [[MoneyTalk]]
 > Category: #【答集】/13-百年未有之变局
-> Tag: #2-事业/2A-功夫/1-核心能力/信源管理 #2-事业/2B-投资
+> Tag: #1-个人成长/5-核心能力/5b-学逻辑/信源管理 #1-个人成长/5-核心能力/5g-学投资
 > 评论区:
 > 泛讨论:
 

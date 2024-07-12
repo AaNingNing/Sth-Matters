@@ -1,7 +1,7 @@
 # MUST BE MY WAY
 [如果让你为了天下苍生，放弃最重要的东西，你会同意吗？](https://www.zhihu.com/question/568846211/answer/3430455174)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-03-14]
 > Link:
 > Category: #【答集】/01-家族答集 

@@ -1,11 +1,11 @@
 # Reason of Beauty
 [女生去健身房练屁股是为了什么？](https://www.zhihu.com/question/350108687/answer/3351355881)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-01-06]
 > Link:
 > Category: #【答集】/01-家族答集 #【答集】/08-文艺答集 
-> Tag: #1-家族/1A-内外/2-外在管理/2a-身体健康 
+> Tag: #1-个人成长/2-外在管理/2a-身心健康 
 > 评论区:
 > 泛讨论:
 
