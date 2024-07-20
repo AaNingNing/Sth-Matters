@@ -1,2 +1,8 @@
+
+# 忽略 Obsidian 配置文件
+.obsidian/app.json
+.obsidian/workspace.json
+
+# 忽略 macOS 系统文件
 .DS_Store
 **/.DS_Store
