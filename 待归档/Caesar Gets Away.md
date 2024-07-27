@@ -1,7 +1,7 @@
 # Caesar Gets Away
 [孩子在与同伴发生争执或冲突时，总是选择逃避或退缩，我该如何引导她学会解决问题？](https://www.zhihu.com/question/650173262/answer/3561078173)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-07-14]
 > Link:
 > Category: #【答集】/01-家族答集 
