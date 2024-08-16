@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待归档/乱发脾气.md",
+                "file": "【文章目录】/【4 - 应用科学】/420 - 家政/422 - 居住环境/内部环境/循环买卖.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-个人成长/5-核心能力",
+                "query": "file:循环买卖",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待归档/乱发脾气.md",
+                "file": "【文章目录】/【4 - 应用科学】/420 - 家政/422 - 居住环境/内部环境/循环买卖.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +143,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "727ef7e1831ef234",
+  "active": "7e9e16b12ecf5fd6",
   "lastOpenFiles": [
-    "待归档/关于应对子女抑郁的一种系统方法.md",
     "待归档/乱发脾气.md",
+    "待归档/关于应对子女抑郁的一种系统方法.md",
     "【文章目录】/【5 - 社会科学】/570 - 政治/573 - 中国政治制度/买菜群.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/197 - 生命伦理学/养老问题/临终关怀.md",
     "【文章目录】/【5 - 社会科学】/540 - 社会学/546 - 社会阶层及组织/中产.md",
