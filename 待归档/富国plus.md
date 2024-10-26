@@ -1,8 +1,8 @@
-# 真正富有
+# 富国plus
 [胡润报告称中国千万资产家庭达 208 万户，拥有亿元资产的家庭达 13.3 万户，哪些信息值得关注？](https://www.zhihu.com/question/649232756/answer/3437952073)
 
 > Author: #Anonymity
-> Last update: [编辑于 2024-03-21]
+> Last update: [编辑于 2024-10-22]
 > Link:
 > Category: #【答集】/04-社科答集 
 > Tag: 

@@ -1,8 +1,8 @@
-# 智能风口
+# GPT风口
 [ChatGPT 这个风口，普通人怎么抓住？](https://www.zhihu.com/question/582326598/answer/2883095452)
 
 > Author: #Anonymity
-> Last update: [编辑于 2023-02-08]
+> Last update: [编辑于 2024-10-22]
 > Link:
 > Category:  #【答集】/14-人与智能
 > Tag: #7-科学与技术/3-应用科学/人工智能 #4-职业发展/1-态度与伦理
