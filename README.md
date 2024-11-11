@@ -306,29 +306,21 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 ### 优秀学习资源
 
+#### 实操分享：
 
-####  有声&视频：
+【善哉】[善哉集](https://www.zhihu.com/collection/913519589)
 
-【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
+【补强】[Vanora - 补强实操分享](https://www.zhihu.com/column/c_1816235037525409792)
 
-【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
+#### 文字整理：
 
-【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
+【App】[Caritas 一叶心舟](https://www.zhihu.com/people/81-62-57-92)
 
-【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+【App】 [大卫 - Caritas 3.0](https://zhuanlan.zhihu.com/p/617158917)
 
-【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
- 
-【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
+【App】 [idealclover - Caritas 2.0](https://zhuanlan.zhihu.com/p/556201282)
 
-
-#### 文字类：
-
-【App】 [大卫 - Caritas App3.0](https://zhuanlan.zhihu.com/p/617158917)
-
-【App】 [idealclover - Caritas APP2.0](https://zhuanlan.zhihu.com/p/556201282)
-
-【App】 [大卫 - Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619)
+【App】 [大卫 - Caritas 1.0](https://zhuanlan.zhihu.com/p/488034619)
 
 【网站】[Last Resort](https://link.zhihu.com/?target=https%3A//obhistorican.blogspot.com/)
 
@@ -430,7 +422,20 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
 
-To be continued.
+
+####  有声&视频：
+
+【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
+
+【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
+
+【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
+
+【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+
+【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
+ 
+【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
 
 ---
 
