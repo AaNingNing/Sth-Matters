@@ -1,7 +1,7 @@
 # A VERY EDUCATED GUESS
 [为什么妈妈说这件衣服是吧台小姐穿的？](https://www.zhihu.com/question/2975291413/answer/25722688707)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-11-08]
 > Link:
 > Category: #【答集】/01-家族答集 #【答集】/03-第一性
