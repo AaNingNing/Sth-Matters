@@ -318,6 +318,8 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 
 【心得】[Vanora - 补强实操分享](https://www.zhihu.com/column/c_1816235037525409792)
 
+【心得】[知耻而后勇 - 把9adgq的补强理论完善了](https://zhuanlan.zhihu.com/p/721927676?utm_psn=1843151783276470272)
+
 【心得】[语素 - 以蜗牛的速度，坚定迈向爱与可持续](https://zhuanlan.zhihu.com/p/6739947264?utm_psn=1840613864137433088)
 
 
