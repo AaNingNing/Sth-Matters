@@ -28,7 +28,228 @@ Obsidian作为一款实用的笔记软件，其魅力在于构建知识间的可
 - 笔记内文章[音频版]下载: https://github.com/idealclover/Sth-Matters-Audio
 
 ---
+## 相关学习资料
+### 官方合集
 
+【在线自助AI服务】素问SOOON.AI - [素问 sooon.ai Q&A](https://zhuanlan.zhihu.com/p/620744835)
+
+【文章备份】[GitHub - itrewub/jh-notes](https://link.zhihu.com/?target=https%3A//github.com/itrewub/jh-notes)
+
+【爱发电】[爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.net/a/johnhexa?tab=feed)
+
+【答集】[家族答集](https://www.zhihu.com/collection/378738313)
+
+【答集】[社科答集](https://www.zhihu.com/collection/304176992)
+
+【答集】[企管答集](https://www.zhihu.com/collection/378738376)
+
+【答集】[第一性](https://www.zhihu.com/collection/369876193)
+
+【答集】[百年未有之变局](https://www.zhihu.com/collection/787300206)
+
+【温故知新】 [答案轮播](https://www.zhihu.com/collection/810750890)
+
+【值得一读】[一条阅读轨迹](https://www.zhihu.com/collection/163594245)
+
+---
+#### 素问服务相关
+[素问 - 代问服务](https://zhuanlan.zhihu.com/p/637257507)
+
+---
+
+### 优秀学习资源
+
+#### 实操分享：
+
+【善哉】[善哉集](https://www.zhihu.com/collection/913519589)
+
+【心得】[Vanora - 补强实操分享](https://www.zhihu.com/column/c_1816235037525409792)
+
+【心得】[知耻而后勇 - 把9adgq的补强理论完善了](https://zhuanlan.zhihu.com/p/721927676?utm_psn=1843151783276470272)
+
+【心得】[语素 - 以蜗牛的速度，坚定迈向爱与可持续](https://zhuanlan.zhihu.com/p/6739947264?utm_psn=1840613864137433088)
+
+
+#### 综合类：
+
+【App】[一叶心舟 - Caritas App最新版本](https://www.zhihu.com/people/81-62-57-92/pins)
+
+【App】 [大卫 - Caritas App3.0]([大卫：Caritas App 3.0](https://zhuanlan.zhihu.com/p/617158917))
+
+【App】 [idealclover - Caritas APP2.0]([idealclover：Caritas APP 2.0 版本发布](https://zhuanlan.zhihu.com/p/556201282))
+
+【App】 [大卫 - Caritas App1.0]([大卫：Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619))
+
+
+####  有声&视频：
+
+【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
+
+【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
+
+【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
+
+【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+
+【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
+ 
+【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
+
+
+#### 文字整理：
+
+【App】[Caritas 一叶心舟](https://www.zhihu.com/people/81-62-57-92)
+
+【App】 [大卫 - Caritas 3.0](https://zhuanlan.zhihu.com/p/617158917)
+
+【App】 [idealclover - Caritas 2.0](https://zhuanlan.zhihu.com/p/556201282)
+
+【App】 [大卫 - Caritas 1.0](https://zhuanlan.zhihu.com/p/488034619)
+
+【网站】[Last Resort](https://link.zhihu.com/?target=https%3A//obhistorican.blogspot.com/)
+
+【网站】 [张慕晖 - Note Reader](https://link.zhihu.com/?target=https%3A//jh-reader.github.io/)
+
+【公众号】[鱼丸粗面 - 欢迎大家关注公众号【Karitas】](https://zhuanlan.zhihu.com/p/607481192)
+
+【词典】[六朝声 - 词典《语词的辨析与使用》](https://www.zhihu.com/pin/1731348988693958657)
+
+【分类】[茶芒 - 文章备份工作打卡贴](https://zhuanlan.zhihu.com/p/563624303)
+
+【分类】[茶芒 - 中文图书分类法](https://zhuanlan.zhihu.com/p/625684969)
+
+【分类】 [水木长情 - 使用说明书（主体完工）](https://zhuanlan.zhihu.com/p/625067241)
+
+【目录】[鱼丸粗面 - 回答目录整理](https://zhuanlan.zhihu.com/p/616482557)
+
+【目录】[林思 - 回答链接汇总](https://www.zhihu.com/pin/1622022306473066497)
+
+【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
+
+【Markdown笔记】[世外逃员 - 个人成长内容库（延续浮灯版）](https://zhuanlan.zhihu.com/p/600612487)
+
+【PDF笔记】 [林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+
+【Word笔记】 [流水浮灯 & Nnpxg2 - 个人成长内容库](https://zhuanlan.zhihu.com/p/461954872)
+
+【Docx/PDF/EPUB/MOBI】[广场台灯 - 合集打印版](https://zhuanlan.zhihu.com/p/586168733)
+
+【Docx/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
+
+【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
+
+【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
+
+【摘抄】[用户o3665p -  我的泡椒凤爪寿司: 一位知乎答主的回答摘录（2017-2023)](https://zhuanlan.zhihu.com/p/660404554)
+
+【摘抄】[南山南山南 - Caritas海报汇总](https://zhuanlan.zhihu.com/p/600095622)
+
+【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
+
+【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
+
+【摘抄】[世外逃员 - 高频文章 - 名词科普·常识拓展](https://zhuanlan.zhihu.com/p/626408626)
+
+【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
+
+【专题阅读】[pfkfu - 文章串联](https://zhuanlan.zhihu.com/p/654259861)
+
+【专题阅读】[木知 - 专题收藏夹整理](https://zhuanlan.zhihu.com/p/648830102)
+
+【专题阅读】 [鱼丸粗面 - 专题整理](https://www.zhihu.com/collection/925912729)
+
+【专题阅读】 [Richard - 专题阅读合集](https://zhuanlan.zhihu.com/p/613373131)
+
+【专题阅读】[开心 - 亲子关系：最好的陌生人](https://zhuanlan.zhihu.com/p/650628996)
+
+【专题阅读】[安之 - 财富专题汇总 ](https://zhuanlan.zhihu.com/p/664813766)
+
+【专题阅读】[安之 - 礼专题汇总](https://zhuanlan.zhihu.com/p/664744501)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | COVID-19 Pandemic](https://cowtransfer.com/s/f366279e6dd647)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | 亲子关系](https://zhuanlan.zhihu.com/p/563069554)
+
+【专题阅读】 [烟雨行船 - 专题阅读 | "拆弹"/"排雷”小册子](https://zhuanlan.zhihu.com/p/563034125)
+
+【专题阅读】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
+
+【专题研究】 [疗愈艺术 - 手绘长直线研究中心](https://www.zhihu.com/collection/821986940)
+
+【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
+
+【拓展阅读】[青475 - 全科学习参考资料](https://zhuanlan.zhihu.com/p/619314597)
+
+【核心能力】[夫见 - 核心能力训练合集](https://www.zhihu.com/column/c_1405957234203062272)
+
+【核心能力】 [烟雨行船 - “冬眠”不完全指南](https://zhuanlan.zhihu.com/p/523764249)
+
+【核心能力】 [烟雨行船 - Notes‘ notes](https://zhuanlan.zhihu.com/p/523762857)
+
+【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
+
+【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
+
+【想法 & 评论区】 [夫见 - 回答摘录132条总分享](https://zhuanlan.zhihu.com/p/596667607)
+
+【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
+
+【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
+
+【想法 & 评论区】[Rectangle - 想法过滤](https://www.zhihu.com/collection/855914677)
+
+【想法 & 评论区】[用户o3665p - 我的泡椒凤爪寿司：一位知乎答主的想法摘录118条](https://zhuanlan.zhihu.com/p/660393226)
+
+【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
+
+【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
+
+【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
+
+
+####  有声&视频：
+
+【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
+
+【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
+
+【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
+
+【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
+
+【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
+ 
+【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
+
+---
+
+## 安装 & 使用说明
+
+##### Step 1. 下载文件
+方法一：GitHub - Sth Matters，点击Code - Download ZIP，下载后解压缩得到文件夹一个
+
+方法二：需要追更的小伙伴建议阅读一下链接内教程，学习使用Github的克隆功能来进行文档同步。
+https://zhuanlan.zhihu.com/p/380200295
+
+##### Step 2. 自行搜索并下载Obsidian，打开后点击Setting进行基础设置：
+ - Editor： Spell check
+ - Core Plugins：Tag Pane, Page Preview, Starred
+ - Files & Links：Automatically update internal links
+ - Appearance: Theme - 建议Night Owl或者Cybertron
+ - 其他设置请依个人喜好酌情处理
+
+##### Step 3. Obsidian - Open folder as Vault 
+选择解压后的文件夹，现在你看到的就是笔记内容了。
+
+![[Screen Shot 2022-06-10 at 19.46.01.png]]
+![[Screen Shot 2022-06-10 at 19.46.07.png]]
+
+更多笔记使用相关说明：
+[obsidian-学习笔记 实况录制分享](https://www.zhihu.com/zvideo/1603790661077184512)
+
+[Obsidian ios上怎么与pc笔记同步?](https://www.zhihu.com/question/516299429/answer/2945564421)
+
+---
 ### 更新进度
 - 本周更新
 	- 【更新中】收录本周答主更新的文章
@@ -274,232 +495,6 @@ Sth-matters笔记目录搭建中，参考融合了茶芒同学的中图法分类
 参考中图法分类，优化层级关系，进行更细致分类。
 *见当前tag栏*
 
----
-## 相关学习资料
-### 官方合集
-
-【在线自助AI服务】素问SOOON.AI - [素问 sooon.ai Q&A](https://zhuanlan.zhihu.com/p/620744835)
-
-【文章备份】[GitHub - itrewub/jh-notes](https://link.zhihu.com/?target=https%3A//github.com/itrewub/jh-notes)
-
-【爱发电】[爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.net/a/johnhexa?tab=feed)
-
-【答集】[家族答集](https://www.zhihu.com/collection/378738313)
-
-【答集】[社科答集](https://www.zhihu.com/collection/304176992)
-
-【答集】[企管答集](https://www.zhihu.com/collection/378738376)
-
-【答集】[第一性](https://www.zhihu.com/collection/369876193)
-
-【答集】[百年未有之变局](https://www.zhihu.com/collection/787300206)
-
-【温故知新】 [答案轮播](https://www.zhihu.com/collection/810750890)
-
-【值得一读】[一条阅读轨迹](https://www.zhihu.com/collection/163594245)
-
----
-#### 素问服务相关
-[素问 - 代问服务](https://zhuanlan.zhihu.com/p/637257507)
-
----
-
-### 优秀学习资源
-
-#### 实操分享：
-
-【善哉】[善哉集](https://www.zhihu.com/collection/913519589)
-
-<<<<<<< HEAD
-【心得】[Vanora - 补强实操分享](https://www.zhihu.com/column/c_1816235037525409792)
-
-【心得】[知耻而后勇 - 把9adgq的补强理论完善了](https://zhuanlan.zhihu.com/p/721927676?utm_psn=1843151783276470272)
-
-【心得】[语素 - 以蜗牛的速度，坚定迈向爱与可持续](https://zhuanlan.zhihu.com/p/6739947264?utm_psn=1840613864137433088)
-
-
-#### 综合类：
-
-【App】[一叶心舟 - Caritas App最新版本] [一叶心舟 APP](https://www.zhihu.com/people/81-62-57-92/pins)
-
-【App】 [大卫 - Caritas App3.0]([大卫：Caritas App 3.0](https://zhuanlan.zhihu.com/p/617158917))
-
-【App】 [idealclover - Caritas APP2.0]([idealclover：Caritas APP 2.0 版本发布](https://zhuanlan.zhihu.com/p/556201282))
-
-【App】 [大卫 - Caritas App1.0]([大卫：Caritas App1.0](https://zhuanlan.zhihu.com/p/488034619))
-
-
-####  有声&视频：
-
-【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
-
-【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
-
-【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
-
-【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
-
-【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
- 
-【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
-=======
-【补强】[Vanora - 补强实操分享](https://www.zhihu.com/column/c_1816235037525409792)
->>>>>>> parent of 78b78f39e (Update)
-
-#### 文字整理：
-
-【App】[Caritas 一叶心舟](https://www.zhihu.com/people/81-62-57-92)
-
-【App】 [大卫 - Caritas 3.0](https://zhuanlan.zhihu.com/p/617158917)
-
-【App】 [idealclover - Caritas 2.0](https://zhuanlan.zhihu.com/p/556201282)
-
-【App】 [大卫 - Caritas 1.0](https://zhuanlan.zhihu.com/p/488034619)
-
-【网站】[Last Resort](https://link.zhihu.com/?target=https%3A//obhistorican.blogspot.com/)
-
-【网站】 [张慕晖 - Note Reader](https://link.zhihu.com/?target=https%3A//jh-reader.github.io/)
-
-【公众号】[鱼丸粗面 - 欢迎大家关注公众号【Karitas】](https://zhuanlan.zhihu.com/p/607481192)
-
-【词典】[六朝声 - 词典《语词的辨析与使用》](https://www.zhihu.com/pin/1731348988693958657)
-
-【分类】[茶芒 - 文章备份工作打卡贴](https://zhuanlan.zhihu.com/p/563624303)
-
-【分类】[茶芒 - 中文图书分类法](https://zhuanlan.zhihu.com/p/625684969)
-
-【分类】 [水木长情 - 使用说明书（主体完工）](https://zhuanlan.zhihu.com/p/625067241)
-
-【目录】[鱼丸粗面 - 回答目录整理](https://zhuanlan.zhihu.com/p/616482557)
-
-【目录】[林思 - 回答链接汇总](https://www.zhihu.com/pin/1622022306473066497)
-
-【Markdown笔记】 [流水浮灯 - 个人成长内容库](https://zhuanlan.zhihu.com/p/455203728)
-
-【Markdown笔记】[世外逃员 - 个人成长内容库（延续浮灯版）](https://zhuanlan.zhihu.com/p/600612487)
-
-【PDF笔记】 [林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
-
-【Word笔记】 [流水浮灯 & Nnpxg2 - 个人成长内容库](https://zhuanlan.zhihu.com/p/461954872)
-
-【Docx/PDF/EPUB/MOBI】[广场台灯 - 合集打印版](https://zhuanlan.zhihu.com/p/586168733)
-
-【Docx/PDF/EPUB/MOBI/HTML笔记】[Jeremiah - 个人成长学习手册](https://zhuanlan.zhihu.com/p/496487354)
-
-【Excel】[Estiladia - 文章专题归类&摘录](https://zhuanlan.zhihu.com/p/544145578)
-
-【摘抄】[句子摘录](https://www.zhihu.com/question/347077309/answer/2358397189)
-
-【摘抄】[用户o3665p -  我的泡椒凤爪寿司: 一位知乎答主的回答摘录（2017-2023)](https://zhuanlan.zhihu.com/p/660404554)
-
-【摘抄】[南山南山南 - Caritas海报汇总](https://zhuanlan.zhihu.com/p/600095622)
-
-【摘抄】[夫见 - 评论摘录](https://www.zhihu.com/question/52478559/answer/1874843036)
-
-【摘抄】[秦绮徽 - 比喻摘录](https://www.zhihu.com/question/20009520/answer/2126305023)
-
-【摘抄】[世外逃员 - 高频文章 - 名词科普·常识拓展](https://zhuanlan.zhihu.com/p/626408626)
-
-【一些推荐】[蹇渴  - JH文章提到的资料清单](https://zhuanlan.zhihu.com/p/545472591)
-
-【专题阅读】[pfkfu - 文章串联](https://zhuanlan.zhihu.com/p/654259861)
-
-【专题阅读】[木知 - 专题收藏夹整理](https://zhuanlan.zhihu.com/p/648830102)
-
-【专题阅读】 [鱼丸粗面 - 专题整理](https://www.zhihu.com/collection/925912729)
-
-【专题阅读】 [Richard - 专题阅读合集](https://zhuanlan.zhihu.com/p/613373131)
-
-【专题阅读】[开心 - 亲子关系：最好的陌生人](https://zhuanlan.zhihu.com/p/650628996)
-
-【专题阅读】[安之 - 财富专题汇总 ](https://zhuanlan.zhihu.com/p/664813766)
-
-【专题阅读】[安之 - 礼专题汇总](https://zhuanlan.zhihu.com/p/664744501)
-
-【专题阅读】 [烟雨行船 - 专题阅读 | COVID-19 Pandemic](https://cowtransfer.com/s/f366279e6dd647)
-
-【专题阅读】 [烟雨行船 - 专题阅读 | 亲子关系](https://zhuanlan.zhihu.com/p/563069554)
-
-【专题阅读】 [烟雨行船 - 专题阅读 | "拆弹"/"排雷”小册子](https://zhuanlan.zhihu.com/p/563034125)
-
-【专题阅读】[世外逃员 - Caritas Tips -  识“爱”修行](https://zhuanlan.zhihu.com/p/545685630)
-
-【专题研究】 [疗愈艺术 - 手绘长直线研究中心](https://www.zhihu.com/collection/821986940)
-
-【拓展阅读】 [烟雨行船 - 想法](https://www.zhihu.com/people/man-tou-zi-ji-gai/pins)
-
-【拓展阅读】[青475 - 全科学习参考资料](https://zhuanlan.zhihu.com/p/619314597)
-
-【核心能力】[夫见 - 核心能力训练合集](https://www.zhihu.com/column/c_1405957234203062272)
-
-【核心能力】 [烟雨行船 - “冬眠”不完全指南](https://zhuanlan.zhihu.com/p/523764249)
-
-【核心能力】 [烟雨行船 - Notes‘ notes](https://zhuanlan.zhihu.com/p/523762857)
-
-【核心能力】 [夫见 - 优质人生指导手册](https://zhuanlan.zhihu.com/p/502740001)
-
-【延伸阅读】 [烟雨行船 - 星星BOXES](https://zhuanlan.zhihu.com/p/523780606)
-
-【想法 & 评论区】 [夫见 - 回答摘录132条总分享](https://zhuanlan.zhihu.com/p/596667607)
-
-【想法 & 评论区】[夫见 - JH优质想法合集](https://www.zhihu.com/collection/818826046)
-
-【想法 & 评论区】[夫见 - 优质想法 & 评论收集](https://www.zhihu.com/column/c_1400888105042317313)
-
-【想法 & 评论区】[Rectangle - 想法过滤](https://www.zhihu.com/collection/855914677)
-
-【想法 & 评论区】[用户o3665p - 我的泡椒凤爪寿司：一位知乎答主的想法摘录118条](https://zhuanlan.zhihu.com/p/660393226)
-
-【想法 & 评论区】 [Triangle - 沙里淘金 - 回答及评论区长截图保存](https://zhuanlan.zhihu.com/p/600848550)
-
-【想法 & 评论区】[烟雨行船 - 有道云想法合集](https://www.zhihu.com/pin/1533386268775432192)
-
-【想法 & 评论区】 [知乎用户CkxppH - 知乎优质想法合集（2020年2月摘录）](https://zhuanlan.zhihu.com/p/407545362)
-
-
-####  有声&视频：
-
-【喜马拉雅】[南山南山南 - 有声](https://www.zhihu.com/pin/1507025870661779456)
-
-【喜马拉雅 & Podcast】[林思 - 有声](https://www.zhihu.com/pin/1539332620466360320) 
-
-【知乎】 [世外逃员 - Caritas 个人朗读视频汇总](https://zhuanlan.zhihu.com/p/627558852)
-
-【Github有声&文档】[林思 - Caritas-Learning](https://zhuanlan.zhihu.com/p/558851213)
-
-【Bilibili】[oyanyun - 视频合集](https://space.bilibili.com/1760098201)
- 
-【知乎】[桔梗 - 视频合集](https://www.zhihu.com/people/lxh-54-93/zvideos)
-
----
-
-## 安装 & 使用说明
-
-##### Step 1. 下载文件
-方法一：GitHub - Sth Matters，点击Code - Download ZIP，下载后解压缩得到文件夹一个
-
-方法二：需要追更的小伙伴建议阅读一下链接内教程，学习使用Github的克隆功能来进行文档同步。
-https://zhuanlan.zhihu.com/p/380200295
-
-##### Step 2. 自行搜索并下载Obsidian，打开后点击Setting进行基础设置：
- - Editor： Spell check
- - Core Plugins：Tag Pane, Page Preview, Starred
- - Files & Links：Automatically update internal links
- - Appearance: Theme - 建议Night Owl或者Cybertron
- - 其他设置请依个人喜好酌情处理
-
-##### Step 3. Obsidian - Open folder as Vault 
-选择解压后的文件夹，现在你看到的就是笔记内容了。
-
-![[Screen Shot 2022-06-10 at 19.46.01.png]]
-![[Screen Shot 2022-06-10 at 19.46.07.png]]
-
-更多笔记使用相关说明：
-[obsidian-学习笔记 实况录制分享](https://www.zhihu.com/zvideo/1603790661077184512)
-
-[Obsidian ios上怎么与pc笔记同步?](https://www.zhihu.com/question/516299429/answer/2945564421)
-
----
 ---
 
 ## Library
