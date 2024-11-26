@@ -1,7 +1,7 @@
 # money talks
 [不能接受别人说我的不好，一说我就会不耐烦，这是为什么？](https://www.zhihu.com/question/3795183133/answer/29333897425)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-11-12]
 > Link:
 > Category: #【答集】/01-家族答集

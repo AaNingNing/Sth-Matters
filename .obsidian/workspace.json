@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/七岁观星.md",
+                "file": "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致你们.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "七岁观星"
+              "title": "致你们"
             }
           }
         ]
@@ -73,11 +73,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "debe967820645286",
@@ -93,9 +95,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/七岁观星.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致你们.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 七岁观星"
+              "title": "Backlinks for 致你们"
             }
           },
           {
@@ -112,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -133,12 +135,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,13 +153,34 @@
   },
   "active": "62e3191ba19499f9",
   "lastOpenFiles": [
-    "【本周更新】/A VERY EDUCATED GUESS.md",
-    "待归档/比特币 4.md",
-    "待归档/无过之败.md",
-    "待归档/无道人.md",
-    "待归档/无道人.md",
     "待归档/所罗门说.md",
-    "待归档/房产税之外.md",
-    "待归档/轨道爬升.md"
+    "待归档/所罗门说.md",
+    "【本周更新】/A VERY EDUCATED GUESS.md",
+    "【本周更新】/合租卫生.md",
+    "【本周更新】/大麻烦.md",
+    "待归档/money talks.md",
+    "README.md",
+    "【本周更新】/财运+3.md",
+    "【本周更新】/老而无恨.md",
+    "【本周更新】/谁来同情.md",
+    "【本周更新】/纪律抓手.md",
+    "【本周更新】/私有不公.md",
+    "【本周更新】/神弓.md",
+    "【本周更新】/真人不语.md",
+    "【本周更新】/爱在珍珠港.md",
+    "【本周更新】/爱以介意为耻.md",
+    "【本周更新】/漫堤之日.md",
+    "【本周更新】/没影响.md",
+    "【本周更新】/水火既济.md",
+    "【本周更新】/未成年犯罪.md",
+    "【本周更新】/强电近地.md",
+    "【本周更新】/布宜诺斯艾利斯.md",
+    "【本周更新】/小上帝的前女友.md",
+    "【本周更新】/实习生.md",
+    "【本周更新】/宁不畏死.md",
+    "【本周更新】/天堂有路.md",
+    "待更新/【本周更新】",
+    "待更新",
+    "untitled folder"
   ]
 }
