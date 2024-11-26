@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7b793816d23c7d05",
+    "id": "1dc2adf8f2a22eb2",
     "type": "split",
     "children": [
       {
-        "id": "f9aa60f9699f443f",
+        "id": "cb1618dcfcc879b9",
         "type": "tabs",
         "children": [
           {
-            "id": "6f8026e5526cc55a",
+            "id": "62e3191ba19499f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "待归档/比特币 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "比特币 4"
             }
           }
         ]
@@ -27,33 +27,44 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36883a0dd890aadc",
+    "id": "2f853fe69b3f3116",
     "type": "split",
     "children": [
       {
-        "id": "27a88da1b223d6ee",
+        "id": "dedad4a52aa87962",
         "type": "tabs",
-        "dimension": 32.331730769230774,
         "children": [
           {
-            "id": "7569597966c86526",
+            "id": "3b765c59d937b6ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1eba10c9284bdced",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "366372991e7a9040",
+            "id": "ef5f7c44ec6eebba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -63,46 +74,27 @@
             }
           }
         ]
-      },
-      {
-        "id": "5cddf796add1364e",
-        "type": "tabs",
-        "dimension": 67.66826923076923,
-        "children": [
-          {
-            "id": "4879eced09a10136",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byModifiedTime"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 300
   },
   "right": {
-    "id": "667d5636990656b4",
+    "id": "debe967820645286",
     "type": "split",
     "children": [
       {
-        "id": "10b03dbeeae1a19d",
+        "id": "c19ff72d00a2eabb",
         "type": "tabs",
         "children": [
           {
-            "id": "844e37cd2e641078",
+            "id": "c3ae2f1ea9b5c49a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/核心能力/核心能力 - 房屋布局表述1.md",
-                "collapseAll": true,
+                "file": "待归档/比特币 4.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -111,16 +103,16 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 核心能力 - 房屋布局表述1"
+              "title": "Backlinks for 比特币 4"
             }
           },
           {
-            "id": "727ef7e1831ef234",
+            "id": "55f035b582ef7553",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -128,7 +120,7 @@
             }
           },
           {
-            "id": "bf225de6acac63ea",
+            "id": "e1d81c3f5c2852a5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,12 +133,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,54 +149,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "62e3191ba19499f9",
   "lastOpenFiles": [
-    "【本周更新】/老而无恨.md",
-    "【本周更新】/七岁观星.md",
-    "【本周更新】/未成年犯罪.md",
-    "【本周更新】/神弓.md",
-    "【本周更新】/水火既济.md",
-    "【本周更新】/纪律抓手.md",
-    "【本周更新】/合租卫生.md",
-    "【本周更新】/宁不畏死.md",
-    "【本周更新】/代客举手.md",
-    "【本周更新】/财运+3.md",
-    "待归档/money talks.md",
-    "md/2024-11-23湖北武汉一 14 岁男生被母亲打耳光后跳楼坠亡，事前因玩扑克被请家长，学校和家庭教育应该如何反思？.md",
-    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/三面围堵.md",
-    "md/2024-11-20我也有讨厌的人，但是我不能去恨或是报复他们，我就算痛快也会有难过，所以应该如何对待伤害我们的人？.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/补强原则/对待讨厌的人.md",
-    "md/2024-11-18茶颜悦色疑薪资内乱，员工抱怨月薪 3000 元，高管在全员群内争论，200 多员工退群，真实情况如何？.md",
-    "【文章目录】/【4 - 应用科学】/490 - 商学/493 - 商业实践/企业幼稚病.md",
-    "待归档/看不见的喷火龙.md",
-    "md/2024-11-18女朋友是跳拉丁舞的，跳双人舞时会有身体接触，作为男友我感觉有点吃醋怎么办？.md",
-    "【文章目录】/【8 - 语言文学类】/810 - 文学总论/悲剧.md",
-    "md/2024-11-17看悲剧作品时的心理痛苦有可能减轻吗？应该以怎样的态度去欣赏悲剧？.md",
-    "md/2024-11-16财务自由、校服到婚纱，有一对双胞胎，但老婆还是出轨了，我要疯了，该怎么办？.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论分手/不耻第一.md",
-    "md/2024-11-15京东无锡物流园起火被烧，可能损失十几亿货物，目前情况如何？.md",
-    "md/2024-11-15马斯克表示「政府效率部」将在网上公布所有行动，会设「最蠢支出」排行榜，如何看待此事？有何影响？.md",
-    "待归档/纯粹感性批判.md",
-    "md",
-    "Untitled.canvas",
-    "md/Nel",
-    "爱的原理",
-    "md/N",
-    "md/Nell",
-    "md/N",
-    "【文章目录】/【2 - 信仰类】/神学评论区",
-    "爱发电/南斗集",
-    "爱发电",
-    "爱发电/会员专享",
-    "转载授权/1-鼓励利用我的内容盈利.jpeg",
-    "转载授权/2-授权条款更新.png",
-    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
-    "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.21.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.27.png"
+    "待归档/无过之败.md",
+    "待归档/无道人.md",
+    "待归档/无道人.md",
+    "待归档/所罗门说.md",
+    "待归档/房产税之外.md",
+    "待归档/轨道爬升.md"
   ]
 }
