@@ -1,7 +1,7 @@
 # ai创新
 [AI 能不能做出真正意义的创新？](https://www.zhihu.com/question/814165911/answer/11529564516)
 
-> Author: #0-Anonymity
+> Author: #Anonymity
 > Last update: [编辑于 2024-10-22]
 > Link:
 > Category: #【答集】/05-科学答集 #【答集】/14-人与智能 
