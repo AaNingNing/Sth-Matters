@@ -11,10 +11,14 @@
             "id": "545eaaae849442ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/193 - 家庭伦理/家庭伦理/翻车 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "翻车 2"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "“可能的最好的教导”并不是“完美的教导”，但却已经是不会再提供任何借口的教导。",
+                "query": "file: 2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,8 +150,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3b765c59d937b6ed",
+  "active": "545eaaae849442ec",
   "lastOpenFiles": [
+    "沙海拾金/文章相关讨论/评论区_ChatGPT 2.md",
+    "【文章目录】/【10 - 专题类】/新冠Covid/骑自行车的人 2.md",
+    "【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学/中西哲学 2.md",
+    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
+    "_附件/Screenshot 2023-11-09 at 18.33.35.png",
+    "_附件/Screenshot 2022-12-02 at 11.01.55 2.png",
+    "_附件/Screenshot 2023-11-09 at 18.31.29 2.png",
+    "_附件/Screenshot 2023-11-09 at 18.33.35 2.png",
+    "转载授权/1-鼓励利用我的内容盈利.jpeg",
+    "【文章目录】/【5 - 社会科学】/540 - 社会学/547 - 社会工作 & 社会福利/RUN 2.md",
+    "转载授权/1-鼓励利用我的内容盈利 2.jpeg",
+    "转载授权/2-授权条款更新.png",
+    "转载授权/2-授权条款更新 2.png",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/飞机/C919 2.md",
+    "【文章目录】/【4 - 应用科学】/470 - 制造/3D打印 2.md",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/飞机/C919 1.md",
+    "【文章目录】/【10 - 专题类】/人工智能AI/ChatGPT 2.md",
+    "【文章目录】/【8 - 语言文学类】/800 - 语言学总论/Aaron 2.md",
     "摘抄本/句子摘录.md",
     "待归档/老而无恨.md",
     "【本周更新】/从不休假.md",
@@ -164,15 +187,6 @@
     "待归档/祝融游戏 1.md",
     "待归档/真人不语.md",
     "待归档/真人不语 1.md",
-    "待归档/白加黑.md",
-    "待归档/白加黑 1.md",
-    "待归档/爱在珍珠港.md",
-    "待归档/爱在珍珠港 1.md",
-    "待归档/爱以介意为耻.md",
-    "待归档/爱以介意为耻 1.md",
-    "待归档/漫堤之日.md",
-    "待归档/漫堤之日 1.md",
-    "待归档/没影响.md",
     "md/N",
     "待更新/【本周更新】",
     "待更新",
