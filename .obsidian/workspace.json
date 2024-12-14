@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘抄本/句子摘录.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "句子摘录"
+              "title": "README"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,8 +149,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1eba10c9284bdced",
+  "active": "3b765c59d937b6ed",
   "lastOpenFiles": [
+    "README 2.md",
+    "README.md",
+    "摘抄本/句子摘录.md",
     "【本周更新】/春潮前夜.md",
     "待归档/主导秩序.md",
     "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/财富/泰坦尼克.md",
@@ -176,9 +178,6 @@
     "待归档/末法横生.md",
     "待归档/特训.md",
     "待归档/眼睛看哪里.md",
-    "待归档/稳定经济.md",
-    "摘抄本/句子摘录.md",
-    "摘抄本/比喻摘录.md",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
     "_附件/Screenshot 2023-11-09 at 18.33.35.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55 2.png",
