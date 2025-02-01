@@ -3,7 +3,7 @@
 
 > Author: #Anonymity
 > Last update: [编辑于 2023-09-20]
-> Link: [[SOP]]
+> Link: [[SOP 1]]
 > Category: #【答集】/02-企管答集
 > Tag: #4-职业发展/4-管理者素质
 > 评论区:
