@@ -1,3 +1,4 @@
+# SU7 Ultra
 [网传有小米SU7 Ultra车主公共道路飙到300km/h ，大家怎么看道路安全驾驶？](https://www.zhihu.com/question/14290267358/answer/119518300032)
 
 > Author: #Anonymity
